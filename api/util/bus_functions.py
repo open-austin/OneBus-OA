@@ -71,7 +71,7 @@ def all_stop_finder(origin_stops, all_unique_stops):
     # initialize subsequent stops dataframe
     subsequent_stops = pd.DataFrame()
 
-    for index,row in origin_stops.iterrows():
+    for _, row in origin_stops.iterrows():
         # take the stop name and the stop sequence in order to find out which are the subsequent stops
         current_sequence = row['stop_sequence']
         headsign = row['trip_headsign']

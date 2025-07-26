@@ -1,5 +1,5 @@
 from django.apps import AppConfig
-from .data_loader import read_gcs_csv
+from .util.data_loader import read_gcs_csv
 
 # TODO: Turn this into a class with a clear contract
 data = None

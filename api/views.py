@@ -3,11 +3,8 @@ from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 
 from api.apps import get_data
-from api.bus_models import three_stops_finder, all_stop_finder
-from api.poi_models import poi_getter
-
-# TODO: Figure out how to refactor into different directories without hitting this error:
-# ImportError: attempted relative import beyond top-level package
+from api.util.bus_functions import three_stops_finder, all_stop_finder
+from api.util.poi_functions import poi_getter
 
 @csrf_exempt # Disable CSRF verification. Since we're not dealing with users or authentication yet, this should be safe.
 def determine_stops_and_pois(request):

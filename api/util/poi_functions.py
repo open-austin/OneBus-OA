@@ -4,7 +4,7 @@ from shapely.geometry import Point
 import math
 import geopandas as gpd
 from shapely import wkt
-from api.formulas import haversine
+from api.util.formulas import haversine
 
 # Define a function to convert each polygon to its centroid point
 def get_centroid(geom):
@@ -14,7 +14,7 @@ def get_centroid(geom):
 def poi_getter(filtered_pois_df, possible_locations):
 
     '''
-    Gets specific list of POIs that are within walking distance of the bus stops and produces a map.html image that user can interact with
+    Gets specific list of POIs that are within walking distance of the bus stops and produces a dataframe of POIs that user can go to
     Uses a pre downloaded POI list loaded from GCS
     
     If there are overlapping POIs, algorithm will select whichever is closest to the bus stop
@@ -25,9 +25,6 @@ def poi_getter(filtered_pois_df, possible_locations):
 
     Returns:
         - combined_poi: dataframe of all POIs that user can go to 
-
-    Notes:
-        - folium icon list: https://fontawesome.com/v4/icons/
     '''
     
     # Step 1: Add a geometry column to the bus stop DataFrame
@@ -91,4 +88,3 @@ def poi_getter(filtered_pois_df, possible_locations):
     combined_poi = combined_poi.drop_duplicates(subset=['geometry'], keep='first')
     
     return combined_poi
-
