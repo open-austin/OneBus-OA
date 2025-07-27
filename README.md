@@ -117,7 +117,14 @@ You'll need to have [Python 3](https://www.python.org/downloads/) installed.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Sample API Request (running locally):
+```
+POST http://127.0.0.1:8000/api/
+{
+  "latitude": "30.31431458225797",
+  "longitude": "-97.73587186057428123"
+}
+```
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
