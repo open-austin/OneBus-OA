@@ -8,14 +8,26 @@ from api.util.poi_functions import poi_getter
 
 @csrf_exempt # Disable CSRF verification. Since we're not dealing with users or authentication yet, this should be safe.
 def determine_stops_and_pois(request):
+    """
+    Endpoint to determine the closest bus stops and points of interest (POI) based on user's location.
+    Expects a POST request with JSON body containing latitude and longitude.
+    Returns a JSON response with the closest bus stops and POIs.
+
+    Sample request body:
+    {
+	    "latitude": "30.31431458225797",
+        "longitude": "-97.73587186057428123"
+    }
+    """
+
     if request.method != 'POST':
-        return JsonResponse({'error': 'HTTP method not supported.'}, status=400)
+        return JsonResponse({'error': 'HTTP method not supported.'}, status=405)
     
     # Get and validate the latitude and longitude values from the request
     try:
-        data = json.loads(request.body.decode('utf-8'))
-        latitude_input = data.get('latitude')
-        longitude_input = data.get('longitude')
+        input_body = json.loads(request.body.decode('utf-8'))
+        latitude_input = input_body.get('latitude')
+        longitude_input = input_body.get('longitude')
     except json.JSONDecodeError as e:
         print(f"JSON decoding error: {e}")
         return JsonResponse({'error': f'Invalid JSON data'}, status=400)
@@ -30,16 +42,16 @@ def determine_stops_and_pois(request):
         print(f"Coordinate conversion error: {e}")
         return JsonResponse({'error': f'Latitude and longitude must be valid numbers'}, status=400)
     
-    data = get_data()
+    data_holder = get_data()
 
     # Get three closest bus stops with user location
-    three_stops_df = three_stops_finder(data['all_unique_stops_df'], latitude, longitude)
+    three_stops_df = three_stops_finder(data_holder.all_unique_stops_df, latitude, longitude)
     
     # Get all possible stops from origin stops
-    all_stops = all_stop_finder(three_stops_df, data['all_unique_stops_df'])
+    all_stops = all_stop_finder(three_stops_df, data_holder.all_unique_stops_df)
 
     # Get all possible POI from all stops
-    poi_df = poi_getter(data['filtered_poi_df'], all_stops)
+    poi_df = poi_getter(data_holder.filtered_poi_df, all_stops)
 
     # Format the response
     response = {

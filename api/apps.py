@@ -1,16 +1,18 @@
 from django.apps import AppConfig
+
+from api.util.data_holder_class import DataHolder
 from .util.data_loader import read_gcs_csv
 
-# TODO: Turn this into a class with a clear contract
-data = None
+data_holder = None
 
 class ApiConfig(AppConfig):
     name = 'api'
+    # Load the bus stop and poi data when the app starts up
     def ready(self):
         load_data()
 
 def load_data():
-    print("Loading data...")
+    print("Loading data from GCS")
     # First load the raw data
     stops_df = read_gcs_csv('stops.csv')
     trips_df = read_gcs_csv('e_trips.csv')
@@ -70,16 +72,12 @@ def load_data():
 })[['amenity', 'name', 'geometry', 'icon', 'color']]  # Only necessary columns
     
     # Store optimized DataFrames in global data variable
-    global data
-    data = {
-        'stops_df': stops_df,
-        'trips_df': trips_df,
-        'stop_times_df': stop_times_df,
-        'filtered_poi_df': filtered_poi_df,
-        'all_unique_stops_df': all_unique_stops_df
-    }
+    global data_holder
+    data_holder = DataHolder(stops_df, trips_df, stop_times_df, filtered_poi_df, all_unique_stops_df)
+
+    print("Data loaded successfully")
 
 def get_data():
-  if data is None:
+  if data_holder is None:
       raise Exception("Data not loaded")
-  return data
+  return data_holder
