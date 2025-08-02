@@ -1,5 +1,5 @@
 import json
-from django.http import JsonResponse
+from django.http import JsonResponse, HttpResponse
 from django.views.decorators.csrf import csrf_exempt
 
 from api.apps import get_data
@@ -19,6 +19,11 @@ def determine_stops_and_pois(request):
         "longitude": "-97.73587186057428123"
     }
     """
+    if request.method == 'OPTIONS':
+        response = HttpResponse()
+        response['Allow'] = 'POST,OPTIONS'
+        add_cors_headers(response)
+        return response
 
     if request.method != 'POST':
         return JsonResponse({'error': 'HTTP method not supported.'}, status=405)
@@ -81,4 +86,16 @@ def determine_stops_and_pois(request):
         }
         response['pois'].append(poi)
 
-    return JsonResponse(response)
+    jsonResponse = JsonResponse(response)
+    add_cors_headers(jsonResponse)
+
+    return jsonResponse
+
+def add_cors_headers(response):
+    """
+    Helper function to set CORS headers for the response.
+    """
+    response['Access-Control-Allow-Origin'] = '*'
+    response['Access-Control-Allow-Methods'] = 'POST,OPTIONS'
+    response['Access-Control-Allow-Headers'] = 'Content-Type'
+    response['Access-Control-Allow-Credentials'] = 'false'
