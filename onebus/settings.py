@@ -38,10 +38,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'api.apps.ApiConfig',
+    # 'corsheaders',
 
 ]
 
 MIDDLEWARE = [
+    # 'corsheaders.middleware.CorsMiddleware', 
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -50,7 +52,9 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
-# CORS_ALLOW_ALL_ORIGINS = True
+
+CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOW_CREDENTIALS = True
 
 ROOT_URLCONF = 'onebus.urls'
 
@@ -126,5 +130,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # For development - add these to ALLOWED_HOSTS
 ALLOWED_HOSTS = [
-    'onebus-oa.onrender.com'
+    'localhost',
+    '127.0.0.1',
+    '10.0.2.2',  # Add this for Android emulator
+    '0.0.0.0',   # Optional: for all hosts
 ]
