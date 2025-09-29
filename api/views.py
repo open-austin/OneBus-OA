@@ -81,6 +81,7 @@ def determine_stops_and_pois(request):
             'route_id': row['route_id'],
             'name': row['name'],
             'amenity': row['amenity'],
+            'amenity_category': row['amenity_category'],
             'icon': row['icon'],
             'color': row['color'],
         }
