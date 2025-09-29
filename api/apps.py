@@ -65,11 +65,12 @@ def load_data():
     
     filtered_poi_df = filtered_poi_df.astype({
     'amenity': 'string',
+    'amenity_category': 'string',
     'name': 'string',
     'geometry': 'string',  # Will parse to POINT later
     'icon': 'string',
     'color': 'string'
-})[['amenity', 'name', 'geometry', 'icon', 'color']]  # Only necessary columns
+})[['amenity','amenity_category', 'name', 'geometry', 'icon', 'color']]  # Only necessary columns
     
     # Store optimized DataFrames in global data variable
     global data_holder
