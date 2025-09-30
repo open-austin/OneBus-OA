@@ -19,7 +19,8 @@ def three_stops_finder(all_unique_stops, user_latitude, user_longitude):
     Returns:
     origin_stops: Dataframe of the 3 closest bus stops and all corresponding bus stops 
     '''
-
+ 
+    
     # Calculate distances for each bus stop
     all_unique_stops['distance'] = all_unique_stops.apply(lambda row: haversine(user_latitude, user_longitude, row['stop_lat'], row['stop_lon']), axis=1)
 
