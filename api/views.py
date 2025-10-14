@@ -56,7 +56,7 @@ def determine_stops_and_pois(request):
     all_stops = all_stop_finder(three_stops_df, data_holder.all_unique_stops_df)
 
     # Get all possible POI from all stops
-    poi_df = poi_getter(data_holder.filtered_poi_df, all_stops)
+    poi_df = poi_getter(latitude, longitude, data_holder.filtered_poi_df, all_stops)
 
     # Format the response
     response = {
