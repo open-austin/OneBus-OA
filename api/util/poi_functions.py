@@ -11,7 +11,7 @@ def get_centroid(geom):
     return Point(geom.centroid)
 
 
-def poi_getter(filtered_pois_df, possible_locations):
+def poi_getter(user_latitude, user_longitude, filtered_pois_df, possible_locations):
 
     '''
     Gets specific list of POIs that are within walking distance of the bus stops and produces a dataframe of POIs that user can go to
@@ -86,5 +86,22 @@ def poi_getter(filtered_pois_df, possible_locations):
 
     # Drop duplicates, keeping the closest POI per geometry
     combined_poi = combined_poi.drop_duplicates(subset=['geometry'], keep='first')
+
+    # Apply threshold distance filter
+
+    # Calculate distance from user to each POI
+    combined_poi['distance_from_user'] = combined_poi.apply(
+        lambda row: haversine(
+            row.geometry.x, row.geometry.y,  # POI coordinates (lon, lat)
+            user_longitude, user_latitude  # User's coordinates
+        ),
+        axis=1
+    )
+
+    # Drop POIs that are less than 500m from the user since that is walking distance
+    combined_poi = combined_poi[(combined_poi['distance_from_user'] > 500)]
+    
+    # TODO: Consider adding a max distance threshold as well. We'd also want to similarly filter
+    # bus stops to avoid showing a map with far away stops and no POIs nearby.
     
     return combined_poi
