@@ -9,7 +9,9 @@ from api.util.formulas import haversine
 
 def three_stops_finder(all_unique_stops, user_latitude, user_longitude):
     '''
-    Find the closest 3 bus stops and their corresponding bus numbers (note a bus stop can have more than 1 bus going through it!)
+    Find the closest 5 bus stops and their corresponding bus numbers (note a bus stop can have more than 1 bus going through it!)
+    Since some bus stops might be in the next sequence, this function will only return the bus stop that is the closest
+    and provides unique bus lines going through it
 
     Arguments: 
     all_unique_stops: all unique routes from the GTFS data
@@ -22,29 +24,27 @@ def three_stops_finder(all_unique_stops, user_latitude, user_longitude):
  
     
     # Calculate distances for each bus stop
-    all_unique_stops['distance'] = all_unique_stops.apply(lambda row: haversine(user_latitude, user_longitude, row['stop_lat'], row['stop_lon']), axis=1)
+    all_unique_stops['distance'] = all_unique_stops.apply(
+        lambda row: haversine(user_latitude, user_longitude, row['stop_lat'], row['stop_lon']), 
+        axis=1
+    )
 
-    # Sort bus stops by distance and get the closest stops
-    closest_stops = all_unique_stops.nsmallest(3, 'distance')[[ 'stop_name', 'stop_lat', 'stop_lon', 'distance']]
+    # Get 5 closest unique stops in one operation
+    closest_stops = (all_unique_stops
+        .sort_values(['distance', 'direction_id'])  # Sort by distance then direction
+        .drop_duplicates('stop_name', keep='first')  # Keep closest of each stop name
+        .head(5)  # Take top 5 closest unique stops
+        [['stop_name', 'stop_lat', 'stop_lon', 'distance']]
+    )
 
-    # Sort by distance (ascending) to prioritize closer stops
-    sorted_stops = all_unique_stops.sort_values('distance')
-
-    # Drop duplicates, keeping the first (closest) occurrence of each stop_name
-    unique_sorted_stops = sorted_stops.drop_duplicates(subset=['stop_name'], keep='first')
-
-    # Take the top 3 closest unique stops
-    closest_stops = unique_sorted_stops.head(3)[['stop_name', 'stop_lat', 'stop_lon', 'distance']]
-
-    # select the 3 closest bus stops
-    origin_stops = all_unique_stops[all_unique_stops['stop_name'].isin(closest_stops['stop_name'])]
-
-    origin_stops = origin_stops.sort_values(by='route_id')
-    origin_stops['distance'] = (np.ceil(origin_stops['distance']*100 ) * 10).astype(int)
-    origin_stops = origin_stops.rename(columns={'distance': 'distance (m)'})
-
-    # tag the closest stops to be origin stops
-    origin_stops['origin stop'] = True 
+    # Filter and process origin stops
+    origin_stops = (all_unique_stops[
+        all_unique_stops['stop_name'].isin(closest_stops['stop_name'])
+    ]
+    .sort_values('route_id')  # Sort by route_id
+    .assign(**{'distance (m)': lambda x: np.ceil(x['distance']).astype(int)})  # Rename and process distance
+    .loc[lambda x: x.groupby('route_id')['distance (m)'].idxmin()]  # Keep closest stop per route
+    )
 
     # TODO: Add a check here to enforce a maximum distance from the user's location to the origin stops. Maybe something like 10 miles?
     # That would effectively filter out users who aren't even close to Austin.
