@@ -7,7 +7,7 @@ from api.util.formulas import haversine
 
 
 
-def three_stops_finder(all_unique_stops, user_latitude, user_longitude):
+def closest_stops_finder(all_unique_stops, user_latitude, user_longitude):
     '''
     Find the closest 5 bus stops and their corresponding bus numbers (note a bus stop can have more than 1 bus going through it!)
     Since some bus stops might be in the next sequence, this function will only return the bus stop that is the closest
