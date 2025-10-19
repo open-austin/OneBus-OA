@@ -33,7 +33,7 @@ def closest_stops_finder(all_unique_stops, user_latitude, user_longitude):
     closest_stops = (all_unique_stops
         .sort_values(['distance', 'direction_id'])  # Sort by distance then direction
         .drop_duplicates('stop_name', keep='first')  # Keep closest of each stop name
-        .head(5)  # Take top 5 closest unique stops
+        .head(3)  # Take top 5 closest unique stops
         [['stop_name', 'stop_lat', 'stop_lon', 'distance']]
     )
 
