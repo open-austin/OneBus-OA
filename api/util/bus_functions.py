@@ -32,8 +32,13 @@ def closest_stops_finder(all_unique_stops, user_latitude, user_longitude):
     # Get 5 closest unique stops in one operation
     closest_stops = (all_unique_stops
         .sort_values(['distance', 'direction_id'])  # Sort by distance then direction
+<<<<<<< Updated upstream
         .drop_duplicates('stop_name', keep='first')  # Keep closest of each stop name
         .head(3)  # Take top 5 closest unique stops
+=======
+        .drop_duplicates(['stop_name'], keep='first')  # Keep closest of each stop name
+        .head(10)  # Take top 5 closest unique stops
+>>>>>>> Stashed changes
         [['stop_name', 'stop_lat', 'stop_lon', 'distance']]
     )
 
@@ -43,7 +48,11 @@ def closest_stops_finder(all_unique_stops, user_latitude, user_longitude):
     ]
     .sort_values('route_id')  # Sort by route_id
     .assign(**{'distance (m)': lambda x: np.ceil(x['distance']).astype(int)})  # Rename and process distance
+<<<<<<< Updated upstream
     .loc[lambda x: x.groupby('route_id')['distance (m)'].idxmin()]  # Keep closest stop per route
+=======
+    .loc[lambda x: x.groupby(['route_id','direction_id'])['distance (m)'].idxmin()]  # Keep closest stop per route
+>>>>>>> Stashed changes
     )
 
     # TODO: Add a check here to enforce a maximum distance from the user's location to the origin stops. Maybe something like 10 miles?
