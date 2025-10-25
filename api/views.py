@@ -3,7 +3,7 @@ from django.http import JsonResponse, HttpResponse
 from django.views.decorators.csrf import csrf_exempt
 
 from api.apps import get_data
-from api.util.bus_functions import three_stops_finder, all_stop_finder
+from api.util.bus_functions import closest_stops_finder, all_stop_finder
 from api.util.poi_functions import poi_getter
 
 @csrf_exempt # Disable CSRF verification. Since we're not dealing with users or authentication yet, this should be safe.
@@ -50,7 +50,7 @@ def determine_stops_and_pois(request):
     data_holder = get_data()
 
     # Get three closest bus stops with user location
-    three_stops_df = three_stops_finder(data_holder.all_unique_stops_df, latitude, longitude)
+    three_stops_df = closest_stops_finder(data_holder.all_unique_stops_df, latitude, longitude)
     
     # Get all possible stops from origin stops
     all_stops = all_stop_finder(three_stops_df, data_holder.all_unique_stops_df)
