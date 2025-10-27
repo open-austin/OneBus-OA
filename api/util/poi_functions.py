@@ -97,7 +97,17 @@ def poi_getter(user_latitude, user_longitude, filtered_pois_df, possible_locatio
         ),
         axis=1
     )
+    origin_stops = possible_locations[possible_locations['origin_stop'] == True]
 
+    # Create a mapping dictionary of origin stops and their trip desqience
+    origin_stop_seq_dict = origin_stops.set_index(['trip_headsign'])['stop_sequence'].to_dict()
+
+    # Apply to main DataFrame
+    combined_poi['origin_stop_sequence'] = combined_poi['trip_headsign'].map(origin_stop_seq_dict)
+    
+    # calculate POI number of stops away
+    combined_poi['num_stops_away'] = abs(combined_poi['origin_stop_sequence'] - combined_poi['stop_sequence'])
+    
     # Drop POIs that are less than 500m from the user since that is walking distance
     combined_poi = combined_poi[(combined_poi['distance_from_user'] > 500)]
     

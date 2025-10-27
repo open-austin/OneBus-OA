@@ -81,6 +81,7 @@ def determine_stops_and_pois(request):
             "map_url": f"https://www.google.com/maps/search/?api=1&query={row.geometry.y}%2C{row.geometry.x}",
             'stop_name': row['stop_name'],
             'route_id': row['route_id'],
+            'num_stops_away': row['num_stops_away'],
             'name': row['name'],
             'amenity': row['amenity'],
             'amenity_category': row['amenity_category'],
