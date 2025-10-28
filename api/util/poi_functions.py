@@ -81,13 +81,6 @@ def poi_getter(user_latitude, user_longitude, filtered_pois_df, possible_locatio
         axis=1
     )
 
-    # Sort by distance (ascending) to prioritize shortest distances
-    combined_poi = combined_poi.sort_values('distance')
-
-    # Drop duplicates, keeping the closest POI per geometry
-    combined_poi = combined_poi.drop_duplicates(subset=['geometry'], keep='first')
-
-    # Apply threshold distance filter
 
     # Calculate distance from user to each POI
     combined_poi['distance_from_user'] = combined_poi.apply(
@@ -109,7 +102,12 @@ def poi_getter(user_latitude, user_longitude, filtered_pois_df, possible_locatio
     combined_poi['num_stops_away'] = abs(combined_poi['origin_stop_sequence'] - combined_poi['stop_sequence'])
     
     # Drop POIs that are less than 500m from the user since that is walking distance
-    combined_poi = combined_poi[(combined_poi['distance_from_user'] > 500)]
+    
+    # Drop duplicates, keeping the closest POI per geometry
+    # Sort by distance (ascending) to prioritize shortest distances
+    combined_poi = combined_poi.sort_values(['num_stops_away', 'distance'], ascending=[True, True])
+    combined_poi = combined_poi.drop_duplicates(subset=['geometry'], keep='first')
+    combined_poi = combined_poi[(combined_poi['num_stops_away'] > 0)]
     
     # TODO: Consider adding a max distance threshold as well. We'd also want to similarly filter
     # bus stops to avoid showing a map with far away stops and no POIs nearby.
