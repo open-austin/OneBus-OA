@@ -69,6 +69,7 @@ def determine_stops_and_pois(request):
             'longitude': row['stop_lon'],
             'stop_name': row['stop_name'],
             'headsign': row['trip_headsign'],
+            'origin_stop': row['origin_stop']
         }
 
         response['stops'].append(stop)
