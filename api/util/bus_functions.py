@@ -46,6 +46,9 @@ def closest_stops_finder(all_unique_stops, user_latitude, user_longitude):
     .loc[lambda x: x.groupby(['route_id','direction_id'])['distance (m)'].idxmin()]  # Keep closest stop per route
     )
 
+    # set True to all stops gathered here for origin stops
+    
+    origin_stops['origin_stop'] = True
     # TODO: Add a check here to enforce a maximum distance from the user's location to the origin stops. Maybe something like 10 miles?
     # That would effectively filter out users who aren't even close to Austin.
     
@@ -64,6 +67,7 @@ def all_stop_finder(origin_stops, all_unique_stops):
     '''
     # initialize subsequent stops dataframe
     subsequent_stops = pd.DataFrame()
+    
 
     for _, row in origin_stops.iterrows():
         # take the stop name and the stop sequence in order to find out which are the subsequent stops
@@ -73,7 +77,7 @@ def all_stop_finder(origin_stops, all_unique_stops):
         
         subsequent_stops = pd.concat([subsequent_stops,subsequent_stops_add])
         
-    subsequent_stops['origin stop'] = False
+    subsequent_stops['origin_stop'] = False
     
     all_possible_stops = pd.concat([origin_stops,subsequent_stops])
     
