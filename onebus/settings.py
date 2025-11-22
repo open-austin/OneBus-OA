@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-gv^8j5z!506-r(6m$%_@em-lw!t@$*gl2kbzny=@$nu-zc!)6e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'onebus.us-east-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'onebus.us-east-2.elasticbeanstalk.com','onebus-oa.onrender.com']
 
 
 # Application definition
@@ -128,10 +128,3 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# For development - add these to ALLOWED_HOSTS
-ALLOWED_HOSTS = [
-    'localhost',
-    '127.0.0.1',
-    '10.0.2.2',  # Add this for Android emulator
-    '0.0.0.0',   # Optional: for all hosts
-]
