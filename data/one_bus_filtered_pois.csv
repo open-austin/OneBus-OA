@@ -1,0 +1,1996 @@
+amenity,amenity_category,name,geometry,icon,color
+restaurant,Food Services,Super Burrito,POINT (-97.75270603052614 30.269497787495215),cutlery,green
+restaurant,Food Services,The Garden,POINT (-97.785977 30.2407),cutlery,green
+marketplace,Commercial,Sustainable Food Center Farmers' Market,POINT (-97.7471061 30.2672548),shopping-cart,green
+bar,Food Services,Kung Fu Saloon,POINT (-97.7503681 30.2703425),beer,green
+restaurant,Food Services,Discada,POINT (-97.7245889 30.2687467),cutlery,green
+cafe,Food Services,Barrett's Coffee,POINT (-97.717491 30.338992),coffee,green
+place_of_worship,Community Services,Metropolitan Community Church of Austin,POINT (-97.7977573 30.176552),institution,orange
+restaurant,Food Services,Julio's Cafe,POINT (-97.7264373 30.3045094),cutlery,green
+social_centre,Community Services,M. W. St. Joseph Grand Lodge of Texas,POINT (-97.72981056921361 30.26917439904546),institution,orange
+bar,Food Services,Rio Rita,POINT (-97.7200663 30.2749573),beer,green
+events_venue,Recreation,The Riley Building,POINT (-97.74581665361431 30.266539639594036),institution,orange
+bar,Food Services,Corner Bar,POINT (-97.76688085308999 30.249441633093042),beer,green
+restaurant,Food Services,Kerbey Lane Cafe,POINT (-97.74152178504792 30.291207968232804),cutlery,green
+restaurant,Food Services,Pizzeria Sportiva,POINT (-97.7642917 30.2525199),cutlery,green
+restaurant,Food Services,It's Italian Cucina,POINT (-97.7642578 30.2525756),cutlery,green
+restaurant,Food Services,Corazon,POINT (-97.7563315 30.2708184),cutlery,green
+restaurant,Food Services,Bob's Steak & Chop House,POINT (-97.74592116386167 30.26609214593997),cutlery,green
+restaurant,Food Services,DeSano Pizzeria Napoletana,POINT (-97.74585850788301 30.266252420768172),cutlery,green
+restaurant,Food Services,Luminaire,POINT (-97.7419028 30.2697418),cutlery,green
+restaurant,Food Services,P. Thai's Khao Man Gai & Noodles,POINT (-97.7153228762594 30.308743811792596),cutlery,green
+cafe,Food Services,Bennu Coffee Shop,POINT (-97.7462026 30.2561056),coffee,green
+restaurant,Food Services,Happy Chicks,POINT (-97.73868938548206 30.33998357351602),cutlery,green
+cafe,Food Services,Buzz Mill,POINT (-97.72948360174706 30.264838387178358),coffee,green
+restaurant,Food Services,Franklin Barbecue,POINT (-97.7312718004436 30.270167320150023),cutlery,green
+restaurant,Food Services,Taqueria Chapala,POINT (-97.85534627548573 30.235839255588512),cutlery,green
+bar,Food Services,Pop,POINT (-97.74925728446595 30.270170844569904),beer,green
+restaurant,Food Services,East Side Pies,POINT (-97.72408225759439 30.26878570508516),cutlery,green
+bar,Food Services,Weather Up,POINT (-97.72497922031324 30.25743142539325),beer,green
+place_of_worship,Community Services,Rosewood Avenue Baptist Church,POINT (-97.71926703873315 30.269953545610804),institution,orange
+restaurant,Food Services,Via 313 Pizza,POINT (-97.7414335 30.2978688),cutlery,green
+restaurant,Food Services,Gusto Italian Kitchen,POINT (-97.7399664 30.3183417),cutlery,green
+restaurant,Food Services,Galloway's Sandwich Shop,POINT (-97.7193957 30.2739607),cutlery,green
+restaurant,Food Services,Brunch Bird,POINT (-97.729491 30.2647921),cutlery,green
+restaurant,Food Services,Jason's Deli,POINT (-97.7213595 30.3010767),cutlery,green
+restaurant,Food Services,Roppolo's Pizzeria,POINT (-97.74154547657803 30.29099378131606),cutlery,green
+restaurant,Food Services,Fabrik Austin,POINT (-97.7229995 30.27929),cutlery,green
+bar,Food Services,Play on West 6th,POINT (-97.74916866452024 30.270144592972038),beer,green
+bar,Food Services,Las Bis,POINT (-97.741756 30.2697049),beer,green
+bar,Food Services,Rain on 4th,POINT (-97.74565862716786 30.26653799566393),beer,green
+bar,Food Services,Cactus Cafe,POINT (-97.7413275 30.2861309),beer,green
+bar,Food Services,J Blacks,POINT (-97.7502191 30.2703034),beer,green
+pub,Food Services,Draught House Pub & Brewery,POINT (-97.7428611 30.3110713),beer,green
+restaurant,Food Services,24 Diner,POINT (-97.7541298 30.2720726),cutlery,green
+bar,Food Services,Postino,POINT (-97.7625395 30.253797),beer,green
+restaurant,Food Services,RPM Counter,POINT (-97.6941288 30.2674245),cutlery,green
+restaurant,Food Services,Tacos Las Amazonas,POINT (-97.7924076 30.1839341),cutlery,green
+restaurant,Food Services,Little House,POINT (-97.7427252 30.3111425),cutlery,green
+restaurant,Food Services,China Family,POINT (-97.7165374 30.3340239),cutlery,green
+cafe,Food Services,Holy cacao,POINT (-97.7541798 30.251009),coffee,green
+restaurant,Food Services,Have A Taco,POINT (-97.7629089 30.2634412),cutlery,green
+restaurant,Food Services,Dan's Hamburgers,POINT (-97.78827554661054 30.230764343342358),cutlery,green
+restaurant,Food Services,Maru Japanese,POINT (-97.7402411 30.3179119),cutlery,green
+restaurant,Food Services,Maudie's Tex-Mex,POINT (-97.76263549802245 30.254738313878214),cutlery,green
+restaurant,Food Services,Habibi ATX,POINT (-97.7628425 30.2634635),cutlery,green
+bar,Food Services,Nickel City,POINT (-97.7281094 30.2685748),beer,green
+bar,Food Services,The Iron Bear,POINT (-97.7454056 30.2686438),beer,green
+restaurant,Food Services,Austin's Habibi,POINT (-97.75292574999999 30.26949605),cutlery,green
+cafe,Food Services,Paperboy,POINT (-97.7275658 30.2684502),coffee,green
+cafe,Food Services,Starbucks,POINT (-97.72227021270854 30.390868816547965),coffee,green
+cafe,Food Services,Starbucks,POINT (-97.7465097 30.2658493),coffee,green
+restaurant,Food Services,Wu Chow,POINT (-97.7478966 30.2686128),cutlery,green
+place_of_worship,Community Services,Trinity Church of Austin,POINT (-97.73142721972768 30.30323352810038),institution,orange
+pub,Food Services,Billy's on Burnet Road,POINT (-97.7395201 30.3219573),beer,green
+restaurant,Food Services,Lin Asian Bar + Dim Sum,POINT (-97.7580008 30.2728289),cutlery,green
+restaurant,Food Services,El Chile Café y Cantina,POINT (-97.721778 30.2840559),cutlery,green
+cafe,Food Services,Littlefield Patio Cafe,POINT (-97.7393939 30.2892778),coffee,green
+cafe,Food Services,Jo's Coffee,POINT (-97.7976628 30.215817),coffee,green
+cafe,Food Services,Upper Crust Bakery,POINT (-97.7416401 30.3158003),coffee,green
+restaurant,Food Services,JewBoy Burgers,POINT (-97.7150212 30.312718000000004),cutlery,green
+place_of_worship,Community Services,Saint Olives Missionary Baptist Church,POINT (-97.7422299 30.3140915),institution,orange
+bar,Food Services,Moloko,POINT (-97.7202610494304 30.273852652167168),beer,green
+restaurant,Food Services,An Nyeong K Tofu & BBQ,POINT (-97.7390648 30.3215358),cutlery,green
+restaurant,Food Services,More Home Slice Pizza,POINT (-97.7496114 30.2489829),cutlery,green
+restaurant,Food Services,Rosewood,POINT (-97.72630642175218 30.268355224801557),cutlery,green
+bar,Food Services,Dainty Dillo,POINT (-97.70860087530743 30.25145502297233),beer,green
+restaurant,Food Services,Clay Pit,POINT (-97.7423871 30.2790333),cutlery,green
+restaurant,Food Services,Uroko,POINT (-97.6940148 30.2675565),cutlery,green
+restaurant,Food Services,Tacos Y Mas,POINT (-97.7029139 30.3550729),cutlery,green
+place_of_worship,Community Services,New Bethel Baptist Church,POINT (-97.70050517462435 30.287734676346755),institution,orange
+restaurant,Food Services,El Borrego de Oro,POINT (-97.7634777 30.2242708),cutlery,green
+restaurant,Food Services,Hyde Park Bar and Grill,POINT (-97.726689 30.304197),cutlery,green
+restaurant,Food Services,Pollo Regio,POINT (-97.7185807 30.3626624),cutlery,green
+restaurant,Food Services,Anything's Baked Potato,POINT (-97.72465501174722 30.269023248516813),cutlery,green
+restaurant,Food Services,Luby’s,POINT (-97.6883365 30.3343873),cutlery,green
+restaurant,Food Services,Donkeys Grilled Burritos,POINT (-97.7629649 30.2634721),cutlery,green
+cafe,Food Services,La Tazza Fresca,POINT (-97.7386124 30.3016888),coffee,green
+cafe,Food Services,Thistle Cafe,POINT (-97.7448291 30.2684394),coffee,green
+cafe,Food Services,Starbucks,POINT (-97.71756395000001 30.335978150000003),coffee,green
+restaurant,Food Services,Mother's Cafe & Garden,POINT (-97.72600932549145 30.3043406797586),cutlery,green
+restaurant,Food Services,The Burger Truck,POINT (-97.7627967 30.2635184),cutlery,green
+restaurant,Food Services,Juliet Italian Kitchen,POINT (-97.76010715256302 30.261720512563468),cutlery,green
+restaurant,Food Services,Sno.Co Flattop Shaved Ice,POINT (-97.71748960191876 30.2844328695241),cutlery,green
+restaurant,Food Services,Sam's BBQ,POINT (-97.7187975 30.2740504),cutlery,green
+restaurant,Food Services,Batch Craft Beer & Kolaches,POINT (-97.7031142 30.2871856),cutlery,green
+place_of_worship,Community Services,Saint John's United Methodist Church,POINT (-97.7413899 30.3354061),institution,orange
+pub,Food Services,The Tavern,POINT (-97.75111752812606 30.27708260238144),beer,green
+cafe,Food Services,Teo's Gelato and Espresso,POINT (-97.7451642 30.3065679),coffee,green
+cafe,Food Services,Texas Coffee Roasters,POINT (-97.7048592 30.2576584),coffee,green
+bar,Food Services,Remedy,POINT (-97.7495947 30.2670293),beer,green
+restaurant,Food Services,Lucy's Fried Chicken,POINT (-97.7532506 30.240435),cutlery,green
+bar,Food Services,Concrete Cowboy,POINT (-97.75042020803474 30.27000612216869),beer,green
+restaurant,Food Services,Red Lobster,POINT (-97.7060642 30.3436319),cutlery,green
+restaurant,Food Services,Shu Shu's,POINT (-97.7285134 30.3632541),cutlery,green
+bar,Food Services,Key Bar,POINT (-97.74938740565986 30.26969871439031),beer,green
+restaurant,Food Services,Taqueria Hope,POINT (-97.7083465 30.3508793),cutlery,green
+restaurant,Food Services,Loro,POINT (-97.7712879 30.2478111),cutlery,green
+place_of_worship,Community Services,Crestview Baptist Church,POINT (-97.72387707092 30.348199092886578),institution,orange
+bar,Food Services,Stompin' Grounds Lounge,POINT (-97.7615678 30.2268623),beer,green
+cafe,Food Services,Halcyon,POINT (-97.7456939 30.266973),coffee,green
+restaurant,Food Services,Sour Duck Market,POINT (-97.72161023519166 30.279939762506945),cutlery,green
+restaurant,Food Services,Phoebe's Diner,POINT (-97.759221 30.2415272),cutlery,green
+restaurant,Food Services,Home Slice Pizza,POINT (-97.7184664 30.3159377),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.7635967 30.252259),coffee,green
+restaurant,Food Services,Favorite Pizza,POINT (-97.75081823924972 30.27015437151219),cutlery,green
+place_of_worship,Community Services,Church at East,POINT (-97.71414371301444 30.291589036452464),institution,orange
+restaurant,Food Services,Bureau de Poste,POINT (-97.7300679 30.306848),cutlery,green
+events_venue,Recreation,Vessel Offsite,POINT (-97.719252 30.3389256),institution,orange
+restaurant,Food Services,El Raval,POINT (-97.764434 30.2522862),cutlery,green
+restaurant,Food Services,J&J BBQ & Burgers,POINT (-97.9736239 30.4738785),cutlery,green
+pub,Food Services,Black Sheep Lodge,POINT (-97.7711334 30.2483397),beer,green
+restaurant,Food Services,Belmont,POINT (-97.7454947 30.2686611),cutlery,green
+restaurant,Food Services,Eberly,POINT (-97.75870739761875 30.25860118156299),cutlery,green
+restaurant,Food Services,Quickie Pickie,POINT (-97.72724525000001 30.2687162),cutlery,green
+library,Community Services,Austin Public Library - Twin Oaks Branch,POINT (-97.76237096713567 30.24866539841239),book,orange
+restaurant,Food Services,Los Comales Restaurant,POINT (-97.7182535 30.2618724),cutlery,green
+restaurant,Food Services,Los Catrachos,POINT (-97.6719673 30.3746476),cutlery,green
+restaurant,Food Services,Tuk-Tuk Thai Cafe,POINT (-97.79671202109863 30.215913370861422),cutlery,green
+restaurant,Food Services,Vespaio,POINT (-97.7506887 30.2479272),cutlery,green
+restaurant,Food Services,Lonesome Dove Bistro,POINT (-97.744033 30.268268),cutlery,green
+restaurant,Food Services,Lenoir,POINT (-97.7558981 30.246897),cutlery,green
+restaurant,Food Services,Casa Maria's,POINT (-97.772538 30.221089),cutlery,green
+cafe,Food Services,Monkey Nest,POINT (-97.7395271 30.3277452),coffee,green
+bar,Food Services,The Aristocrat,POINT (-97.73864 30.3402379),beer,green
+restaurant,Food Services,El Arroyo,POINT (-97.7644469036216 30.27490016872464),cutlery,green
+place_of_worship,Community Services,Oak Meadow Baptist Church,POINT (-97.7680366 30.2286831),institution,orange
+restaurant,Food Services,Nightcap,POINT (-97.7604684 30.2737578),cutlery,green
+restaurant,Food Services,Taco More,POINT (-97.70632420482417 30.36792119711937),cutlery,green
+restaurant,Food Services,Austin Daily Press,POINT (-97.72115208235863 30.280226134465863),cutlery,green
+bar,Food Services,Parmer Lane Tavern,POINT (-97.6966738 30.4154361),beer,green
+bar,Food Services,Oak Sports Bar & Grill,POINT (-97.7674918 30.2292707),beer,green
+restaurant,Food Services,Cannone,POINT (-97.762989 30.2635263),cutlery,green
+cafe,Food Services,Maha Coffee,POINT (-97.7758453 30.2474739),coffee,green
+restaurant,Food Services,El Pollo Rico,POINT (-97.7179976 30.2945668),cutlery,green
+restaurant,Food Services,Serranos Cocina y Cantina,POINT (-97.8018340048044 30.472648644981838),cutlery,green
+restaurant,Food Services,Halal Hub,POINT (-97.75982297112868 30.24160104775561),cutlery,green
+bar,Food Services,The Ranch,POINT (-97.750077 30.2702734),beer,green
+restaurant,Food Services,Little China,POINT (-97.6975641 30.4075156),cutlery,green
+cafe,Food Services,Captain Quakenbush's Coffeehouse,POINT (-97.796455 30.217862),coffee,green
+restaurant,Food Services,Aviary Wine & Kitchen,POINT (-97.7714173 30.2482393),cutlery,green
+restaurant,Food Services,Banh Mi Galang,POINT (-97.7998882 30.4797523),cutlery,green
+place_of_worship,Community Services,Saint Austin Catholic Church,POINT (-97.74236810329681 30.283119476025565),institution,orange
+restaurant,Food Services,Hoover's Cooking,POINT (-97.7203077 30.2843995),cutlery,green
+social_centre,Community Services,Mt. Bonnell Lodge #2,POINT (-97.72461014181084 30.2691208380228),institution,orange
+bar,Food Services,Dozen Street,POINT (-97.7204049 30.2738014),beer,green
+cafe,Food Services,Lazydaze,POINT (-97.796492 30.217802),coffee,green
+cafe,Food Services,YaYa Cafe,POINT (-97.7385591 30.3026246),coffee,green
+restaurant,Food Services,China Hill,POINT (-97.8173379 30.2083036),cutlery,green
+restaurant,Food Services,Snooze,POINT (-97.7434574 30.3056313),cutlery,green
+restaurant,Food Services,DeSano Pizzeria Napoletana,POINT (-97.73074525187631 30.358534320633225),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.75893829681738 30.24219260214038),coffee,green
+restaurant,Food Services,El Mercado,POINT (-97.7545812 30.2513434),cutlery,green
+place_of_worship,Community Services,Iglesia CAPITAL,POINT (-97.7192975 30.3044219),institution,orange
+cafe,Food Services,Starbucks,POINT (-97.73857604099538 30.302595477950547),coffee,green
+place_of_worship,Community Services,Sunrise Community Church,POINT (-97.78956205246705 30.228803238365273),institution,orange
+bar,Food Services,Little Woodrows,POINT (-97.7395802040221 30.329114152194983),beer,green
+cafe,Food Services,Bird Bird Biscuit,POINT (-97.73200885 30.3307989),coffee,green
+restaurant,Food Services,Cherry Creek Catfish Company,POINT (-97.799516 30.2147669),cutlery,green
+restaurant,Food Services,Yushiko Ramen & Sushi,POINT (-97.7882996 30.1696758),cutlery,green
+place_of_worship,Community Services,Faith Presbyterian Church,POINT (-97.74310297419082 30.23472681495614),institution,orange
+restaurant,Food Services,Fixe Southern House,POINT (-97.748568 30.2687991),cutlery,green
+bar,Food Services,Smokin Beauty BBQ Cocktails Beer,POINT (-97.6834152 30.3889451),beer,green
+restaurant,Food Services,La Yaquesita,POINT (-97.6773836072685 30.307686942894836),cutlery,green
+bar,Food Services,Back,POINT (-97.7393505 30.3018518),beer,green
+restaurant,Food Services,Hoffbrau Steaks,POINT (-97.74919101641596 30.269675621683987),cutlery,green
+restaurant,Food Services,Stiles Switch BBQ,POINT (-97.7213534 30.3344896),cutlery,green
+place_of_worship,Community Services,Mount Olive Baptist Church,POINT (-97.72076207236876 30.26651483755726),institution,orange
+restaurant,Food Services,Taqueria la Escondida #3,POINT (-97.78124109509788 30.22715214777396),cutlery,green
+restaurant,Food Services,Luby's,POINT (-97.74414591898989 30.36845073575467),cutlery,green
+cinema,Recreation,State Theatre,POINT (-97.74180478489562 30.269535365083126),film,red
+cafe,Food Services,Ken's Donuts,POINT (-97.742826 30.2948674),coffee,green
+restaurant,Food Services,Coat & Thai,POINT (-97.7628549 30.2635944),cutlery,green
+cafe,Food Services,El Tigre,POINT (-97.7223157 30.27351),coffee,green
+restaurant,Food Services,El Chilito,POINT (-97.7892495 30.227845),cutlery,green
+place_of_worship,Community Services,Greater Calvary Bible Church,POINT (-97.69008218932318 30.318728536044315),institution,orange
+cafe,Food Services,Starbucks,POINT (-97.7416851 30.2835675),coffee,green
+bar,Food Services,Haymaker,POINT (-97.7175883 30.284794),beer,green
+bar,Food Services,Kitty Cohen's,POINT (-97.71643011350841 30.261794750838284),beer,green
+restaurant,Food Services,Chez Zee,POINT (-97.7579163 30.3367185),cutlery,green
+cafe,Food Services,Captain quackenbush's coffeehouse,POINT (-97.79637 30.217993),coffee,green
+bar,Food Services,Dirty Bill's,POINT (-97.74940194999999 30.269623449999997),beer,green
+cafe,Food Services,The Meteor Cafe,POINT (-97.75254772022386 30.2427504182276),coffee,green
+restaurant,Food Services,Rosé Gosé,POINT (-97.7147670512611 30.313115066774312),cutlery,green
+restaurant,Food Services,Baby Acapulco,POINT (-97.76235473048997 30.263089759984336),cutlery,green
+bar,Food Services,Twenty Two Trattoria-Wine Bar,POINT (-97.7600205 30.273547),beer,green
+bar,Food Services,Tinest Bar in Texas,POINT (-97.7530788 30.2695924),beer,green
+restaurant,Food Services,Haymaker,POINT (-97.7175974650452 30.284780809473435),cutlery,green
+bar,Food Services,King Bee,POINT (-97.7196183 30.2739294),beer,green
+restaurant,Food Services,Mi Lindo Michoacan,POINT (-97.6837996 30.3884165),cutlery,green
+restaurant,Food Services,Mr. Natural,POINT (-97.72454708797456 30.256826452117718),cutlery,green
+restaurant,Food Services,The Original New Orleans Po-boy And Gumbo Shop,POINT (-97.7629169 30.2636031),cutlery,green
+restaurant,Food Services,Garbo's,POINT (-97.75369952938325 30.272570075840427),cutlery,green
+cafe,Food Services,Rosen's Bagels,POINT (-97.74751787079784 30.26814192008072),coffee,green
+bar,Food Services,Back Lot,POINT (-97.73935953530008 30.301886458182658),beer,green
+pub,Food Services,Hole in the Wall,POINT (-97.7416172 30.2900421),beer,green
+place_of_worship,Community Services,St. Edward's Baptist Church,POINT (-97.69575686145403 30.23749519734593),institution,orange
+place_of_worship,Community Services,Saint Albert the Great Catholic Church,POINT (-97.69960726608254 30.402974537068157),institution,orange
+bar,Food Services,Frazier's Long and Low,POINT (-97.7199616 30.2393353),beer,green
+restaurant,Food Services,Carrabba's Italian Grill,POINT (-97.74706745900923 30.414809448572424),cutlery,green
+restaurant,Food Services,El Flaco Cafe,POINT (-97.7622847 30.2266199),cutlery,green
+restaurant,Food Services,Sazon,POINT (-97.7670565 30.2499685),cutlery,green
+place_of_worship,Community Services,University Christian Church,POINT (-97.73925085508584 30.283289787710437),institution,orange
+restaurant,Food Services,Thai Fresh,POINT (-97.7617143 30.2479434),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.7324514 30.2846841),coffee,green
+cafe,Food Services,Mozart's Coffee Roasters,POINT (-97.7842520710986 30.295439419759017),coffee,green
+restaurant,Food Services,Tsuke Edomae,POINT (-97.7074371 30.2984909),cutlery,green
+cafe,Food Services,Caffe Medici,POINT (-97.6938995 30.2677245),coffee,green
+cafe,Food Services,lazydazy,POINT (-97.796552 30.2178088),coffee,green
+cafe,Food Services,Starbucks,POINT (-97.7411185 30.2860744),coffee,green
+restaurant,Food Services,Pizza Paradise,POINT (-97.697678 30.4075433),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.75795169553854 30.26122572147606),coffee,green
+place_of_worship,Community Services,Saint Alphonsa Syro-Malabar Catholic Church,POINT (-97.6980583 30.2324215),institution,orange
+place_of_worship,Community Services,Simpson United Methodist Church,POINT (-97.72168783331472 30.273131462967758),institution,orange
+cafe,Food Services,Stinson's,POINT (-97.74197099999999 30.315236000000002),coffee,green
+cafe,Food Services,Starbucks,POINT (-97.7383962 30.2652626),coffee,green
+restaurant,Food Services,The Original New Orleans Po-Boy and Gumbo Shop,POINT (-97.72048 30.2737783),cutlery,green
+restaurant,Food Services,Tacodeli,POINT (-97.7350656 30.3487955),cutlery,green
+restaurant,Food Services,Golden Tiger,POINT (-97.7226262 30.2620798),cutlery,green
+pub,Food Services,The Front Page,POINT (-97.6939035 30.2673202),beer,green
+place_of_worship,Community Services,South First Baptist Church,POINT (-97.7678678 30.2293763),institution,orange
+restaurant,Food Services,Ruth's Chris Steak House,POINT (-97.7434085 30.2679982),cutlery,green
+restaurant,Food Services,Hawaii Neo Cafe,POINT (-97.7927529 30.1845182),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.7080023 30.3058211),coffee,green
+restaurant,Food Services,Salty Sow,POINT (-97.7212605 30.2837405),cutlery,green
+restaurant,Food Services,Tso Chinese Delivery,POINT (-97.7173028 30.2957282),cutlery,green
+cafe,Food Services,Black Sheep Coffee,POINT (-97.7464777 30.2693448),coffee,green
+restaurant,Food Services,urban,POINT (-97.7244842 30.3994579),cutlery,green
+restaurant,Food Services,Sip Pho,POINT (-97.7423368 30.2954158),cutlery,green
+bar,Food Services,The Wheel,POINT (-97.72088206788001 30.2802657988199),beer,green
+place_of_worship,Community Services,Red River Church,POINT (-97.71936849995451 30.304433191422053),institution,orange
+restaurant,Food Services,Oakmont Food Company,POINT (-97.7442691 30.3059582),cutlery,green
+restaurant,Food Services,G's Dynamite Deli,POINT (-97.75929826807027 30.242600417832083),cutlery,green
+cafe,Food Services,Russell's Bakery,POINT (-97.7601993 30.3327051),coffee,green
+restaurant,Food Services,Mi Sabor Oaxaqueño,POINT (-97.69055 30.3739393),cutlery,green
+restaurant,Food Services,Texas Chili Parlor,POINT (-97.74196587019908 30.27695375731715),cutlery,green
+place_of_worship,Community Services,First United Methodist Church of Austin,POINT (-97.74266118249933 30.274734082396012),institution,orange
+restaurant,Food Services,Taqueria Arandas #2,POINT (-97.79882391956724 30.216561176490643),cutlery,green
+library,Community Services,Austin Public Library - Little Walnut Creek Branch,POINT (-97.69848681728851 30.36326382807447),book,orange
+cafe,Food Services,Cenote,POINT (-97.733706 30.260505),coffee,green
+restaurant,Food Services,Pizza Hut,POINT (-97.6717349 30.3745401),cutlery,green
+cafe,Food Services,El Chilito Cafe y Cantina,POINT (-97.7183747 30.2841449),coffee,green
+restaurant,Food Services,Al-Demashqy Mediterranean Food Truck,POINT (-97.6859005 30.3823131),cutlery,green
+restaurant,Food Services,Matt's El Rancho,POINT (-97.77925910136807 30.245144699666827),cutlery,green
+place_of_worship,Community Services,Saint John's Episcopal Church,POINT (-97.69559793489249 30.385548460794375),institution,orange
+restaurant,Food Services,Thundercloud Subs,POINT (-97.727639 30.240002),cutlery,green
+place_of_worship,Community Services,Saint Stephens Mission Baptist Church,POINT (-97.68243482079255 30.29543822175197),institution,orange
+bar,Food Services,Barfly's,POINT (-97.7142604 30.3167177),beer,green
+restaurant,Food Services,Poke Bowl,POINT (-97.7020897 30.4181903),cutlery,green
+restaurant,Food Services,40 North,POINT (-97.75169849708766 30.274992002677745),cutlery,green
+restaurant,Food Services,Lou's Barton Springs,POINT (-97.76171987633434 30.26241292624766),cutlery,green
+bar,Food Services,Whiskey Tango Foxtrot Icehouse,POINT (-97.74985695528714 30.269822327665477),beer,green
+theatre,Recreation,AISD Performing Arts Center,POINT (-97.70301557261395 30.304342713385303),film,red
+cafe,Food Services,Café Medici,POINT (-97.7420095 30.2854421),coffee,green
+restaurant,Food Services,Pizzeria Grata,POINT (-97.7804229 30.2453356),cutlery,green
+restaurant,Food Services,Inka Chicken Peruvian Restaurant,POINT (-97.67121619492974 30.438750664143118),cutlery,green
+restaurant,Food Services,Salt Traders Coastal Cooking,POINT (-97.78098693117987 30.265329020903014),cutlery,green
+restaurant,Food Services,DK sushi & seoul korean,POINT (-97.7861963 30.2002752),cutlery,green
+cafe,Food Services,Lake Austin's Coffee Spot,POINT (-97.7761478 30.282934),coffee,green
+restaurant,Food Services,Taco Miendo,POINT (-97.6959705 30.4150913),cutlery,green
+restaurant,Food Services,Mandarin House,POINT (-97.6992611 30.3584687),cutlery,green
+restaurant,Food Services,"Carnitas ""El Güero""",POINT (-97.70363154902681 30.355438997884796),cutlery,green
+cafe,Food Services,Teal House,POINT (-97.75315863096708 30.239910031568257),coffee,green
+restaurant,Food Services,Mi Trailita Y Mas,POINT (-97.6814344 30.3051561),cutlery,green
+restaurant,Food Services,El Chile Cafe Y Cantina,POINT (-97.72256825 30.28354045),cutlery,green
+restaurant,Food Services,Verbena,POINT (-97.7488753 30.2698939),cutlery,green
+restaurant,Food Services,True Texas BBQ,POINT (-97.7761099 30.2829156),cutlery,green
+restaurant,Food Services,Vino Vino,POINT (-97.7353169 30.3069687),cutlery,green
+cafe,Food Services,Civil Goat Coffee,POINT (-97.7390514 30.3009981),coffee,green
+cafe,Food Services,Palomino Coffee,POINT (-97.687496 30.2793122),coffee,green
+restaurant,Food Services,Taco Joint,POINT (-97.74551928242776 30.25636583930542),cutlery,green
+cafe,Food Services,Civil Goat,POINT (-97.71463165019509 30.285254958113196),coffee,green
+place_of_worship,Community Services,University Catholic Center,POINT (-97.74005963517332 30.28339051873414),institution,orange
+cafe,Food Services,34th St Cafe,POINT (-97.7452903 30.302703),coffee,green
+marketplace,Commercial,Food Mart,POINT (-97.72057716248085 30.27962888602951),shopping-cart,green
+restaurant,Food Services,El Pollo Rico,POINT (-97.71835321731521 30.363642999644956),cutlery,green
+bar,Food Services,The Coral Snake,POINT (-97.7236539 30.2571286),beer,green
+bar,Food Services,The Tailor Shop,POINT (-97.7804566078272 30.24537277292057),beer,green
+restaurant,Food Services,Rote Shaq Indian Fusion,POINT (-97.7494041 30.2675522),cutlery,green
+restaurant,Food Services,East Side King,POINT (-97.7747477 30.2475144),cutlery,green
+restaurant,Food Services,Oma's Kitchen,POINT (-97.7416398 30.2836879),cutlery,green
+bar,Food Services,The Roosevelt Room,POINT (-97.74631230343883 30.267712611213966),beer,green
+restaurant,Food Services,Twin Lion,POINT (-97.748023 30.4001039),cutlery,green
+pub,Food Services,The Pub,POINT (-97.74543954999999 30.26698855),beer,green
+cafe,Food Services,Summermoon Coffee Bar,POINT (-97.7648433 30.2332092),coffee,green
+place_of_worship,Community Services,Dolores Catholic Church,POINT (-97.69808797265223 30.23230665726839),institution,orange
+restaurant,Food Services,Sundaze,POINT (-97.7840817 30.2291299),cutlery,green
+bar,Food Services,Rustic Tap,POINT (-97.7491275 30.2695962),beer,green
+bar,Food Services,The Cabana Bar at Hotel ZaZa,POINT (-97.7464843 30.2673277),beer,green
+bar,Food Services,The Dogwood,POINT (-97.75032828434679 30.269859162788368),beer,green
+place_of_worship,Community Services,Eastside Community Church,POINT (-97.7200010268891 30.273010245813968),institution,orange
+restaurant,Food Services,Black's BBQ,POINT (-97.7413239 30.2985031),cutlery,green
+cafe,Food Services,Soup Peddler,POINT (-97.75199881737451 30.276869700626122),coffee,green
+cafe,Food Services,Gong Cha,POINT (-97.7413494 30.2834028),coffee,green
+restaurant,Food Services,Super Thai Cuisine,POINT (-97.7684445 30.2491788),cutlery,green
+place_of_worship,Community Services,Saint Davids Episcopal Church,POINT (-97.7393827782971 30.2684560953176),institution,orange
+restaurant,Food Services,Taqueria 1836,POINT (-97.7804614 30.2453306),cutlery,green
+restaurant,Food Services,Blue Star Cafeteria,POINT (-97.7397518 30.3185788),cutlery,green
+place_of_worship,Community Services,Grace + Peace Austin,POINT (-97.7295726502996 30.334495366494043),institution,orange
+restaurant,Food Services,Little Deli & Pizzeria,POINT (-97.7254953 30.3426155),cutlery,green
+restaurant,Food Services,El Marisquero Seafood,POINT (-97.79934763518527 30.216948825136207),cutlery,green
+restaurant,Food Services,Aussie's Grill and Beach Bar,POINT (-97.74826572420322 30.259078974929242),cutlery,green
+bar,Food Services,The Brew Exchange,POINT (-97.7499377 30.2702132),beer,green
+restaurant,Food Services,Bombay to Kathmandu Kitchen,POINT (-97.6954119 30.3666294),cutlery,green
+restaurant,Food Services,Asti,POINT (-97.7262204 30.3048563),cutlery,green
+cafe,Food Services,Fleet Coffee,POINT (-97.742287 30.270247),coffee,green
+place_of_worship,Community Services,Midtown Church,POINT (-97.7194294 30.3044842),institution,orange
+restaurant,Food Services,The Grove,POINT (-97.7509613 30.270593),cutlery,green
+restaurant,Food Services,Buddy's Burger,POINT (-97.67668718710782 30.34604281463181),cutlery,green
+restaurant,Food Services,Kerbey Lane,POINT (-97.84139429233892 30.222614857666223),cutlery,green
+bar,Food Services,Donn's Depot,POINT (-97.7634339 30.27407),beer,green
+bar,Food Services,Whistler's,POINT (-97.72270238953901 30.26205231201905),beer,green
+pub,Food Services,Kelly's Irish Pub,POINT (-97.7589557 30.2414134),beer,green
+restaurant,Food Services,J Carver’s Oyster Bar & Chophouse,POINT (-97.74944123195479 30.269520898079897),cutlery,green
+place_of_worship,Community Services,Saint Ignatius Martyr Catholic Church,POINT (-97.75493937397682 30.24021582634871),institution,orange
+restaurant,Food Services,Cafe Josie,POINT (-97.7572773 30.2731631),cutlery,green
+cafe,Food Services,Austin Java,POINT (-97.7966585 30.2175689),coffee,green
+restaurant,Food Services,III Forks,POINT (-97.746747 30.264198),cutlery,green
+restaurant,Food Services,Sammataro Pizza,POINT (-97.7283136 30.2727299),cutlery,green
+restaurant,Food Services,Jupiter Supper Club,POINT (-97.7424206 30.2697532),cutlery,green
+cafe,Food Services,Genuine Joe Coffeehouse,POINT (-97.7272892 30.3540549),coffee,green
+restaurant,Food Services,Home Slice Pizza,POINT (-97.7495768 30.2492274),cutlery,green
+restaurant,Food Services,Micklethwait Craft Meats,POINT (-97.72521855470147 30.268318092205863),cutlery,green
+place_of_worship,Community Services,Iglesia del rey,POINT (-97.7995986 30.2162169),institution,orange
+restaurant,Food Services,Tacos Ricos,POINT (-97.7926829 30.1846143),cutlery,green
+library,Community Services,Austin Public Library - Terrazas Branch,POINT (-97.73344338865506 30.259909060073564),book,orange
+place_of_worship,Community Services,Community Ruthenian Catholic Church,POINT (-97.7046051 30.3070262),institution,orange
+restaurant,Food Services,Kemuri Tatsu-Ya,POINT (-97.712942711256 30.253822510061735),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.6654663 30.2022619),coffee,green
+restaurant,Food Services,1972 Pub,POINT (-97.74162593475312 30.289899948369293),cutlery,green
+restaurant,Food Services,Vinaigrette,POINT (-97.75204920355718 30.241295482827734),cutlery,green
+restaurant,Food Services,Mum Foods Smokehouse and Delicatessen,POINT (-97.67974037788923 30.30588655128677),cutlery,green
+cafe,Food Services,Nourish,POINT (-97.734812 30.2774682),coffee,green
+restaurant,Food Services,Java Noodles,POINT (-97.7293306 30.2294109),cutlery,green
+pub,Food Services,Scholz Garten,POINT (-97.73632918723166 30.277675870387988),beer,green
+cafe,Food Services,Organic Coffee,POINT (-97.7421673 30.2957475),coffee,green
+place_of_worship,Community Services,Violet Crown City Church,POINT (-97.72312573603602 30.347684534407968),institution,orange
+restaurant,Food Services,El secreto de abuela #2,POINT (-97.79843439080385 30.21541850487287),cutlery,green
+restaurant,Food Services,Bamboo Bistro,POINT (-97.81562881457637 30.20769626661995),cutlery,green
+restaurant,Food Services,El Zunzal,POINT (-97.7121017 30.2600696),cutlery,green
+restaurant,Food Services,Nancy's Sky Garden,POINT (-97.7946427 30.4767812),cutlery,green
+restaurant,Food Services,Thundercloud Subs,POINT (-97.8007484 30.2732782),cutlery,green
+place_of_worship,Community Services,"RCCG Cornerstone Church Austin, ATX",POINT (-97.6758518 30.3496975),institution,orange
+cafe,Food Services,Fete Accompli,POINT (-97.7507791 30.2765454),coffee,green
+place_of_worship,Community Services,Highland Village Church of Christ,POINT (-97.75151761327331 30.324623638096064),institution,orange
+restaurant,Food Services,Grizzelda's,POINT (-97.70822389185166 30.25214902834812),cutlery,green
+restaurant,Food Services,Chekos,POINT (-97.7308394 30.330873),cutlery,green
+restaurant,Food Services,Papalote Taco House,POINT (-97.781888 30.243509),cutlery,green
+restaurant,Food Services,Odd Duck,POINT (-97.76199014999999 30.254662350000007),cutlery,green
+restaurant,Food Services,East Buffer,POINT (-97.7680862 30.1902469),cutlery,green
+restaurant,Food Services,Taqueria Chapala,POINT (-97.7649008 30.2204769),cutlery,green
+cafe,Food Services,Counter Cafe,POINT (-97.7432724 30.2953787),coffee,green
+library,Community Services,Lorenzo de Zavala State Archive and Library,POINT (-97.73845429427516 30.27389195581633),book,orange
+restaurant,Food Services,China Spice Seafood,POINT (-97.6951921 30.3674231),cutlery,green
+theatre,Recreation,Bates Recital Hall,POINT (-97.7306801 30.2874336),film,red
+restaurant,Food Services,Bill's Oyster,POINT (-97.7456335 30.2656186),cutlery,green
+restaurant,Food Services,Masa y Mas,POINT (-97.7663914 30.2496256),cutlery,green
+cafe,Food Services,Flightpath Coffee House,POINT (-97.7199873 30.3138337),coffee,green
+library,Community Services,Austin Public Library - Ruiz Branch,POINT (-97.70705001962405 30.22986112175346),book,orange
+restaurant,Food Services,Group Therapy,POINT (-97.746419 30.2673146),cutlery,green
+restaurant,Food Services,Iron Works Barbecue,POINT (-97.73900766866005 30.262242046103587),cutlery,green
+theatre,Recreation,Paramount Theatre,POINT (-97.74186328126899 30.269379098312058),film,red
+restaurant,Food Services,Komé,POINT (-97.71451288192216 30.31402048854088),cutlery,green
+restaurant,Food Services,Zen Japanese Food Fast,POINT (-97.7373039 30.360294),cutlery,green
+restaurant,Food Services,Hopdoddy Burger Bar,POINT (-97.733103 30.3576246),cutlery,green
+events_venue,Recreation,The Eleanor,POINT (-97.74623934572352 30.267691175161136),institution,orange
+restaurant,Food Services,Ichiban,POINT (-97.73588515 30.349212199999993),cutlery,green
+restaurant,Food Services,K-Bop,POINT (-97.74233895323489 30.282894554277604),cutlery,green
+theatre,Recreation,Community Cinema,POINT (-97.62282020190926 30.282048104923085),film,red
+restaurant,Food Services,ATX Food Co,POINT (-97.7583324 30.2599764),cutlery,green
+restaurant,Food Services,South Flo Pizza,POINT (-97.7763523 30.2831035),cutlery,green
+library,Community Services,Collections Deposit Library,POINT (-97.73304503011049 30.27876799150917),book,orange
+restaurant,Food Services,Tumble22,POINT (-97.73532423734662 30.34797551863868),cutlery,green
+restaurant,Food Services,Dollar Slice Club,POINT (-97.741932 30.2866),cutlery,green
+place_of_worship,Community Services,All Saints' Episcopal Church,POINT (-97.73972202206411 30.29166548438115),institution,orange
+cinema,Recreation,Mobile Loaves & Fishes,POINT (-97.6228188 30.2820424),film,red
+bar,Food Services,Swan Dive,POINT (-97.7366535306482 30.26713842971935),beer,green
+restaurant,Food Services,Guero's Taco Bar,POINT (-97.75028611108385 30.24915282906302),cutlery,green
+place_of_worship,Community Services,David Chapel Missionary Baptist Church,POINT (-97.71748654386396 30.280086674800717),institution,orange
+theatre,Recreation,Emo's (Riverside),POINT (-97.72801008890457 30.239603488649124),film,red
+restaurant,Food Services,Titaya's Thai Cuisine,POINT (-97.7274668 30.3235394),cutlery,green
+bar,Food Services,White Horse,POINT (-97.72706100978432 30.26256883701313),beer,green
+bar,Food Services,School House Pub,POINT (-97.71879630395672 30.284159123519057),beer,green
+restaurant,Food Services,Central Standard,POINT (-97.7502188 30.2475946),cutlery,green
+restaurant,Food Services,Pokeatery,POINT (-97.7081023 30.3055072),cutlery,green
+restaurant,Food Services,Elementary,POINT (-97.768525 30.2491556),cutlery,green
+restaurant,Food Services,Hai Ky,POINT (-97.7348261 30.2307085),cutlery,green
+restaurant,Food Services,Irene's,POINT (-97.75116279999999 30.269815649999998),cutlery,green
+place_of_worship,Community Services,Our Lady's Maronite Catholic Church,POINT (-97.70470220172882 30.307172390573818),institution,orange
+place_of_worship,Community Services,Wells Branch Community Church: Worship Center,POINT (-97.6841654 30.4359371),institution,orange
+restaurant,Food Services,The Halal Corner,POINT (-97.7077002 30.3062708),cutlery,green
+bar,Food Services,The White Horse,POINT (-97.7270591 30.262574),beer,green
+restaurant,Food Services,Xian Sushi and Noodle - Mueller,POINT (-97.6990688 30.3029298),cutlery,green
+bar,Food Services,Carousel Lounge,POINT (-97.70821203081238 30.30990994635624),beer,green
+cafe,Food Services,85°C,POINT (-97.717669 30.3365961),coffee,green
+restaurant,Food Services,Pho Craft,POINT (-97.69710680000003 30.273507199999997),cutlery,green
+pub,Food Services,Raggedy Anne's,POINT (-97.6843557 30.4360841),beer,green
+restaurant,Food Services,Vazquez Mexican Restaurant,POINT (-97.672927 30.3753784),cutlery,green
+cafe,Food Services,Cherrywood Coffee House,POINT (-97.7160528 30.2935486),coffee,green
+restaurant,Food Services,Pearl Dive Oyster Bar,POINT (-97.7646296 30.2744898),cutlery,green
+restaurant,Food Services,Serranos Cocina y Cantina,POINT (-97.7905488 30.162357),cutlery,green
+bar,Food Services,DuMont's Down Low,POINT (-97.74532530620883 30.26700716229398),beer,green
+place_of_worship,Community Services,Grace United Methodist Church,POINT (-97.7496071 30.2482413),institution,orange
+bar,Food Services,Club Bar Corona,POINT (-97.69054834362268 30.373794443438197),beer,green
+restaurant,Food Services,Chuy's,POINT (-97.76328285597798 30.263846101059602),cutlery,green
+restaurant,Food Services,Ziki,POINT (-97.7724021 30.2479438),cutlery,green
+restaurant,Food Services,La Madeleine,POINT (-97.7446209 30.3033701),cutlery,green
+restaurant,Food Services,El Gallo Mexican Restaurant,POINT (-97.7586735 30.2331421),cutlery,green
+library,Community Services,Austin Public Library - Carver Branch,POINT (-97.72405715028503 30.26953987370683),book,orange
+cafe,Food Services,Love Lamp Matcha,POINT (-97.761792 30.2619801),coffee,green
+restaurant,Food Services,Gatti's Pizza,POINT (-97.6969219 30.415549),cutlery,green
+restaurant,Food Services,Walton's Fancy & Staple,POINT (-97.74902575 30.269543650000003),cutlery,green
+restaurant,Food Services,La Posada,POINT (-97.8154776 30.2083161),cutlery,green
+place_of_worship,Community Services,Mimosa Place Church,POINT (-97.8061167 30.2021544),institution,orange
+restaurant,Food Services,Austin Diner,POINT (-97.7402185 30.3246632),cutlery,green
+cafe,Food Services,Fleet Coffee,POINT (-97.7115843 30.2856787),coffee,green
+restaurant,Food Services,Me Con Bistro,POINT (-97.8299027 30.2127861),cutlery,green
+restaurant,Food Services,Corinne,POINT (-97.7411854 30.2625953),cutlery,green
+restaurant,Food Services,Perry's Steakhouse,POINT (-97.7435164 30.2694661),cutlery,green
+restaurant,Food Services,El Naranjo,POINT (-97.7809402 30.2441834),cutlery,green
+restaurant,Food Services,Waterloo Icehouse,POINT (-97.7282020321292 30.367959639893407),cutlery,green
+restaurant,Food Services,TC Noodle House,POINT (-97.6870865 30.3791231),cutlery,green
+place_of_worship,Community Services,Central Christian Church,POINT (-97.7446037594889 30.274582977457314),institution,orange
+library,Community Services,Austin Public Library - Manchaca Road Branch,POINT (-97.79734353219958 30.216614610845124),book,orange
+bar,Food Services,Mean Eyed Cat,POINT (-97.76499977859768 30.27446728030363),beer,green
+theatre,Recreation,Emo's,POINT (-97.7280165 30.2396337),film,red
+restaurant,Food Services,Casa Garcia's,POINT (-97.8064436 30.2021661),cutlery,green
+restaurant,Food Services,Sammie's,POINT (-97.75115752385149 30.27024301312676),cutlery,green
+restaurant,Food Services,Tacos y mas,POINT (-97.8163195 30.1866822),cutlery,green
+bar,Food Services,Kung Fu Saloon,POINT (-97.7498966 30.2696325),beer,green
+bar,Food Services,Nomad Bar,POINT (-97.704829 30.312516),beer,green
+restaurant,Food Services,ATX EATS,POINT (-97.7234419 30.3309837),cutlery,green
+restaurant,Food Services,Velvet Taco,POINT (-97.743129 30.267997),cutlery,green
+place_of_worship,Community Services,Manor Road Pentecostal Church,POINT (-97.67714198361396 30.307676917741137),institution,orange
+restaurant,Food Services,Perfect Strangers,POINT (-97.7463189 30.267122),cutlery,green
+restaurant,Food Services,Curra's Grill,POINT (-97.7494097 30.237152),cutlery,green
+social_centre,Community Services,American Legion Post 447,POINT (-97.67164258125729 30.517500537293003),institution,orange
+restaurant,Food Services,Las Trancas,POINT (-97.7317826 30.2598607),cutlery,green
+restaurant,Food Services,S-H Donuts,POINT (-97.6851459 30.3005637),cutlery,green
+restaurant,Food Services,Counter Culture,POINT (-97.717966409005 30.25453605127728),cutlery,green
+place_of_worship,Community Services,Faith Lutheran Church,POINT (-97.72859291406607 30.33805963411341),institution,orange
+restaurant,Food Services,Ramen Tatsu-ya,POINT (-97.76327139409354 30.253958140478424),cutlery,green
+restaurant,Food Services,Conan's Pizza South,POINT (-97.79825654838407 30.21626543850057),cutlery,green
+cafe,Food Services,Café Crème,POINT (-97.7356141 30.2318432),coffee,green
+cafe,Food Services,Heartland City Club,POINT (-97.765193 30.2755268),coffee,green
+cafe,Food Services,Starbucks,POINT (-97.7429695 30.2682668),coffee,green
+place_of_worship,Community Services,Austin Brethren Church,POINT (-97.71674122714741 30.36607986153553),institution,orange
+library,Community Services,Austin Central Library,POINT (-97.75175285408523 30.265971876674143),book,orange
+restaurant,Food Services,Taquero Mucho,POINT (-97.7511339252947 30.27009732432215),cutlery,green
+restaurant,Food Services,Enchiladas Y Mas,POINT (-97.72690502639063 30.353921928305496),cutlery,green
+pub,Food Services,Hopfields,POINT (-97.7410143 30.2985824),beer,green
+restaurant,Food Services,Pad Thai,POINT (-97.7081858 30.3058963),cutlery,green
+bar,Food Services,Dive,POINT (-97.7421243 30.2798438),beer,green
+restaurant,Food Services,Arlo Grey,POINT (-97.744034 30.262803),cutlery,green
+restaurant,Food Services,P.F. Chang's,POINT (-97.75033808972469 30.395526796938118),cutlery,green
+bar,Food Services,Sahara Lounge,POINT (-97.68160015907551 30.279492524288976),beer,green
+restaurant,Food Services,Basil Thai,POINT (-97.7021858 30.4180556),cutlery,green
+bar,Food Services,Cedar Street Courtyard,POINT (-97.74525045 30.266986299999996),beer,green
+restaurant,Food Services,Clark's Oyster Bar,POINT (-97.7571499 30.2729697),cutlery,green
+restaurant,Food Services,Cicis,POINT (-97.8050757 30.2019945),cutlery,green
+restaurant,Food Services,Olive Garden,POINT (-97.79227200188085 30.23714503141064),cutlery,green
+cafe,Food Services,Möge Tee,POINT (-97.74234397889118 30.28281671343288),coffee,green
+cafe,Food Services,Figure 8 Coffee Purveyors,POINT (-97.719949 30.266883),coffee,green
+restaurant,Food Services,Vigilante Gastropub & Games,POINT (-97.7183287 30.3393399),cutlery,green
+place_of_worship,Community Services,New Testament Christian Church,POINT (-97.72029632724926 30.271798149483768),institution,orange
+restaurant,Food Services,Tumble22,POINT (-97.77168809745255 30.278097553025084),cutlery,green
+restaurant,Food Services,East Side Pies,POINT (-97.7153301 30.3148694),cutlery,green
+restaurant,Food Services,El Taquito,POINT (-97.67108296331567 30.481675237332343),cutlery,green
+events_venue,Recreation,The Venue ATX,POINT (-97.7375259 30.2669258),institution,orange
+restaurant,Food Services,Fat City,POINT (-97.7392501 30.3430607),cutlery,green
+cafe,Food Services,85°C,POINT (-97.7998915 30.4794407),coffee,green
+cafe,Food Services,Pacha,POINT (-97.7406015 30.3173785),coffee,green
+restaurant,Food Services,Flores Mexican Restaurant,POINT (-97.84279902233145 30.22306633759943),cutlery,green
+restaurant,Food Services,Kim Phung,POINT (-97.7141965 30.3438588),cutlery,green
+cafe,Food Services,Brentwood Social House,POINT (-97.73514218527701 30.332289330416604),coffee,green
+cafe,Food Services,Intelligentsia,POINT (-97.7498946 30.2668307),coffee,green
+place_of_worship,Community Services,Austin Christian Tabernacle,POINT (-97.7736105 30.2207683),institution,orange
+place_of_worship,Community Services,Hope Lutheran Church,POINT (-97.68162922921732 30.31450674760285),institution,orange
+place_of_worship,Community Services,Greater Mount Moriah Primitive Baptist Church,POINT (-97.67749874126959 30.292829065134242),institution,orange
+restaurant,Food Services,Mi Madre's,POINT (-97.7189427 30.2841763),cutlery,green
+bar,Food Services,Yellow Rose,POINT (-97.721924 30.3337186),beer,green
+restaurant,Food Services,Quality Seafood,POINT (-97.71225897666355 30.318084724539627),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.81541303599789 30.207942759869788),coffee,green
+restaurant,Food Services,Milano Pizza,POINT (-97.7868289 30.2101058),cutlery,green
+cafe,Food Services,Purr-Fecto Cat Lounge,POINT (-97.7746824 30.2478149),coffee,green
+cafe,Food Services,Arturo's,POINT (-97.7419273 30.2797199),coffee,green
+bar,Food Services,The 13th Floor,POINT (-97.7365068 30.267755),beer,green
+restaurant,Food Services,Punch Bowl Social,POINT (-97.74338116386687 30.2677726677402),cutlery,green
+restaurant,Food Services,Kerbey Lane Cafe,POINT (-97.7504833 30.3080182),cutlery,green
+cafe,Food Services,Once Over Coffee Bar,POINT (-97.7569898 30.2448093),coffee,green
+restaurant,Food Services,Dovetail Pizza and Bar,POINT (-97.7563642 30.2467905),cutlery,green
+restaurant,Food Services,Caspian Grill,POINT (-97.7604651 30.4285964),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.8154229 30.2079458),coffee,green
+bar,Food Services,Valhalla,POINT (-97.73686012540838 30.268051586687466),beer,green
+place_of_worship,Community Services,El Buen Pastor Presbyterian Church,POINT (-97.73271610083776 30.259283394046186),institution,orange
+pub,Food Services,Posse East,POINT (-97.7346937 30.291373),beer,green
+restaurant,Food Services,Pitchfork Pretty,POINT (-97.71351266918161 30.253440683326385),cutlery,green
+cafe,Food Services,Vegan Yacht,POINT (-97.79572616266837 30.21890215917695),coffee,green
+restaurant,Food Services,Pho Dan,POINT (-97.6875611 30.382049),cutlery,green
+cafe,Food Services,Mañana,POINT (-97.7497778 30.2477249),coffee,green
+restaurant,Food Services,El Huarache,POINT (-97.6845711 30.4362784),cutlery,green
+restaurant,Food Services,Maudie's Tex Mex,POINT (-97.77559739787812 30.28283930543232),cutlery,green
+restaurant,Food Services,Beto’s,POINT (-97.8057239421471 30.20320207034881),cutlery,green
+bar,Food Services,Tiki Tatsu-ya,POINT (-97.76333465755724 30.25389665521405),beer,green
+restaurant,Food Services,Fujiyama,POINT (-97.7485126 30.3999414),cutlery,green
+restaurant,Food Services,Típicos Hondureños,POINT (-97.74370775000001 30.19739210000001),cutlery,green
+restaurant,Food Services,Péché,POINT (-97.74516980000001 30.2669638),cutlery,green
+restaurant,Food Services,Casey's Snowballs,POINT (-97.7149517 30.3120522),cutlery,green
+restaurant,Food Services,Truluck's,POINT (-97.7453973 30.2658847),cutlery,green
+bar,Food Services,Detour,POINT (-97.7195839 30.3961623),beer,green
+restaurant,Food Services,K BBQ,POINT (-97.7172883 30.3364816),cutlery,green
+place_of_worship,Community Services,South Austin Community Church,POINT (-97.7201773711965 30.271425607588643),institution,orange
+restaurant,Food Services,Taqueria Arandas,POINT (-97.7609112 30.2406153),cutlery,green
+theatre,Recreation,The VORTEX,POINT (-97.71744530000002 30.283863850000007),film,red
+place_of_worship,Community Services,Iglesia Libre Por Cristo Pentecostés,POINT (-97.70576313746038 30.367656213673133),institution,orange
+restaurant,Food Services,Taverna,POINT (-97.7463264 30.2651262),cutlery,green
+bar,Food Services,Barton Springs Saloon,POINT (-97.75876040539012 30.261351955513923),beer,green
+restaurant,Food Services,Poke House,POINT (-97.745991 30.4062241),cutlery,green
+bar,Food Services,the side bar,POINT (-97.73638790000001 30.267518649999996),beer,green
+place_of_worship,Community Services,Church of Scientology Texas,POINT (-97.74217644677368 30.285263006738433),institution,orange
+bar,Food Services,electric house,POINT (-97.6992 30.2517205),beer,green
+place_of_worship,Community Services,St. Martin's Ev. Lutheran Church,POINT (-97.74540783994067 30.279117922068565),institution,orange
+restaurant,Food Services,Taco Joint,POINT (-97.734917 30.291558),cutlery,green
+restaurant,Food Services,Nasha,POINT (-97.7248744 30.2637439),cutlery,green
+restaurant,Food Services,Seco2d Bar + Kitchen,POINT (-97.6656984 30.2020642),cutlery,green
+restaurant,Food Services,Waffle House,POINT (-97.68808467269554 30.218476130683204),cutlery,green
+cafe,Food Services,Mr. Brew Coffee,POINT (-97.7177062 30.3621042),coffee,green
+restaurant,Food Services,Bento Teppanyaki,POINT (-97.7082733 30.3059317),cutlery,green
+restaurant,Food Services,Baker Street Pub and Grill,POINT (-97.783148 30.2425053),cutlery,green
+restaurant,Food Services,Polvo's,POINT (-97.7574567 30.245295),cutlery,green
+bar,Food Services,Little Longhorn Saloon,POINT (-97.74015750000001 30.329350650000006),beer,green
+restaurant,Food Services,NXNW North By Northwest,POINT (-97.7384912 30.3911344),cutlery,green
+restaurant,Food Services,ZIKI,POINT (-97.752692 30.2423348),cutlery,green
+restaurant,Food Services,Saffron,POINT (-97.800074 30.2736341),cutlery,green
+place_of_worship,Community Services,Kingdom Hall of Jehovah's Witnesses,POINT (-97.71159082613627 30.25385023463736),institution,orange
+cafe,Food Services,Fat Cats: Organic Coffee & Desserts,POINT (-97.7187526 30.3386884),coffee,green
+bar,Food Services,Techo Mezcaleria & Agave Bar,POINT (-97.7188988 30.2840591),beer,green
+restaurant,Food Services,Cafe Malta,POINT (-97.8303536 30.2126644),cutlery,green
+events_venue,Recreation,The Ballroom @ Spiderhouse,POINT (-97.74202989201201 30.29535901730215),institution,orange
+restaurant,Food Services,IHOP,POINT (-97.7814797925547 30.265146343633557),cutlery,green
+restaurant,Food Services,Fresas,POINT (-97.7551015 30.2477844),cutlery,green
+restaurant,Food Services,Santa Rita,POINT (-97.74429 30.306775),cutlery,green
+restaurant,Food Services,Mi Tradición Panadería,POINT (-97.7194319 30.3635213),cutlery,green
+restaurant,Food Services,Super China,POINT (-97.7455341 30.417508),cutlery,green
+restaurant,Food Services,Polvo's,POINT (-97.7500446 30.2671399),cutlery,green
+restaurant,Food Services,IHOP,POINT (-97.73737865554092 30.260953845369635),cutlery,green
+restaurant,Food Services,Peace Bakery - Deli,POINT (-97.6871477 30.3818245),cutlery,green
+restaurant,Food Services,Madrasdhaba,POINT (-97.72602597856512 30.2630759083143),cutlery,green
+bar,Food Services,Radio Coffee and Beer,POINT (-97.7877719 30.2315416),beer,green
+restaurant,Food Services,Arandinas Mexican Restaurant,POINT (-97.726533 30.240538),cutlery,green
+restaurant,Food Services,Ramen Tatsu-Ya,POINT (-97.72629020293174 30.26315512288627),cutlery,green
+restaurant,Food Services,Caroline,POINT (-97.7423317 30.2687274),cutlery,green
+place_of_worship,Community Services,United Church of God in Christ,POINT (-97.7016715 30.2279883),institution,orange
+restaurant,Food Services,Domo Alley-Gato,POINT (-97.7262769 30.2631468),cutlery,green
+place_of_worship,Community Services,Anderson Mill Baptist Church,POINT (-97.80380262984576 30.456285549279873),institution,orange
+place_of_worship,Community Services,The Daughters of Charity Chapel,POINT (-97.7455928 30.3056316),institution,orange
+restaurant,Food Services,Mission Burger Co.,POINT (-97.7523609 30.2408637),cutlery,green
+cafe,Food Services,Great Harvest Bread Co.,POINT (-97.7483653 30.3999342),coffee,green
+restaurant,Food Services,Pho Please,POINT (-97.7281205 30.243124),cutlery,green
+restaurant,Food Services,Biryani & Co.,POINT (-97.7461173 30.4062304),cutlery,green
+restaurant,Food Services,O'daku Sushi,POINT (-97.7023163 30.4179942),cutlery,green
+cafe,Food Services,Kick Butt Coffee,POINT (-97.7139215 30.3223603),coffee,green
+library,Community Services,Austin Public Library - Pleasant Hill Branch,POINT (-97.77717790832389 30.1922384339719),book,orange
+restaurant,Food Services,Pho Thaison Vietnamese Cuisine,POINT (-97.7329949 30.3577778),cutlery,green
+bar,Food Services,Upstairs at Caroline,POINT (-97.7423563 30.268656),beer,green
+restaurant,Food Services,Lucky Robot,POINT (-97.7489794 30.2508288),cutlery,green
+cafe,Food Services,Barley Bean,POINT (-97.78889184686795 30.239229012873604),coffee,green
+restaurant,Food Services,Modern Market,POINT (-97.8000084 30.2736867),cutlery,green
+restaurant,Food Services,Double Dave's Pizza Works,POINT (-97.7910656 30.1625582),cutlery,green
+restaurant,Food Services,Forthright,POINT (-97.743333 30.262245),cutlery,green
+restaurant,Food Services,New Sitara Indian Cuisine,POINT (-97.674503 30.4351645),cutlery,green
+restaurant,Food Services,True Texas BBQ,POINT (-97.7540926 30.2386961),cutlery,green
+restaurant,Food Services,Chuy's,POINT (-97.6906032 30.3751992),cutlery,green
+restaurant,Food Services,Moreno's BBQ,POINT (-97.7985416331977 30.215202854637564),cutlery,green
+restaurant,Food Services,The Greek Bar,POINT (-97.7496672 30.2371474),cutlery,green
+restaurant,Food Services,Mary's Cafe,POINT (-97.7266127 30.2912527),cutlery,green
+cafe,Food Services,Summer Moon Coffee,POINT (-97.8005584 30.2731462),coffee,green
+bar,Food Services,Toomey Tap Room,POINT (-97.7586593 30.2628248),beer,green
+restaurant,Food Services,Wingzup,POINT (-97.7213966 30.3000475),cutlery,green
+restaurant,Food Services,Counter Cafe,POINT (-97.7216715 30.2616958),cutlery,green
+cafe,Food Services,Hui Lau Shan,POINT (-97.7187041 30.3387832),coffee,green
+restaurant,Food Services,Tortilleria La Sabrocita,POINT (-97.68552604708385 30.357164005892177),cutlery,green
+restaurant,Food Services,Vic & Al's,POINT (-97.7170005 30.2849284),cutlery,green
+restaurant,Food Services,Roaring Fork,POINT (-97.7421993 30.2690633),cutlery,green
+place_of_worship,Community Services,Bannockburn Church,POINT (-97.83170695181543 30.212537115487823),institution,orange
+bar,Food Services,The Austin Eagle,POINT (-97.6668989 30.3310359),beer,green
+place_of_worship,Community Services,Cristo Rey Catholic Church,POINT (-97.71998931726412 30.256273100264202),institution,orange
+cafe,Food Services,Jo's Coffee,POINT (-97.74939860799036 30.251018960991974),coffee,green
+bar,Food Services,Star Bar,POINT (-97.74854191272016 30.26995606631014),beer,green
+place_of_worship,Community Services,Vision of Hope Church,POINT (-97.6963922793226 30.236518621355728),institution,orange
+restaurant,Food Services,Nori,POINT (-97.7402960339703 30.29992168391192),cutlery,green
+cafe,Food Services,SquareRüt Kava Bar,POINT (-97.7316951 30.3187661),coffee,green
+restaurant,Food Services,Willie's Bar-B-Que,POINT (-97.6840754 30.2852756),cutlery,green
+restaurant,Food Services,Southside Flying Pizza,POINT (-97.75288932801645 30.241070701291022),cutlery,green
+restaurant,Food Services,Swim Club,POINT (-97.7347217 30.2702041),cutlery,green
+bar,Food Services,Estelle's Social Lounge,POINT (-97.74501828683275 30.266829627663558),beer,green
+place_of_worship,Community Services,The Church of Jesus Christ of Latter-day Saints,POINT (-97.85557666804436 30.21881952635582),institution,orange
+restaurant,Food Services,Rudy's Country Store and Bar-B-Q,POINT (-97.742008 30.3074215),cutlery,green
+cafe,Food Services,Fair Bean Coffee,POINT (-97.7583643 30.2439425),coffee,green
+place_of_worship,Community Services,Wells Branch Community Church: Children's Ministry,POINT (-97.6846928 30.4363962),institution,orange
+cafe,Food Services,Starbucks,POINT (-97.70269483127801 30.41880794535059),coffee,green
+restaurant,Food Services,Red Farm,POINT (-97.745401 30.265537),cutlery,green
+bar,Food Services,Hopscotch,POINT (-97.7687653 30.249264),beer,green
+bar,Food Services,Austin Eastciders,POINT (-97.7612516671773 30.262111081162967),beer,green
+restaurant,Food Services,Hestia,POINT (-97.7500637 30.2668723),cutlery,green
+restaurant,Food Services,Ma'CoCo,POINT (-97.7267125 30.2622663),cutlery,green
+restaurant,Food Services,Jim's,POINT (-97.87647482187323 30.234334948336134),cutlery,green
+restaurant,Food Services,Star of India,POINT (-97.7364139 30.3598996),cutlery,green
+pub,Food Services,Saxon Pub,POINT (-97.6648916 30.2023824),beer,green
+cafe,Food Services,Shahi Cafe,POINT (-97.6790975 30.4071439),coffee,green
+pub,Food Services,G & S Lounge,POINT (-97.760365 30.2414943),beer,green
+bar,Food Services,Better Days,POINT (-97.73680454373418 30.2681460672991),beer,green
+restaurant,Food Services,Patrizi's,POINT (-97.71726854524223 30.283874078754813),cutlery,green
+restaurant,Food Services,Saigon On 7th,POINT (-97.712702 30.260528),cutlery,green
+bar,Food Services,Vice,POINT (-97.7401125 30.2674486),beer,green
+restaurant,Food Services,Pizza Press,POINT (-97.742035 30.2906805),cutlery,green
+restaurant,Food Services,Dee Dee Thai,POINT (-97.7879613 30.2315463),cutlery,green
+restaurant,Food Services,Broken Spoke;The Broken Spoke,POINT (-97.78520851923538 30.24087160488186),cutlery,green
+restaurant,Food Services,Mi Lindo Jalisco,POINT (-97.71780917063012 30.362376232408153),cutlery,green
+cafe,Food Services,Cuatro Gato,POINT (-97.745170719608 30.26622200323241),coffee,green
+cafe,Food Services,Jo's Coffee,POINT (-97.7460802 30.2650419),coffee,green
+restaurant,Food Services,Arpeggio Grill,POINT (-97.7151487 30.3311905),cutlery,green
+restaurant,Food Services,Korean Grill,POINT (-97.6868944 30.379048),cutlery,green
+restaurant,Food Services,Parlor and Yard,POINT (-97.74872936329128 30.26951491972812),cutlery,green
+restaurant,Food Services,Manuel's,POINT (-97.74930352865478 30.396735783753286),cutlery,green
+restaurant,Food Services,Via313,POINT (-97.72314137798695 30.26222105000472),cutlery,green
+restaurant,Food Services,El Mercado,POINT (-97.7350998 30.3502257),cutlery,green
+place_of_worship,Community Services,Greater Works Baptist Church,POINT (-97.67496202712796 30.278886305383708),institution,orange
+restaurant,Food Services,KHON Thai Kitchen by Seeda,POINT (-97.7409207 30.333489),cutlery,green
+restaurant,Food Services,Tex Mex Joe's,POINT (-97.7150753 30.3446029),cutlery,green
+restaurant,Food Services,Terry Black's BBQ,POINT (-97.7548076 30.2596649),cutlery,green
+restaurant,Food Services,Chi'Lantro,POINT (-97.7082369 30.3052883),cutlery,green
+bar,Food Services,The Dizzy Rooster,POINT (-97.7400096 30.2674088),beer,green
+restaurant,Food Services,Trudy's,POINT (-97.7276050388528 30.37061990610817),cutlery,green
+bar,Food Services,Garage,POINT (-97.7442084 30.2677729),beer,green
+restaurant,Food Services,Bar Chi Sushi,POINT (-97.74553 30.265297),cutlery,green
+restaurant,Food Services,Yummi's Tacos,POINT (-97.7603485 30.4284769),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.74236876973285 30.233670869182728),coffee,green
+cafe,Food Services,Sugar Pine,POINT (-97.7176544618064 30.361804876902553),coffee,green
+restaurant,Food Services,Maki Toki,POINT (-97.707007 30.3929803),cutlery,green
+restaurant,Food Services,Bikkle,POINT (-97.74144997552936 30.29705011787152),cutlery,green
+place_of_worship,Community Services,Trinity Lutheran Church,POINT (-97.7404766 30.3145527),institution,orange
+restaurant,Food Services,TraphouseATX,POINT (-97.745165 30.266118),cutlery,green
+bar,Food Services,House Wine,POINT (-97.7588905494308 30.26191516923451),beer,green
+cafe,Food Services,Hot L Coffee,POINT (-97.7587291 30.2621453),coffee,green
+restaurant,Food Services,Placita's,POINT (-97.7451635 30.1945886),cutlery,green
+place_of_worship,Community Services,Friends Meeting of Austin,POINT (-97.69482579725955 30.283564094394237),institution,orange
+restaurant,Food Services,Pho Hanoi,POINT (-97.6851213 30.3822023),cutlery,green
+restaurant,Food Services,Rice Bowl Cafe,POINT (-97.6885482 30.3825064),cutlery,green
+pub,Food Services,Gibson Street Bar,POINT (-97.76188101452738 30.255002456938794),beer,green
+restaurant,Food Services,Old Pecan Street Cafe,POINT (-97.7399087 30.2673807),cutlery,green
+restaurant,Food Services,Buddy's Mexican Grill,POINT (-97.6764787 30.3465411),cutlery,green
+bar,Food Services,Larry's Lone Star Bar,POINT (-97.92334791906963 30.492192756804982),beer,green
+restaurant,Food Services,Freddo ATX,POINT (-97.75364220248734 30.23921280272967),cutlery,green
+restaurant,Food Services,1914 Noodles & More,POINT (-97.74233475747162 30.282630945374095),cutlery,green
+place_of_worship,Community Services,Greater Mt. Zion Baptist Church,POINT (-97.67192596189226 30.280813288475493),institution,orange
+restaurant,Food Services,Jad Mediterranean Halal Grill,POINT (-97.72594957091404 30.26297949266884),cutlery,green
+cafe,Food Services,The Coffehouse at Caroline,POINT (-97.7421935 30.2687874),coffee,green
+pub,Food Services,Bouldin Acres,POINT (-97.7049743687676 30.391270372356015),beer,green
+bar,Food Services,Barracuda,POINT (-97.7363312 30.2671404),beer,green
+restaurant,Food Services,Rounders Pizza,POINT (-97.92336 30.492191),cutlery,green
+place_of_worship,Community Services,Beacon Ridge Baptist Church,POINT (-97.79587668690189 30.18042203983421),institution,orange
+bar,Food Services,Drinks Lounge,POINT (-97.723294960544 30.256438337356773),beer,green
+restaurant,Food Services,888 Pan Asian Restaurant,POINT (-97.7299369 30.2297317),cutlery,green
+restaurant,Food Services,ALC Steaks,POINT (-97.750896 30.2775925),cutlery,green
+restaurant,Food Services,Casa de Luz East,POINT (-97.7201984 30.2796688),cutlery,green
+restaurant,Food Services,Halal Wings,POINT (-97.7075266 30.3065302),cutlery,green
+restaurant,Food Services,Bill Miller Bar-BQ,POINT (-97.7899105 30.1676447),cutlery,green
+restaurant,Food Services,Thanh Nhi Kitchen,POINT (-97.6986 30.3612122),cutlery,green
+place_of_worship,Community Services,Saint Catherine of Siena Catholic Church,POINT (-97.84955721735962 30.218212913141762),institution,orange
+restaurant,Food Services,Casa Colombia,POINT (-97.7148283 30.2608046),cutlery,green
+restaurant,Food Services,House Park Bar-B-Que,POINT (-97.750411 30.2767346),cutlery,green
+restaurant,Food Services,El Pollo Rico,POINT (-97.7341477 30.2305534),cutlery,green
+restaurant,Food Services,Mian & Bao,POINT (-97.732985 30.315328),cutlery,green
+restaurant,Food Services,Fresh Donuts,POINT (-97.7444952 30.157355),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.7540185 30.2699007),coffee,green
+bar,Food Services,The Butterfly Bar @ The VORTEX,POINT (-97.7174136218503 30.28372299080582),beer,green
+place_of_worship,Community Services,Congregational Church of Austin,POINT (-97.7424010640892 30.286691875214856),institution,orange
+restaurant,Food Services,Troy,POINT (-97.7564204 30.3717722),cutlery,green
+restaurant,Food Services,Green Mesquite BBQ,POINT (-97.75919716562368 30.261484376170632),cutlery,green
+bar,Food Services,Shakespeare's,POINT (-97.739796 30.2673492),beer,green
+restaurant,Food Services,1914 Poke Bowl,POINT (-97.7424442700109 30.282638109323607),cutlery,green
+restaurant,Food Services,Via 313,POINT (-97.74845848673448 30.270107643956173),cutlery,green
+restaurant,Food Services,Wholly Cow Burger and Zen Market,POINT (-97.7839568 30.2429035),cutlery,green
+place_of_worship,Community Services,North Austin Christian Church,POINT (-97.71009535237852 30.375388192416263),institution,orange
+cafe,Food Services,Hey Cupcake,POINT (-97.74031751034296 30.331162394288036),coffee,green
+cafe,Food Services,Square Peg Coffee,POINT (-97.7364325 30.2950159),coffee,green
+theatre,Recreation,Comedy Mothership,POINT (-97.7396117 30.2673635),film,red
+cafe,Food Services,Starbucks,POINT (-97.73789810000001 30.35987155),coffee,green
+library,Community Services,Texas State Law Library,POINT (-97.741983 30.2762364),book,orange
+place_of_worship,Community Services,St. James' Episcopal Church,POINT (-97.67322067740047 30.28231909374001),institution,orange
+restaurant,Food Services,Hoboken Pie,POINT (-97.73678924024664 30.268213185905704),cutlery,green
+restaurant,Food Services,Show Me Pizza,POINT (-97.76278046598954 30.236761434484016),cutlery,green
+pub,Food Services,Lazarus Brewing Company,POINT (-97.71533891780035 30.308003455607604),beer,green
+restaurant,Food Services,"Machetes, Quesadillas Gigantes",POINT (-97.6954113 30.3670015),cutlery,green
+restaurant,Food Services,Honest Mary's,POINT (-97.7484716 30.3950774),cutlery,green
+restaurant,Food Services,Rudy's Country Store & Bar-B-Q,POINT (-97.74697844547921 30.4141579348332),cutlery,green
+restaurant,Food Services,Kismet Cafe,POINT (-97.7214724 30.2999354),cutlery,green
+cafe,Food Services,Try Hard Coffee Roastere,POINT (-97.72875054452396 30.268804868041386),coffee,green
+cafe,Food Services,The Buzz Mill,POINT (-97.72688113711017 30.241698207105962),coffee,green
+place_of_worship,Community Services,Wells branch Church of Christ,POINT (-97.674889 30.4264109),institution,orange
+restaurant,Food Services,PD Thai,POINT (-97.74038477036278 30.29986300137951),cutlery,green
+restaurant,Food Services,Shoal Creek Saloon,POINT (-97.75231176174401 30.27427087432616),cutlery,green
+restaurant,Food Services,IHOP,POINT (-97.78406721210325 30.16791073147179),cutlery,green
+bar,Food Services,Kalimotxo,POINT (-97.7227918 30.2616236),beer,green
+place_of_worship,Community Services,University Presbyterian Church,POINT (-97.74254503114871 30.285506777077885),institution,orange
+restaurant,Food Services,Uchiko,POINT (-97.7398856 30.3107699),cutlery,green
+bar,Food Services,Kalimotxo,POINT (-97.750177 30.2669004),beer,green
+restaurant,Food Services,Romano's Macaroni Grill,POINT (-97.74758061660229 30.39454304934379),cutlery,green
+restaurant,Food Services,Sweet Chive,POINT (-97.71566240700442 30.25381499192119),cutlery,green
+restaurant,Food Services,Suerte,POINT (-97.7232519854135 30.262263653613147),cutlery,green
+place_of_worship,Community Services,The Austin Stone Community Church - St John's Congregation,POINT (-97.7061788 30.334797),institution,orange
+cafe,Food Services,Starbucks,POINT (-97.7411784 30.271876),coffee,green
+restaurant,Food Services,China Family,POINT (-97.74254661076155 30.28264443235117),cutlery,green
+place_of_worship,Community Services,Saint James Baptist Church,POINT (-97.6975811466865 30.28266263620523),institution,orange
+restaurant,Food Services,Salvation Pizza,POINT (-97.7405995 30.3008048),cutlery,green
+restaurant,Food Services,Pizza Hut,POINT (-97.69778982855489 30.27167620582125),cutlery,green
+bar,Food Services,The Golden Goose,POINT (-97.7688789 30.2492382),beer,green
+restaurant,Food Services,La Traila #6,POINT (-97.8410525 30.2234863),cutlery,green
+cafe,Food Services,CoCo's Cafe,POINT (-97.74234529947832 30.282567538011886),coffee,green
+restaurant,Food Services,Olive & June,POINT (-97.75112148404253 30.307189521717802),cutlery,green
+place_of_worship,Community Services,Webberville Baptist Church,POINT (-97.68155458088589 30.27906520204697),institution,orange
+restaurant,Food Services,Taco Mex,POINT (-97.7149412 30.2847133),cutlery,green
+place_of_worship,Community Services,Bethany Christian Church,POINT (-97.69512391697579 30.277145209113186),institution,orange
+bar,Food Services,Howard's Bar and Club,POINT (-97.75689331807234 30.27284970489238),beer,green
+restaurant,Food Services,Thai Thani,POINT (-97.71967348842534 30.283836360588495),cutlery,green
+restaurant,Food Services,Ranch 616,POINT (-97.74848790917851 30.270356472878014),cutlery,green
+bar,Food Services,Upstairs Circus,POINT (-97.7458994 30.2649849),beer,green
+restaurant,Food Services,Big Nonnas,POINT (-97.6577521 30.4008618),cutlery,green
+bar,Food Services,La Perla,POINT (-97.7266664 30.2632337),beer,green
+restaurant,Food Services,El Tacolote,POINT (-97.6960244 30.3641562),cutlery,green
+place_of_worship,Community Services,Ebenezer Baptist Church,POINT (-97.73060664478177 30.268964162382147),institution,orange
+restaurant,Food Services,Magnolia Cafe,POINT (-97.7519802 30.2444789),cutlery,green
+theatre,Recreation,The Hideout Theater,POINT (-97.7422257 30.2685706),film,red
+restaurant,Food Services,Pho Phi Restaurant,POINT (-97.6890262 30.4142742),cutlery,green
+restaurant,Food Services,OneTaco Taquería @ Anderson Lane,POINT (-97.7358168 30.3596225),cutlery,green
+bar,Food Services,Departure Lounge,POINT (-97.6662503 30.2020456),beer,green
+place_of_worship,Community Services,Thien Hau Temple,POINT (-97.67967260181682 30.401843076786463),institution,orange
+restaurant,Food Services,Turnstile,POINT (-97.72332227816742 30.384041150522698),cutlery,green
+restaurant,Food Services,Balkan Cafe & Grill,POINT (-97.6842005 30.3880762),cutlery,green
+place_of_worship,Community Services,Oak Hill Bible Church,POINT (-97.85462560325439 30.234790392001663),institution,orange
+restaurant,Food Services,Jet's Pizza,POINT (-97.7833416 30.2423433),cutlery,green
+restaurant,Food Services,Manna Korean Restaurant,POINT (-97.72097594195561 30.336459417870756),cutlery,green
+cafe,Food Services,FireBowlCafe,POINT (-97.7493734 30.3952181),coffee,green
+pub,Food Services,Tweedy's Bar,POINT (-97.7417466642705 30.295526211797167),beer,green
+restaurant,Food Services,Provision,POINT (-97.73921536802607 30.400081485821136),cutlery,green
+restaurant,Food Services,Mangia Pizza,POINT (-97.7585108 30.370621),cutlery,green
+restaurant,Food Services,Hat Creek Burger Company,POINT (-97.7233768 30.4000202),cutlery,green
+restaurant,Food Services,Red Lobster,POINT (-97.78958311884006 30.237615304273692),cutlery,green
+bar,Food Services,Canary Roost Karaoke Bar,POINT (-97.7039615 30.4004847),beer,green
+bar,Food Services,Recess Arcade Bar,POINT (-97.7405829 30.2675688),beer,green
+pub,Food Services,The Chicago House,POINT (-97.7389772 30.2676594),beer,green
+restaurant,Food Services,1417 French Bistro,POINT (-97.75455525707888 30.25009131754368),cutlery,green
+place_of_worship,Community Services,Betania Baptist Church,POINT (-97.70130959829768 30.266659111064193),institution,orange
+place_of_worship,Community Services,Abiding Love Lutheran Church,POINT (-97.84583953633256 30.217752117374594),institution,orange
+place_of_worship,Community Services,Mount Calvary Missionary Baptist Church,POINT (-97.71643827738397 30.270851656034907),institution,orange
+restaurant,Food Services,China Dynasty,POINT (-97.8270589 30.1748731),cutlery,green
+restaurant,Food Services,Soto,POINT (-97.7620108 30.2556008),cutlery,green
+restaurant,Food Services,Carpenters Hall,POINT (-97.75879449767544 30.262257888147804),cutlery,green
+restaurant,Food Services,Bamboo House Austin,POINT (-97.7185456 30.3389567),cutlery,green
+theatre,Recreation,McCullough Theatre,POINT (-97.7307385 30.2866607),film,red
+place_of_worship,Community Services,Episcopal Diocese of Austin,POINT (-97.73278219109149 30.292530067813175),institution,orange
+restaurant,Food Services,Swad Indian Vegetarian Restaurant,POINT (-97.6770102 30.4962192),cutlery,green
+bar,Food Services,Cookbook Bar & Café,POINT (-97.7513487 30.2660797),beer,green
+bar,Food Services,Last Straw,POINT (-97.721465 30.2616262),beer,green
+bar,Food Services,Basecamp,POINT (-97.7439557 30.2675086),beer,green
+place_of_worship,Community Services,new foundation christian church,POINT (-97.8047942 30.2069176),institution,orange
+bar,Food Services,Lucky Lounge,POINT (-97.7453298 30.2674644),beer,green
+restaurant,Food Services,Tucci's Southside Subs,POINT (-97.87728 30.2341132),cutlery,green
+restaurant,Food Services,AB Liquor #2,POINT (-97.7256708 30.3532415),cutlery,green
+restaurant,Food Services,Taqueria Kim Karina,POINT (-97.7266668 30.2631568),cutlery,green
+cafe,Food Services,Summer Moon Coffee Bar,POINT (-97.7202436 30.394281),coffee,green
+bar,Food Services,The Upside,POINT (-97.7305481 30.2646538),beer,green
+restaurant,Food Services,Mezze Cafe,POINT (-97.7581999 30.2416821),cutlery,green
+cafe,Food Services,The Hideout Coffee House,POINT (-97.7421655607358 30.268555011599513),coffee,green
+restaurant,Food Services,La Catedral del Marisco #3,POINT (-97.75351650863038 30.21508425790438),cutlery,green
+restaurant,Food Services,Wee's Cozy Kitchen,POINT (-97.7423352 30.2683825),cutlery,green
+cinema,Recreation,Arbor Cinema @ Great Hills,POINT (-97.74882798017838 30.395831542236635),film,red
+bar,Food Services,Powder Room,POINT (-97.7457978 30.2676872),beer,green
+restaurant,Food Services,Phở Tháisơn,POINT (-97.7423513895565 30.282497106592306),cutlery,green
+restaurant,Food Services,Bikinis Sports Bar & Grill,POINT (-97.7406574 30.2675896),cutlery,green
+bar,Food Services,Rusty Cannon Pub,POINT (-97.7824407 30.2099138),beer,green
+bar,Food Services,Highland Lounge,POINT (-97.7448469 30.2669654),beer,green
+cafe,Food Services,San Francisco Bakery & Cafe,POINT (-97.7356985 30.3595801),coffee,green
+pub,Food Services,The Saxon Pub,POINT (-97.666366 30.2020588),beer,green
+restaurant,Food Services,Este,POINT (-97.7195394 30.2839954),cutlery,green
+restaurant,Food Services,Manny's,POINT (-97.7457896 30.2677115),cutlery,green
+place_of_worship,Community Services,Westminster Presbyterian Church,POINT (-97.76372758605216 30.308509003589094),institution,orange
+restaurant,Food Services,Dai Due,POINT (-97.7167839 30.2848698),cutlery,green
+restaurant,Food Services,Sixth and Waller,POINT (-97.7306495 30.2646369),cutlery,green
+place_of_worship,Community Services,Palri Pema Od Ling Buddhist Temple,POINT (-97.72340554516175 30.30619292001198),institution,orange
+restaurant,Food Services,Stubb's,POINT (-97.7593133 30.2733072),cutlery,green
+cafe,Food Services,Cafe Java,POINT (-97.7041809 30.4001004),coffee,green
+bar,Food Services,Cabana Club,POINT (-97.69780265451791 30.254332351043125),beer,green
+bar,Food Services,Lefty's Brick Bar,POINT (-97.7230679 30.2617222),beer,green
+place_of_worship,Community Services,Saint Elias Antiochan Orthodox Church - Downtown Campus,POINT (-97.73664215086266 30.271876714829702),institution,orange
+restaurant,Food Services,Mour Cafe,POINT (-97.7283854 30.2437089),cutlery,green
+place_of_worship,Community Services,Redeemer Lutheran Church,POINT (-97.7203045300736 30.3523098246656),institution,orange
+restaurant,Food Services,Iron Cactus,POINT (-97.7394843 30.2672622),cutlery,green
+restaurant,Food Services,Dotty's Cafe,POINT (-97.7202082 30.335278),cutlery,green
+restaurant,Food Services,The Original Pancake House,POINT (-97.689309 30.4143938),cutlery,green
+place_of_worship,Community Services,New Light Ebenezer Baptist Church,POINT (-97.6888087584289 30.274189689009432),institution,orange
+restaurant,Food Services,Mandala Kitchen & Bar,POINT (-97.7621579 30.2553704),cutlery,green
+bar,Food Services,The Tiny Minotaur Tavern,POINT (-97.7140569 30.2532298),beer,green
+restaurant,Food Services,Little Mexico,POINT (-97.758921 30.2430066),cutlery,green
+place_of_worship,Community Services,Woodlawn Baptist Church,POINT (-97.7910429 30.2271038),institution,orange
+restaurant,Food Services,El Meson,POINT (-97.7689416 30.2489743),cutlery,green
+restaurant,Food Services,Habana Restaurant and Bar,POINT (-97.75733459597224 30.234946129427094),cutlery,green
+restaurant,Food Services,Tequila Bar & Grill,POINT (-97.66361534121677 30.566978768761135),cutlery,green
+restaurant,Food Services,Elaine's Pork and Pie,POINT (-97.71927335000001 30.2840118),cutlery,green
+cafe,Food Services,LOVE Bubble Tea,POINT (-97.7256008 30.2628366),coffee,green
+cafe,Food Services,Patika,POINT (-97.7726255568426 30.24743076786664),coffee,green
+cinema,Recreation,Alamo Drafthouse Cinema,POINT (-97.7348892 30.3600465),film,red
+restaurant,Food Services,Branch BBQ & Catering,POINT (-97.6739255 30.4355549),cutlery,green
+restaurant,Food Services,Halal Bros,POINT (-97.7067622 30.392891),cutlery,green
+restaurant,Food Services,CAVA,POINT (-97.72669489999998 30.39339165),cutlery,green
+place_of_worship,Community Services,South Austin Apostolic Church,POINT (-97.7506422904968 30.236697229718313),institution,orange
+restaurant,Food Services,Tenten,POINT (-97.7475552 30.2692655),cutlery,green
+theatre,Recreation,Bass Concert Hall,POINT (-97.73128045656081 30.285856964462543),film,red
+restaurant,Food Services,Outback Steakhouse,POINT (-97.74718357756144 30.415759604916005),cutlery,green
+place_of_worship,Community Services,Church of Glad Tidings,POINT (-97.74769831741408 30.334811527765417),institution,orange
+restaurant,Food Services,Modern Market,POINT (-97.7493683 30.3950396),cutlery,green
+restaurant,Food Services,Bill Miller BBQ,POINT (-97.72955104682555 30.359462136857307),cutlery,green
+restaurant,Food Services,Bull & Bowl,POINT (-97.7476863 30.2693069),cutlery,green
+bar,Food Services,Saxon Pub,POINT (-97.7635707034433 30.253535570086584),beer,green
+restaurant,Food Services,Happy Chicks,POINT (-97.7407745 30.2676222),cutlery,green
+restaurant,Food Services,Sap's Fine Thai Cuisine,POINT (-97.8008555 30.2314518),cutlery,green
+bar,Food Services,Ah Sing Den,POINT (-97.73129786387884 30.26485970791289),beer,green
+restaurant,Food Services,Bufalina Due,POINT (-97.7383417 30.3410897),cutlery,green
+restaurant,Food Services,Molcas Mexican Restaurant,POINT (-97.7555682 30.372861),cutlery,green
+restaurant,Food Services,bb.q Chicken,POINT (-97.7167081 30.3364058),cutlery,green
+restaurant,Food Services,Chili's,POINT (-97.73838510443915 30.31332435551994),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.6999083 30.3016121),coffee,green
+cafe,Food Services,Tapioca House,POINT (-97.74235614343105 30.282424969470917),coffee,green
+restaurant,Food Services,Denny's,POINT (-97.7052248 30.3325149),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.7919137 30.2332793),coffee,green
+pub,Food Services,Pinthouse Pizza,POINT (-97.7390631 30.3187523),beer,green
+cafe,Food Services,Apothecary Cafe & Wine Bar,POINT (-97.73952523434303 30.319045979625866),coffee,green
+restaurant,Food Services,Taquito Aviles,POINT (-97.68746639999999 30.3814134),cutlery,green
+pub,Food Services,Easy Tiger,POINT (-97.72699571275673 30.264025626255087),beer,green
+cafe,Food Services,Capital One Café,POINT (-97.7425331 30.2681344),coffee,green
+restaurant,Food Services,Paco's Tacos,POINT (-97.7058047 30.3074786),cutlery,green
+place_of_worship,Community Services,Alpha Seventh Day Adventist Church,POINT (-97.68286027924768 30.296548724192487),institution,orange
+place_of_worship,Community Services,Texas Hillel Foundation,POINT (-97.74273931123916 30.28420162906241),institution,orange
+restaurant,Food Services,Pluckers Wing Bar,POINT (-97.8778279 30.235605),cutlery,green
+restaurant,Food Services,Bufalina,POINT (-97.71966888974029 30.255145035442677),cutlery,green
+bar,Food Services,Club El Tahur,POINT (-97.70406988638204 30.343954705191393),beer,green
+cafe,Food Services,Medici Roasting,POINT (-97.7623743 30.25576),coffee,green
+cafe,Food Services,Bouldin Creek Cafe,POINT (-97.7566288 30.246512),coffee,green
+library,Community Services,Austin Public Library - Cepeda Branch,POINT (-97.70887439995414 30.259045928087883),book,orange
+cafe,Food Services,Starbucks,POINT (-97.68980556762533 30.217677517052692),coffee,green
+cafe,Food Services,Gong Cha,POINT (-97.7232854 30.4002151),coffee,green
+library,Community Services,Lago Vista Public Library,POINT (-97.9880926 30.4529066),book,orange
+restaurant,Food Services,Texican Cafe,POINT (-97.8012024 30.4710909),cutlery,green
+cinema,Recreation,Regal Cinema Westgate 11,POINT (-97.7997747 30.2301973),film,red
+bar,Food Services,Homer's Neighborhood Bar,POINT (-97.6738592 30.4355974),beer,green
+place_of_worship,Community Services,Hillcrest Baptist Church,POINT (-97.74996691043381 30.373661254490536),institution,orange
+restaurant,Food Services,Southside Flying Pizza,POINT (-97.71391281833753 30.253602277376867),cutlery,green
+restaurant,Food Services,Punch Bowl Social,POINT (-97.7255522 30.3999964),cutlery,green
+cafe,Food Services,La Colombe Coffee Roasters,POINT (-97.7532554 30.27049),coffee,green
+cafe,Food Services,Terrible Love,POINT (-97.73578196059628 30.304534429542027),coffee,green
+restaurant,Food Services,3 Train Pizza,POINT (-97.7555969 30.3728169),cutlery,green
+restaurant,Food Services,Darsan Namaste,POINT (-97.8407668 30.2234192),cutlery,green
+restaurant,Food Services,Thai Passion - South,POINT (-97.7879909 30.1666541),cutlery,green
+theatre,Recreation,Topfer Theatre,POINT (-97.75776655988797 30.264115326647925),film,red
+restaurant,Food Services,Biryani-N-Grill,POINT (-97.79697 30.4725247),cutlery,green
+restaurant,Food Services,Fonda San Miguel,POINT (-97.7433739 30.3255061),cutlery,green
+cafe,Food Services,Houndstooth,POINT (-97.7400068 30.3106073),coffee,green
+restaurant,Food Services,La Palapa,POINT (-97.6932173 30.3221769),cutlery,green
+cafe,Food Services,Avenue B Grocery,POINT (-97.73142870894736 30.309034778606232),coffee,green
+restaurant,Food Services,La Capital Del Marisco,POINT (-97.70386589859311 30.34361381185409),cutlery,green
+pub,Food Services,Mister Tramps Pub & Cafe,POINT (-97.71623265884455 30.3614478707462),beer,green
+restaurant,Food Services,Il Brutto,POINT (-97.7263392 30.2628076),cutlery,green
+restaurant,Food Services,Kebabalicious,POINT (-97.72826689721556 30.264510739541315),cutlery,green
+place_of_worship,Community Services,Hyde Park Baptist Church,POINT (-97.73186419028661 30.302209294684992),institution,orange
+restaurant,Food Services,Santorini Cafe,POINT (-97.6840649 30.3877255),cutlery,green
+bar,Food Services,Lustre Pearl,POINT (-97.73828899932764 30.260673679107022),beer,green
+restaurant,Food Services,Pepe's Fruit Cup Shop,POINT (-97.6959994 30.366903),cutlery,green
+place_of_worship,Community Services,Agape Christian Ministries,POINT (-97.7717561 30.2227791),institution,orange
+restaurant,Food Services,allday,POINT (-97.72352901457579 30.26246539351129),cutlery,green
+restaurant,Food Services,parkside,POINT (-97.740299 30.267202),cutlery,green
+cafe,Food Services,Emerald Tavern Games and Cafe,POINT (-97.7245372 30.3715088),coffee,green
+restaurant,Food Services,Gino's Italian Restaurant and Pizza,POINT (-97.6755181 30.4954508),cutlery,green
+bar,Food Services,Lala's South Pole,POINT (-97.8322305 30.1911471),beer,green
+place_of_worship,Community Services,Saint Matthew's Episcopal Church,POINT (-97.75649424093278 30.37472845697376),institution,orange
+restaurant,Food Services,Lick Honest Ice Creams,POINT (-97.7625208 30.2555387),cutlery,green
+cafe,Food Services,Kerbey Lane Cafe,POINT (-97.7835352 30.2422172),coffee,green
+restaurant,Food Services,CAVA,POINT (-97.742615 30.267824),cutlery,green
+pub,Food Services,The Brass Tap,POINT (-97.67756823282666 30.50925463110263),beer,green
+bar,Food Services,Midnight Cowboy,POINT (-97.739944 30.2671147),beer,green
+restaurant,Food Services,Cisco's Restaurant Bakery & Bar,POINT (-97.7267285 30.2629914),cutlery,green
+place_of_worship,Community Services,Pleasant Grove Baptist Church,POINT (-97.68693444831987 30.277483084167127),institution,orange
+restaurant,Food Services,Micklethwait Barbecue,POINT (-97.69014411416138 30.273196880162374),cutlery,green
+bar,Food Services,Casino El Camino,POINT (-97.7376596 30.2665007),beer,green
+bar,Food Services,The Continental Club,POINT (-97.749034470502 30.25050048133458),beer,green
+restaurant,Food Services,Denny's,POINT (-97.74255952202158 30.23322653144515),cutlery,green
+bar,Food Services,Bourbon Girl,POINT (-97.7408963 30.2676562),beer,green
+restaurant,Food Services,Licha's Cantina,POINT (-97.7288395 30.264007),cutlery,green
+bar,Food Services,Lavaca Street Bar,POINT (-97.7850226 30.2413506),beer,green
+restaurant,Food Services,ChoSun Galbi,POINT (-97.70657034999998 30.329912250000003),cutlery,green
+restaurant,Food Services,Foreign & Domestic,POINT (-97.7195557 30.3170802),cutlery,green
+cafe,Food Services,Merit Coffee,POINT (-97.76168924999999 30.25523545),coffee,green
+restaurant,Food Services,JINYA Ramen Bar,POINT (-97.7232535 30.400297),cutlery,green
+bar,Food Services,CU29 Cocktail Bar,POINT (-97.741148 30.269053),beer,green
+place_of_worship,Community Services,Christ Apostolic Church,POINT (-97.6659846 30.3097016),institution,orange
+restaurant,Food Services,Aba,POINT (-97.7478012 30.2530792),cutlery,green
+restaurant,Food Services,Tacos La Esmeralda,POINT (-97.7049684 30.3336384),cutlery,green
+restaurant,Food Services,Soup Peddler,POINT (-97.7560714 30.2461944),cutlery,green
+restaurant,Food Services,Habanero Mexican Cafe,POINT (-97.7582430818207 30.241211242196986),cutlery,green
+cafe,Food Services,Klerjē Coffee,POINT (-97.7254221 30.2627736),coffee,green
+place_of_worship,Community Services,St Mark United Methodist Church,POINT (-97.68544024972901 30.379989419456905),institution,orange
+bar,Food Services,Firehouse Lounge & Hostel,POINT (-97.74106358706759 30.26816506148084),beer,green
+restaurant,Food Services,La Casita,POINT (-97.7224631 30.3517455),cutlery,green
+restaurant,Food Services,Jacoby's Restaurant & Mercantile,POINT (-97.7073829608405 30.25151759758811),cutlery,green
+restaurant,Food Services,Maudie's Tex-Mex,POINT (-97.6913606 30.3710845),cutlery,green
+restaurant,Food Services,The Vegan Nom,POINT (-97.7183365 30.2551436),cutlery,green
+restaurant,Food Services,Golden Corral,POINT (-97.67716670130231 30.409353962488808),cutlery,green
+bar,Food Services,Beerdrop,POINT (-97.6645285 30.2022809),beer,green
+bar,Food Services,Blind Pig,POINT (-97.73981 30.2670792),beer,green
+cafe,Food Services,Starbucks,POINT (-97.7925576 30.2376538),coffee,green
+restaurant,Food Services,Hoek's Pizza,POINT (-97.7378522 30.2665547),cutlery,green
+bar,Food Services,daydreamer,POINT (-97.72355660922311 30.26229160417601),beer,green
+restaurant,Food Services,Steamies Dumplings,POINT (-97.7166696 30.3365663),cutlery,green
+bar,Food Services,Darwin's,POINT (-97.7405942 30.267299),beer,green
+place_of_worship,Community Services,Christ Science Church,POINT (-97.74312225121872 30.27655945753779),institution,orange
+bar,Food Services,Hen,POINT (-97.7317838 30.2649667),beer,green
+restaurant,Food Services,East Side King,POINT (-97.7250128 30.262939),cutlery,green
+cafe,Food Services,Zhi Tea,POINT (-97.6931123 30.2673527),coffee,green
+restaurant,Food Services,Chili's,POINT (-97.7271869 30.3723167),cutlery,green
+bar,Food Services,311,POINT (-97.74004 30.2670807),beer,green
+pub,Food Services,Deep Eddy Cabaret,POINT (-97.772558 30.277787),beer,green
+restaurant,Food Services,Zanzibar,POINT (-97.7418482 30.2629154),cutlery,green
+restaurant,Food Services,Anthem,POINT (-97.7379039 30.2604985),cutlery,green
+place_of_worship,Community Services,Saint Andrew's Presbyterian Church,POINT (-97.67494142217613 30.436832476143135),institution,orange
+restaurant,Food Services,Hula Hut,POINT (-97.78443010964772 30.29468829720974),cutlery,green
+bar,Food Services,Las Perlas,POINT (-97.7386442 30.2677401),beer,green
+restaurant,Food Services,EurAsia Sushi Bar & Seafood,POINT (-97.8781948 30.2347428),cutlery,green
+restaurant,Food Services,Asador,POINT (-97.7387281 30.2675797),cutlery,green
+restaurant,Food Services,Koriente Restaurant,POINT (-97.73599448887549 30.26701099526023),cutlery,green
+restaurant,Food Services,Turf N' Surf Po-Boy,POINT (-97.7849729 30.2413854),cutlery,green
+place_of_worship,Community Services,Saint Louis Catholic Church,POINT (-97.73202715730352 30.352748555089505),institution,orange
+place_of_worship,Community Services,Sanctuary of Deliverance,POINT (-97.7214769176075 30.275394840232778),institution,orange
+restaurant,Food Services,Louisiana Longhorn Cafe,POINT (-97.67764635000002 30.509232200000007),cutlery,green
+place_of_worship,Community Services,Grace Community Church,POINT (-97.8046037422963 30.45339784508338),institution,orange
+restaurant,Food Services,Spartan Pizza,POINT (-97.7322105 30.2648584),cutlery,green
+events_venue,Recreation,Volcom Garden,POINT (-97.7301544 30.2641101),institution,orange
+place_of_worship,Community Services,Beth Shalom,POINT (-97.75571484097439 30.35797731838495),institution,orange
+bar,Food Services,Dirty Dog Bar,POINT (-97.7379787 30.2665898),beer,green
+restaurant,Food Services,The Salty,POINT (-97.75212855500556 30.24417283252673),cutlery,green
+restaurant,Food Services,Bill Miller Bar-B-Q,POINT (-97.6702585833969 30.438777336125003),cutlery,green
+restaurant,Food Services,Pluckers Wing Bar,POINT (-97.79083043122796 30.236729218242864),cutlery,green
+place_of_worship,Community Services,Wesley United Methodist Church,POINT (-97.72622874254873 30.269688420504906),institution,orange
+bar,Food Services,Maggie Mae's,POINT (-97.7396775 30.2670433),beer,green
+pub,Food Services,Moonshine Comfort & Cocktails,POINT (-97.7380295 30.2637792),beer,green
+cafe,Food Services,Terrazzo Tea,POINT (-97.7209601 30.2619053),coffee,green
+bar,Food Services,Friends Bar,POINT (-97.7410028 30.267686),beer,green
+restaurant,Food Services,China Fun,POINT (-97.6873152 30.356431),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.79170905765989 30.44805918881469),coffee,green
+bar,Food Services,Casino el Camino,POINT (-97.7824989 30.2285706),beer,green
+place_of_worship,Community Services,The Church of Jesus Christ of Latter-day Saints,POINT (-97.74335844712768 30.283617233154185),institution,orange
+place_of_worship,Community Services,Korean Baptist Church,POINT (-97.74312085846714 30.223621502883717),institution,orange
+bar,Food Services,Latchkey,POINT (-97.7286588 30.2640071),beer,green
+restaurant,Food Services,Sazan Ramen,POINT (-97.7166085 30.336657),cutlery,green
+bar,Food Services,Lala's,POINT (-97.736413 30.3446186),beer,green
+restaurant,Food Services,Tropicana Cuban Restaurant,POINT (-97.696104 30.3669425),cutlery,green
+cafe,Food Services,Star Coffee,POINT (-97.6775793 30.5087819),coffee,green
+restaurant,Food Services,Terry’s,POINT (-97.70281349999998 30.281519000000003),cutlery,green
+bar,Food Services,MugShots,POINT (-97.7384416 30.2677385),beer,green
+library,Community Services,Austin Public Library - Milwood Branch,POINT (-97.71619068328941 30.422332279351192),book,orange
+restaurant,Food Services,Thai Kitchen,POINT (-97.74163896566027 30.29672023114157),cutlery,green
+restaurant,Food Services,El Pollo Rico,POINT (-97.7202697 30.2351162),cutlery,green
+theatre,Recreation,The Rosette,POINT (-97.7356419 30.3042508),film,red
+restaurant,Food Services,Masala Wok,POINT (-97.6703787 30.4181515),cutlery,green
+restaurant,Food Services,First Chinese BBQ,POINT (-97.6865252 30.3788312),cutlery,green
+restaurant,Food Services,Jasmine's Restaurant,POINT (-97.65933054256965 30.213830086432413),cutlery,green
+theatre,Recreation,Come And Take It Live,POINT (-97.72887774777321 30.240863605648517),film,red
+restaurant,Food Services,Deckhand,POINT (-97.7934963 30.2350802),cutlery,green
+bar,Food Services,Flamingo Cantina,POINT (-97.73776227886675 30.26643681495994),beer,green
+cafe,Food Services,Picnik,POINT (-97.738972 30.318904),coffee,green
+restaurant,Food Services,Noble Sandwich Co,POINT (-97.6644599 30.2022362),cutlery,green
+restaurant,Food Services,Bento Picnic,POINT (-97.71519430614717 30.25406553287109),cutlery,green
+restaurant,Food Services,Chupacabra Cantina,POINT (-97.7391442 30.2671673),cutlery,green
+theatre,Recreation,ZACH Theatre,POINT (-97.75827839120485 30.264197645438227),film,red
+bar,Food Services,Shangri La,POINT (-97.7316207 30.264933),beer,green
+restaurant,Food Services,Pizza Hut,POINT (-97.765301 30.2010536),cutlery,green
+restaurant,Food Services,Flower Child,POINT (-97.7495445 30.2659764),cutlery,green
+restaurant,Food Services,Nikki's Pizza,POINT (-97.6703895 30.418079),cutlery,green
+restaurant,Food Services,Jason's Deli,POINT (-97.7311358 30.357364),cutlery,green
+restaurant,Food Services,Kinda Tropical,POINT (-97.70304048690592 30.256526491608952),cutlery,green
+place_of_worship,Community Services,St. George's Episcopal Church,POINT (-97.715464 30.3001672),institution,orange
+restaurant,Food Services,Tandoori Bistro,POINT (-97.7406066 30.2325951),cutlery,green
+place_of_worship,Community Services,Trinity Baptist Church,POINT (-97.7333379 30.3255534),institution,orange
+restaurant,Food Services,Smokey Moes Barbecue,POINT (-97.83315274803567 30.479052492626025),cutlery,green
+restaurant,Food Services,Julie’s Noodle,POINT (-97.7157753 30.3610659),cutlery,green
+bar,Food Services,Ego's,POINT (-97.7474697 30.2565437),beer,green
+bar,Food Services,Seven Grand,POINT (-97.7385583 30.2677234),beer,green
+bar,Food Services,Subterra Agave Bar,POINT (-97.7528544 30.2668517),beer,green
+bar,Food Services,Little Woodrow's,POINT (-97.74804788317456 30.269801363351842),beer,green
+restaurant,Food Services,ZIKI,POINT (-97.7532413 30.2733418),cutlery,green
+restaurant,Food Services,Tacodeli,POINT (-97.7401083 30.3104716),cutlery,green
+bar,Food Services,Buckshot 6th St,POINT (-97.7384055 30.2669612),beer,green
+restaurant,Food Services,Lil' Doddy,POINT (-97.84346254621292 30.223084770584602),cutlery,green
+restaurant,Food Services,Cabo Bob's,POINT (-97.7441221 30.2957196),cutlery,green
+cafe,Food Services,Phoebe's Diner,POINT (-97.7448779 30.2740058),coffee,green
+restaurant,Food Services,Sushi a go go,POINT (-97.6644107 30.2022376),cutlery,green
+cafe,Food Services,Signature Cafe,POINT (-97.7469768 30.4019782),coffee,green
+restaurant,Food Services,Casa Chapala,POINT (-97.7255279 30.3735638),cutlery,green
+cafe,Food Services,Slake Cafe,POINT (-97.741283 30.268835),coffee,green
+restaurant,Food Services,Thai House,POINT (-97.7254254 30.3735916),cutlery,green
+restaurant,Food Services,Pokéworks,POINT (-97.7274973 30.2423298),cutlery,green
+library,Community Services,Perry-Castañeda Library Map Collection,POINT (-97.7385054 30.2828335),book,orange
+place_of_worship,Community Services,Austin Shambhala Meditation Center,POINT (-97.76105931187668 30.25039470437302),institution,orange
+restaurant,Food Services,The Phở Vietnamese Kitchen,POINT (-97.7142123 30.3239009),cutlery,green
+bar,Food Services,Peckerheads on Sixth,POINT (-97.7390753 30.2671481),beer,green
+restaurant,Food Services,Elizabeth Street Cafe,POINT (-97.7546623048768 30.249786012370016),cutlery,green
+restaurant,Food Services,Barley Swine,POINT (-97.738314 30.3413397),cutlery,green
+bar,Food Services,B. D. Riley's Irish Pub & Restaurant,POINT (-97.7411179 30.2677181),beer,green
+restaurant,Food Services,Buenos Aires Café,POINT (-97.73042760935118 30.264222330299344),cutlery,green
+restaurant,Food Services,La Piscina Ceviches & Fajitas,POINT (-97.75026945 30.266291150000004),cutlery,green
+restaurant,Food Services,Foxhole Culinary Tavern,POINT (-97.79828273652323 30.4744287182429),cutlery,green
+cafe,Food Services,Maňana,POINT (-97.7545299 30.2672874),coffee,green
+restaurant,Food Services,Taqueria Guadalajara Arandas,POINT (-97.7391639 30.341561),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.7468743 30.401983),coffee,green
+restaurant,Food Services,Perla's,POINT (-97.7500381 30.2499704),cutlery,green
+restaurant,Food Services,Gino's Vino,POINT (-97.7068937 30.3072827),cutlery,green
+restaurant,Food Services,Hu Thieu My Tho,POINT (-97.6877225 30.3781718),cutlery,green
+place_of_worship,Community Services,Holy Cross Lutheran Church,POINT (-97.80586385018206 30.232724230564703),institution,orange
+restaurant,Food Services,Pool Burger,POINT (-97.7727396 30.2776583),cutlery,green
+bar,Food Services,Ellis,POINT (-97.74404789381377 30.264031927991496),beer,green
+restaurant,Food Services,Ember Kitchen,POINT (-97.7528357 30.2668996),cutlery,green
+pub,Food Services,Bender Bar & Grill,POINT (-97.7674191 30.2241986),beer,green
+cafe,Food Services,Jo's Coffee Red River,POINT (-97.7219121 30.299833900000003),coffee,green
+events_venue,Recreation,Hotel Vegas,POINT (-97.7272452 30.2634251),institution,orange
+restaurant,Food Services,Jason's Deli,POINT (-97.7444977 30.3947997),cutlery,green
+bar,Food Services,Soho,POINT (-97.7407594 30.2672482),beer,green
+place_of_worship,Community Services,Shelton Chapel,POINT (-97.73775054286558 30.292018753200658),institution,orange
+restaurant,Food Services,Valle Cafe,POINT (-97.643092 30.2034244),cutlery,green
+restaurant,Food Services,Geisha Sushi & Grill,POINT (-97.7364345 30.266411),cutlery,green
+restaurant,Food Services,Lavaca Street Bar,POINT (-97.723202 30.4005614),cutlery,green
+restaurant,Food Services,Pepe's Mexican Restaurant,POINT (-97.6658186 30.3095966),cutlery,green
+restaurant,Food Services,24 Diner,POINT (-97.6642863463245 30.202409394891927),cutlery,green
+restaurant,Food Services,Taqueria Villanueva,POINT (-97.6869568 30.358548),cutlery,green
+cafe,Food Services,Cuvée Coffee,POINT (-97.7211444 30.2614363),coffee,green
+restaurant,Food Services,Cuba512,POINT (-97.8160037 30.2090073),cutlery,green
+place_of_worship,Community Services,Southwest Family Fellowship,POINT (-97.88721885847764 30.245978432165437),institution,orange
+restaurant,Food Services,Applebee's,POINT (-97.79961115653663 30.47212071826265),cutlery,green
+place_of_worship,Community Services,Eckankar Center of Austin,POINT (-97.7070008 30.3442633),institution,orange
+place_of_worship,Community Services,The Church of Jesus Christ of Latter-day Saints,POINT (-97.73590460751515 30.232974596897353),institution,orange
+restaurant,Food Services,Din Ho Chinese BBQ,POINT (-97.7156632 30.3610907),cutlery,green
+restaurant,Food Services,5280 Burger and Taphouse,POINT (-97.7540535 30.3526685),cutlery,green
+restaurant,Food Services,Thundercloud Subs,POINT (-97.723803 30.3824074),cutlery,green
+bar,Food Services,Chuggin' Monkey,POINT (-97.7407252 30.2671957),beer,green
+bar,Food Services,Bar 508 Mezcalerita,POINT (-97.7366320007041 30.26861263371729),beer,green
+restaurant,Food Services,Nissi Vegan Méxican Cuisine,POINT (-97.7247135 30.3711681),cutlery,green
+restaurant,Food Services,Central Market Cafe,POINT (-97.7971638 30.2313865),cutlery,green
+cafe,Food Services,Kiefer's Cafe and Catering,POINT (-97.709846 30.3880837),coffee,green
+cafe,Food Services,My Name Is Joe Coffee,POINT (-97.742689 30.2674422),coffee,green
+cafe,Food Services,Red River Cafe,POINT (-97.7284176 30.2896999),coffee,green
+cafe,Food Services,Zocalo Cafe,POINT (-97.664333 30.2022458),coffee,green
+place_of_worship,Community Services,Iglesia de Cristo,POINT (-97.71069877342327 30.299887061245347),institution,orange
+bar,Food Services,The Jackalope,POINT (-97.7390069 30.267129),beer,green
+restaurant,Food Services,Baldinucci Pizza Romana,POINT (-97.8006328 30.2751282),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.7275435 30.2424096),coffee,green
+restaurant,Food Services,Salsa Limón,POINT (-97.74165564752695 30.296607893919045),cutlery,green
+restaurant,Food Services,Mad Greens,POINT (-97.7229782 30.4001864),cutlery,green
+restaurant,Food Services,True Food Kitchen,POINT (-97.7523453 30.2669927),cutlery,green
+restaurant,Food Services,Madras Pavilion,POINT (-97.7241083 30.3729305),cutlery,green
+place_of_worship,Community Services,First Baptist Church of Austin,POINT (-97.73760775299156 30.270240470827392),institution,orange
+theatre,Recreation,Whisenhunt Stage,POINT (-97.7588719752341 30.26401345226313),film,red
+restaurant,Food Services,Mr. Catfish,POINT (-97.6907978 30.2723506),cutlery,green
+restaurant,Food Services,Botticelli's,POINT (-97.7491227 30.2503043),cutlery,green
+cafe,Food Services,Sip Munch Cafe,POINT (-97.689915 30.4120965),coffee,green
+restaurant,Food Services,Veracruz all natural,POINT (-97.726027 30.2580035),cutlery,green
+place_of_worship,Community Services,Memorial United Methodist Church,POINT (-97.69258542325855 30.315960206903384),institution,orange
+theatre,Recreation,Esther's Follies,POINT (-97.7374511 30.2662204),film,red
+bar,Food Services,Bouldin Acres,POINT (-97.7686832795051 30.248215862768053),beer,green
+place_of_worship,Community Services,Christian Life Church,POINT (-97.80196889542023 30.2290117741958),institution,orange
+restaurant,Food Services,Villa Mexico,POINT (-97.7678877 30.2152705),cutlery,green
+restaurant,Food Services,Brooklyn Dumpling Shop,POINT (-97.7280332 30.2634537),cutlery,green
+cafe,Food Services,Bennu Coffee,POINT (-97.7196272 30.2797982),coffee,green
+restaurant,Food Services,Mikado Ryotei,POINT (-97.7247091 30.3734303),cutlery,green
+restaurant,Food Services,Sbarro Pizza,POINT (-97.6431552 30.2033678),cutlery,green
+place_of_worship,Community Services,University Baptist Church,POINT (-97.742610682603 30.284790010073916),institution,orange
+restaurant,Food Services,Newk's,POINT (-97.7510323 30.3951748),cutlery,green
+bar,Food Services,The Liberty,POINT (-97.72506606284064 30.262697193913024),beer,green
+place_of_worship,Community Services,Church of Christ of South Austin,POINT (-97.791389 30.1943031),institution,orange
+restaurant,Food Services,Dos Salsas Tex-Mex,POINT (-97.71937151966992 30.39695332869837),cutlery,green
+restaurant,Food Services,Technique,POINT (-97.721438 30.4008138),cutlery,green
+restaurant,Food Services,Brooklyn Pie Co.,POINT (-97.736246 30.344558),cutlery,green
+restaurant,Food Services,La Mancha,POINT (-97.74089129999999 30.322495599999996),cutlery,green
+restaurant,Food Services,Brick House Tavern,POINT (-97.74764493212157 30.41790254704497),cutlery,green
+restaurant,Food Services,Coco’s Cafe,POINT (-97.7155755 30.3611102),cutlery,green
+bar,Food Services,Devil May Care,POINT (-97.74756829603106 30.269604014238624),beer,green
+restaurant,Food Services,June's All Day,POINT (-97.7511347 30.2463145),cutlery,green
+bar,Food Services,Common Interest,POINT (-97.7291769 30.3662779),beer,green
+restaurant,Food Services,Ken's Tacos,POINT (-97.6759793162146 30.351664957773828),cutlery,green
+restaurant,Food Services,Cover 3,POINT (-97.7350186 30.3586499),cutlery,green
+place_of_worship,Community Services,Mt Sinai Baptist Church,POINT (-97.68156611791258 30.34222868530041),institution,orange
+cafe,Food Services,Starbucks,POINT (-97.7385289 30.312715),coffee,green
+restaurant,Food Services,Eureka,POINT (-97.741256 30.267757),cutlery,green
+restaurant,Food Services,Red Ash,POINT (-97.74467874999999 30.265686000000002),cutlery,green
+bar,Food Services,Mooseknuckle,POINT (-97.7389289 30.2671072),beer,green
+place_of_worship,Community Services,Walnut Creek Baptist Church,POINT (-97.6825213 30.3941542),institution,orange
+library,Community Services,Harrison Library,POINT (-97.73216256201421 30.292365677845254),book,orange
+place_of_worship,Community Services,"Bahá'í Faith of Austin, Texas",POINT (-97.69766393365622 30.288115595132744),institution,orange
+place_of_worship,Community Services,Western Hills Church of Christ,POINT (-97.85518969999998 30.236965899999998),institution,orange
+restaurant,Food Services,Hunan Lion,POINT (-97.7937478 30.237321),cutlery,green
+restaurant,Food Services,North Italia,POINT (-97.7489908 30.2658145),cutlery,green
+place_of_worship,Community Services,Freedom Home Baptist Church,POINT (-97.69618971069994 30.273024275431762),institution,orange
+restaurant,Food Services,The Kebab Shop,POINT (-97.708902 30.3062763),cutlery,green
+restaurant,Food Services,Stubb's BBQ,POINT (-97.7362194 30.268488899999998),cutlery,green
+bar,Food Services,The Brixton,POINT (-97.7276066 30.2635546),beer,green
+bar,Food Services,Lanai,POINT (-97.7435033 30.2670626),beer,green
+restaurant,Food Services,Marisco Grill,POINT (-97.7409874 30.2673138),cutlery,green
+social_centre,Community Services,Louis IX Hall,POINT (-97.73080159156785 30.35314554636372),institution,orange
+place_of_worship,Community Services,Unity Center,POINT (-97.7166531 30.3516575),institution,orange
+bar,Food Services,Sky Lounge,POINT (-97.7436233 30.2670536),beer,green
+restaurant,Food Services,Aster's Ethiopian Restaurant,POINT (-97.72503794643075 30.287263504295943),cutlery,green
+bar,Food Services,Saturn,POINT (-97.7418768 30.2712335),beer,green
+place_of_worship,Community Services,Islamic Center of Greater Austin,POINT (-97.68678718623144 30.299668684991726),institution,orange
+restaurant,Food Services,Muangthai Thai Cuisine,POINT (-97.7969782 30.4721637),cutlery,green
+library,Community Services,Austin Public Library - Hampton Branch at Oak Hill,POINT (-97.85501400896314 30.217596574986572),book,orange
+restaurant,Food Services,Cedar Door,POINT (-97.74252306423703 30.26408027505952),cutlery,green
+bar,Food Services,Coyote Ugly,POINT (-97.73820165000001 30.2664773),beer,green
+restaurant,Food Services,Snow Ball Rice Ball,POINT (-97.7166016 30.3368926),cutlery,green
+restaurant,Food Services,Megenagna Mart and Cafe,POINT (-97.6829729 30.4353008),cutlery,green
+place_of_worship,Community Services,Impact Family Church,POINT (-97.8193187650359 30.207842764772522),institution,orange
+bar,Food Services,Cheers Shot Bar,POINT (-97.7386248 30.2670224),beer,green
+place_of_worship,Community Services,Ridgetop Church,POINT (-97.71671813735828 30.313122788768567),institution,orange
+restaurant,Food Services,The Peacock,POINT (-97.750323 30.266151),cutlery,green
+restaurant,Food Services,Goya Sushi & Grill,POINT (-97.7954631 30.4619117),cutlery,green
+place_of_worship,Community Services,Central Presbyterian Church,POINT (-97.74032659076092 30.26977453711781),institution,orange
+restaurant,Food Services,Juanita's Tacos,POINT (-97.7577953 30.2717214),cutlery,green
+restaurant,Food Services,Pho Van Vietnamese,POINT (-97.7154947 30.36113),cutlery,green
+place_of_worship,Community Services,Faith Baptist Church,POINT (-97.80275865511302 30.224479083133048),institution,orange
+place_of_worship,Community Services,Episcopal Church of the Resurrection,POINT (-97.735991362081 30.34519138488668),institution,orange
+restaurant,Food Services,Granny's Tacos,POINT (-97.7280908 30.2641651),cutlery,green
+restaurant,Food Services,El Chilito,POINT (-97.7244128 30.2630554),cutlery,green
+place_of_worship,Community Services,Saint Mary Cathedral,POINT (-97.73999871367036 30.271101154871978),institution,orange
+place_of_worship,Community Services,San Jose Catholic Church,POINT (-97.76329197216882 30.242039591830107),institution,orange
+bar,Food Services,Pour Choices,POINT (-97.7392228 30.2669109),beer,green
+theatre,Recreation,College of Fine Arts Performing Arts Center,POINT (-97.73114833843178 30.286368565446296),film,red
+bar,Food Services,Violet Crown Social Club,POINT (-97.73078015028626 30.264227943238996),beer,green
+restaurant,Food Services,Jaimes Spanish Village,POINT (-97.7365652 30.2687136),cutlery,green
+restaurant,Food Services,Takoba,POINT (-97.72740668634717 30.264108563385697),cutlery,green
+place_of_worship,Community Services,Greater Ulit Missionary Baptist Church,POINT (-97.67299946447677 30.286374795192465),institution,orange
+restaurant,Food Services,La Condesa,POINT (-97.7477644 30.265572),cutlery,green
+pub,Food Services,Opal Devine's,POINT (-97.7418028 30.2350713),beer,green
+restaurant,Food Services,Hyde Park Bar & Grill,POINT (-97.8001648 30.2316672),cutlery,green
+place_of_worship,Community Services,North Austin Muslim Community Center,POINT (-97.68400509342835 30.390358026548665),institution,orange
+library,Community Services,Austin Public Library - University Hills Branch,POINT (-97.66654213144788 30.308671514409845),book,orange
+restaurant,Food Services,Blenders & Bowls,POINT (-97.725339 30.262478),cutlery,green
+library,Community Services,Austin Public Library - Willie Mae Kirk Branch,POINT (-97.69977038541874 30.272995956988993),book,orange
+restaurant,Food Services,Hao Hao Restaurant,POINT (-97.805593 30.2013637),cutlery,green
+restaurant,Food Services,Roppolo's Pizza,POINT (-97.7386841 30.2670389),cutlery,green
+restaurant,Food Services,Conscious Cravings,POINT (-97.70765192122758 30.296505580496326),cutlery,green
+cafe,Food Services,Proud Mary,POINT (-97.76936716813186 30.24828642746401),coffee,green
+restaurant,Food Services,Quattro Gatti Ristorante,POINT (-97.7418546 30.271294),cutlery,green
+restaurant,Food Services,Waffle House,POINT (-97.65788861337138 30.329177307151078),cutlery,green
+restaurant,Food Services,SLAB BBQ & Beer,POINT (-97.8784801 30.2353456),cutlery,green
+restaurant,Food Services,Mia,POINT (-97.7231221 30.4007338),cutlery,green
+pub,Food Services,Crown and Anchor Pub,POINT (-97.7356230371589 30.29254876786534),beer,green
+bar,Food Services,Codependent Cocktails + Coffee,POINT (-97.7507931 30.2674513),beer,green
+place_of_worship,Community Services,Corinth Baptist Church,POINT (-97.72225178205224 30.27677594962127),institution,orange
+place_of_worship,Community Services,Trinity United Methodist Church,POINT (-97.7197337 30.3129801),institution,orange
+restaurant,Food Services,Muse Fusion + Sushi,POINT (-97.7921827 30.2336573),cutlery,green
+bar,Food Services,Buffalo Billiards,POINT (-97.7412007 30.2674314),beer,green
+restaurant,Food Services,Las Palomas Restaurant and Bar,POINT (-97.800095 30.2718285),cutlery,green
+theatre,Recreation,Centennial Plaza Amphitheater,POINT (-97.68124375927759 30.50575290808719),film,red
+restaurant,Food Services,Mason's Famous Lobster Rolls,POINT (-97.7447359 30.2646193),cutlery,green
+cinema,Recreation,Bob Bullock IMAX,POINT (-97.73894120590971 30.280581473271987),film,red
+restaurant,Food Services,Sushi Hi,POINT (-97.7154058 30.3618059),cutlery,green
+theatre,Recreation,Kleberg Stage,POINT (-97.75866657235652 30.264332021289608),film,red
+restaurant,Food Services,TLC,POINT (-97.7631014 30.2558239),cutlery,green
+restaurant,Food Services,Palermo Pasta House,POINT (-97.67782375917312 30.508568132302774),cutlery,green
+restaurant,Food Services,The Omelettry,POINT (-97.7154666 30.3067572),cutlery,green
+bar,Food Services,Mohawk,POINT (-97.7360877 30.2700576),beer,green
+restaurant,Food Services,Fukumoto,POINT (-97.7317272 30.2646261),cutlery,green
+place_of_worship,Community Services,Cameron Road Church of Christ,POINT (-97.69918296359793 30.318474709311467),institution,orange
+place_of_worship,Community Services,First Unitarian Universalist Church of Austin,POINT (-97.73839361809928 30.317579683144885),institution,orange
+restaurant,Food Services,Burger Bar,POINT (-97.7427998 30.2821105),cutlery,green
+restaurant,Food Services,Burros Tex Mex Bar and Grill,POINT (-97.67119698070587 30.51885562760436),cutlery,green
+place_of_worship,Community Services,Jesus Is Alive Ministries,POINT (-97.70009329541378 30.251810236079997),institution,orange
+place_of_worship,Community Services,Redeemer Presbyterian Church,POINT (-97.70954254646341 30.28426086001331),institution,orange
+bar,Food Services,Pete's Dueling Piano Bar,POINT (-97.7385615 30.266712),beer,green
+place_of_worship,Community Services,Global Missions Fellowship Church,POINT (-97.8446494 30.2371361),institution,orange
+restaurant,Food Services,SOHA,POINT (-97.7149075 30.3481635),cutlery,green
+bar,Food Services,The Roof Top on 6th,POINT (-97.7390899 30.2668797),beer,green
+restaurant,Food Services,Pappadeux's Seafood Kitchen,POINT (-97.7449763926084 30.41469287026057),cutlery,green
+cafe,Food Services,OPA! Greek Cafe,POINT (-97.7695041249427 30.248923764546877),coffee,green
+restaurant,Food Services,House of Three Gorges,POINT (-97.7153921 30.3617553),cutlery,green
+cafe,Food Services,The Star Cafe,POINT (-97.7388481 30.2799893),coffee,green
+restaurant,Food Services,Pelons Tex Mex,POINT (-97.73655165008692 30.268797143908728),cutlery,green
+bar,Food Services,Chalmers,POINT (-97.72629671283235 30.25796467359152),beer,green
+restaurant,Food Services,Sway,POINT (-97.7228731 30.4004878),cutlery,green
+restaurant,Food Services,Woodland,POINT (-97.7510901 30.2464589),cutlery,green
+cafe,Food Services,Feng Cha,POINT (-97.7137633 30.3239159),coffee,green
+restaurant,Food Services,Bun Belly,POINT (-97.7166443 30.3370306),cutlery,green
+restaurant,Food Services,Swank,POINT (-97.6780294082115 30.509105233750073),cutlery,green
+restaurant,Food Services,Chuy's,POINT (-97.74779630493092 30.418557131831935),cutlery,green
+restaurant,Food Services,Crepe Crazy,POINT (-97.7846524 30.241602),cutlery,green
+place_of_worship,Community Services,Teri Road Baptist Church,POINT (-97.7547832 30.2041056),institution,orange
+bar,Food Services,Futbol En Vivo,POINT (-97.6966509 30.3657169),beer,green
+cafe,Food Services,Starbucks,POINT (-97.74443355855954 30.278086622782478),coffee,green
+restaurant,Food Services,Veracruz All Natural,POINT (-97.70769964999998 30.2964296),cutlery,green
+restaurant,Food Services,Salvation Pizza,POINT (-97.66402452230739 30.202386969176054),cutlery,green
+restaurant,Food Services,Uchibā,POINT (-97.7500534 30.2658323),cutlery,green
+bar,Food Services,Shiner's Saloon,POINT (-97.7434785 30.2669237),beer,green
+place_of_worship,Community Services,Dayspring Chapel,POINT (-97.71909 30.3197152),institution,orange
+restaurant,Food Services,Nomade,POINT (-97.7552994 30.2497111),cutlery,green
+cafe,Food Services,Idlewild Coffee,POINT (-97.7496715 30.2765365),coffee,green
+library,Community Services,Perry-Castañeda Library,POINT (-97.7382137109607 30.282735107534485),book,orange
+restaurant,Food Services,Mama Fu's,POINT (-97.7493286 30.398259),cutlery,green
+restaurant,Food Services,El Pollo Rico #3,POINT (-97.66928959817105 30.517661773129486),cutlery,green
+bar,Food Services,Good Intentions,POINT (-97.73927999999998 30.266778300000002),beer,green
+place_of_worship,Community Services,Saint Andrew Kim Taegon Catholic Church,POINT (-97.79288413547303 30.200733752656532),institution,orange
+restaurant,Food Services,Flower Child,POINT (-97.8004828 30.2753219),cutlery,green
+restaurant,Food Services,Gloria's Latin Cuisine,POINT (-97.726048 30.4001775),cutlery,green
+theatre,Recreation,G. A. Bailey Center for the Performing Arts,POINT (-97.68227137106305 30.25852476833218),film,red
+bar,Food Services,Hi Hat Public House,POINT (-97.7189075 30.2601996),beer,green
+bar,Food Services,The Library,POINT (-97.7390182 30.2668647),beer,green
+restaurant,Food Services,1618 Asian Fusion,POINT (-97.730369 30.245235),cutlery,green
+restaurant,Food Services,Juan in a Million,POINT (-97.71896114220095 30.255321477583987),cutlery,green
+restaurant,Food Services,Stubs BBQ,POINT (-97.7361950775525 30.268672666465346),cutlery,green
+restaurant,Food Services,Uchi,POINT (-97.7597538651338 30.257520759313582),cutlery,green
+restaurant,Food Services,68 Degrees Kitchen,POINT (-97.77298426239928 30.277881691182504),cutlery,green
+restaurant,Food Services,Taquerias Arandinas,POINT (-97.6966756 30.3656894),cutlery,green
+place_of_worship,Community Services,Community Church of God,POINT (-97.7322307 30.3049255),institution,orange
+restaurant,Food Services,The Alcove,POINT (-97.67792978272279 30.508599318366187),cutlery,green
+restaurant,Food Services,Lone Star Kolaches,POINT (-97.72966420820693 30.35586180203542),cutlery,green
+restaurant,Food Services,Chinatown,POINT (-97.7833214 30.2415436),cutlery,green
+bar,Food Services,ABGB,POINT (-97.7688434 30.2452596),beer,green
+place_of_worship,Community Services,Praise Jesus Church,POINT (-97.68303516266215 30.378232450621038),institution,orange
+theatre,Recreation,Moody Ampitheater at Waterloo Park,POINT (-97.73623127455295 30.27446728584803),film,red
+cafe,Food Services,Simona's Coffee + Cocktails,POINT (-97.75610626701696 30.238164117186024),coffee,green
+bar,Food Services,The Highball,POINT (-97.7631528 30.2561493),beer,green
+restaurant,Food Services,Crawfish Shack & Oyster Bar,POINT (-97.6828197 30.43519),cutlery,green
+place_of_worship,Community Services,Intervarsity Christian Church,POINT (-97.74328112024648 30.285259456488482),institution,orange
+pub,Food Services,Gourmands Neighborhood Pub,POINT (-97.7153907 30.2625671),beer,green
+bar,Food Services,The Dogwood,POINT (-97.723074 30.400873),beer,green
+pub,Food Services,Foxy's Proper Pub,POINT (-97.74246881740153 30.264259993109032),beer,green
+restaurant,Food Services,Kobe Japanese Steakhouse,POINT (-97.7920347 30.4491846),cutlery,green
+restaurant,Food Services,Vaquero Taquero,POINT (-97.7358582 30.2664657),cutlery,green
+place_of_worship,Community Services,New Life Austin,POINT (-97.69769164879452 30.436702395836086),institution,orange
+restaurant,Food Services,Pok-E-Joe's BBQ,POINT (-97.6976689 30.4162355),cutlery,green
+place_of_worship,Community Services,North Loop Church of Christ,POINT (-97.734179 30.3235382),institution,orange
+restaurant,Food Services,Souper! Salad!,POINT (-97.7929257 30.2344579),cutlery,green
+bar,Food Services,Toulouse on 6th Street,POINT (-97.7389497 30.2668447),beer,green
+place_of_worship,Community Services,First Presbyterian Church,POINT (-97.75785892367867 30.36935272008144),institution,orange
+restaurant,Food Services,Pok-e-Jo's Smokehouse,POINT (-97.7188561 30.2984763),cutlery,green
+place_of_worship,Community Services,Saint Stephens Baptist Church,POINT (-97.71749433096474 30.420471218798944),institution,orange
+restaurant,Food Services,Green Pastures,POINT (-97.762261908953 30.244949266662022),cutlery,green
+theatre,Recreation,The Long Center for the Performing Arts,POINT (-97.75119115395084 30.26019099670992),film,red
+restaurant,Food Services,Madam Mam's,POINT (-97.7345247 30.3595133),cutlery,green
+restaurant,Food Services,Corner Restaurant,POINT (-97.7438985 30.2644196),cutlery,green
+restaurant,Food Services,Gus' Fried Chicken,POINT (-97.741701 30.26347),cutlery,green
+place_of_worship,Community Services,Austin Mennonite Church,POINT (-97.6904100233742 30.312220093634235),institution,orange
+cafe,Food Services,Revival Coffee,POINT (-97.7277618 30.2642837),coffee,green
+cafe,Food Services,Epoch Coffee,POINT (-97.7346731 30.3593671),coffee,green
+restaurant,Food Services,Chez Nous,POINT (-97.7385412 30.2664993),cutlery,green
+bar,Food Services,Buddy's Place,POINT (-97.7271659 30.3690209),beer,green
+cafe,Food Services,Starbucks,POINT (-97.8051037 30.4769275),coffee,green
+restaurant,Food Services,Xing Long Chinese Cuisine,POINT (-97.7918378 30.4467738),cutlery,green
+restaurant,Food Services,The Cheesecake Factory,POINT (-97.8079245 30.2573805),cutlery,green
+restaurant,Food Services,El Alma,POINT (-97.75564825845031 30.260016948181025),cutlery,green
+place_of_worship,Community Services,Iglesia Vida Nueva of Austin,POINT (-97.70817698896609 30.33504945988075),institution,orange
+restaurant,Food Services,Mr Gatti's Pizza,POINT (-97.7390819 30.3587973),cutlery,green
+restaurant,Food Services,The Boat,POINT (-97.73339376749531 30.397723910677637),cutlery,green
+cafe,Food Services,Épicerie,POINT (-97.74368891575658 30.32452184008426),coffee,green
+restaurant,Food Services,Local Foods,POINT (-97.748514 30.265697),cutlery,green
+restaurant,Food Services,Intero,POINT (-97.71444058673045 30.25388042719256),cutlery,green
+cafe,Food Services,Le Café Crêpe,POINT (-97.7418971 30.2638474),coffee,green
+restaurant,Food Services,Pho Saigon Noodle House,POINT (-97.6872118 30.3778971),cutlery,green
+restaurant,Food Services,Sweetgreen,POINT (-97.7228063 30.4006129),cutlery,green
+cafe,Food Services,La Madeleine,POINT (-97.709145 30.3063809),coffee,green
+restaurant,Food Services,Ramen Tatsu-Ya,POINT (-97.7152245 30.3612166),cutlery,green
+bar,Food Services,Lustre Pearl East,POINT (-97.7107585 30.2530248),beer,green
+restaurant,Food Services,Hungry Yeti Scratch Kitchen,POINT (-97.6702189 30.4197899),cutlery,green
+place_of_worship,Community Services,Saint Paul Lutheran Church,POINT (-97.72385277341229 30.293966189277064),institution,orange
+bar,Food Services,Skylark Lounge,POINT (-97.70410336854323 30.28477289560902),beer,green
+place_of_worship,Community Services,Diocese of Austin Chancery,POINT (-97.7394455071613 30.278216112286135),institution,orange
+restaurant,Food Services,Trudy's Texas Star,POINT (-97.7409556 30.2958121),cutlery,green
+restaurant,Food Services,Tien Jin Chinese Restaurant,POINT (-97.8026944 30.2307782),cutlery,green
+restaurant,Food Services,Zao's,POINT (-97.8327979 30.4787876),cutlery,green
+cafe,Food Services,604 Coffee,POINT (-97.719101 30.3348258),coffee,green
+restaurant,Food Services,Geraldine's,POINT (-97.7392719 30.2601776),cutlery,green
+restaurant,Food Services,CAVA,POINT (-97.7992479 30.2730999),cutlery,green
+cafe,Food Services,Palkis Cafe,POINT (-97.6811756 30.5588862),coffee,green
+restaurant,Food Services,Kuali Tlakuali,POINT (-97.7241403 30.26252435),cutlery,green
+restaurant,Food Services,Casa de Luz,POINT (-97.76162663492504 30.264417911558237),cutlery,green
+restaurant,Food Services,Pita Fusion,POINT (-97.7951848 30.4620006),cutlery,green
+restaurant,Food Services,Umiya,POINT (-97.832845 30.4786972),cutlery,green
+bar,Food Services,The Lodge,POINT (-97.7388823 30.2668174),beer,green
+restaurant,Food Services,Historic Scoot Inn,POINT (-97.72938780016531 30.26212222748713),cutlery,green
+restaurant,Food Services,Thai Taste,POINT (-97.8754917 30.2359159),cutlery,green
+place_of_worship,Community Services,Mt Zion Baptist Church,POINT (-97.70549186521018 30.277488849696358),institution,orange
+bar,Food Services,Historic Scoot Inn,POINT (-97.7293945 30.2621219),beer,green
+restaurant,Food Services,Tarka Indian Kitchen,POINT (-97.7353938 30.3570449),cutlery,green
+place_of_worship,Community Services,Greater Galilee Baptist Church,POINT (-97.6804636 30.2767848),institution,orange
+restaurant,Food Services,Champions,POINT (-97.740157 30.265402),cutlery,green
+place_of_worship,Community Services,Congregation Tiferet Israel,POINT (-97.7562184 30.3566915),institution,orange
+place_of_worship,Community Services,Lakehills Free Will Baptist Church,POINT (-97.8337213879762 30.478009925302796),institution,orange
+restaurant,Food Services,Tuscano Italian Kitchen,POINT (-97.8344416 30.4810636),cutlery,green
+bar,Food Services,The Grackle,POINT (-97.72415901887612 30.262663175640387),beer,green
+restaurant,Food Services,Hornitos,POINT (-97.7205415 30.294193),cutlery,green
+restaurant,Food Services,The Guesthouse,POINT (-97.7490365 30.2655237),cutlery,green
+bar,Food Services,Revelry Kitchen and Bar,POINT (-97.727825 30.2638211),beer,green
+restaurant,Food Services,Snooze,POINT (-97.7659325 30.2508607),cutlery,green
+restaurant,Food Services,Kanji Ramen,POINT (-97.7650745 30.4310839),cutlery,green
+place_of_worship,Community Services,Saint Luke United Methodist Church,POINT (-97.75891758345062 30.281338292336446),institution,orange
+cafe,Food Services,The Perch,POINT (-97.7416741 30.260507),coffee,green
+restaurant,Food Services,Abel's North,POINT (-97.7153407797962 30.42369094804831),cutlery,green
+cafe,Food Services,Summer Moon Coffee Bar,POINT (-97.8063095 30.2053557),coffee,green
+bar,Food Services,The Rock Sports Bar & Grill,POINT (-97.67820475535898 30.509043393112396),beer,green
+restaurant,Food Services,Lamberts,POINT (-97.747927 30.26518),cutlery,green
+bar,Food Services,Speakeasy,POINT (-97.7435171 30.266771),beer,green
+cafe,Food Services,Café 605,POINT (-97.7388864 30.260105),coffee,green
+library,Community Services,Lyndon Baines Johnson Presidential Library and Museum,POINT (-97.72928516592978 30.285894781208036),book,orange
+restaurant,Food Services,Jim's Restaurant,POINT (-97.72775778721386 30.37450783079611),cutlery,green
+place_of_worship,Community Services,Pleasant Hill Baptist Church,POINT (-97.77741302095599 30.19099657740466),institution,orange
+cafe,Food Services,Teapioca,POINT (-97.8004323 30.478409),coffee,green
+restaurant,Food Services,2N1 Salad Bar and Grill,POINT (-97.6894943 30.3823407),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.788159 30.1656017),coffee,green
+place_of_worship,Community Services,Hyde Park Christian Church,POINT (-97.72228735196704 30.306850792250568),institution,orange
+restaurant,Food Services,Pluckers Wing Bar,POINT (-97.7278594 30.372676),cutlery,green
+place_of_worship,Community Services,Holy Cross Catholic Church,POINT (-97.7234723710956 30.267403511642772),institution,orange
+restaurant,Food Services,ABGB,POINT (-97.7688916 30.2451066),cutlery,green
+place_of_worship,Community Services,Chabad House,POINT (-97.74375121455724 30.28412352467752),institution,orange
+library,Community Services,Austin Public Library - Windsor Park Branch,POINT (-97.69022002066185 30.311658407463334),book,orange
+restaurant,Food Services,Cyclo Vietnamese & Chinese,POINT (-97.6762807 30.4106934),cutlery,green
+place_of_worship,Community Services,St Peter's United Methodist Church,POINT (-97.68010418171392 30.287777115893046),institution,orange
+theatre,Recreation,Stubb's Waller Creek Ampitheater,POINT (-97.73601099625023 30.268746734014613),film,red
+cinema,Recreation,Alamo Drafthouse Cinema,POINT (-97.76355784292791 30.255876041545136),film,red
+place_of_worship,Community Services,Church of God in Christ #1,POINT (-97.72496871829432 30.270441808346735),institution,orange
+bar,Food Services,Edwin's,POINT (-97.7358935 30.2662572),beer,green
+restaurant,Food Services,Fogo de Chão,POINT (-97.7443724 30.2645145),cutlery,green
+cinema,Recreation,Violet Crown Cinema,POINT (-97.7483406 30.2656556),film,red
+cafe,Food Services,Starbucks,POINT (-97.8284453 30.2340388),coffee,green
+place_of_worship,Community Services,South Austin Church of the Nazarene,POINT (-97.8061536 30.2049579),institution,orange
+pub,Food Services,Water Tank,POINT (-97.766952 30.4350154),beer,green
+place_of_worship,Community Services,Cameron Grove Baptist Church,POINT (-97.7349858 30.3221602),institution,orange
+cafe,Food Services,Wright Bros. Brew & Brew,POINT (-97.7330414 30.2644493),coffee,green
+cinema,Recreation,Cinemark,POINT (-97.68829795148957 30.562812178472054),film,red
+place_of_worship,Community Services,Tribe of Light CC,POINT (-97.7170078491993 30.31445953978548),institution,orange
+cafe,Food Services,Jo's Coffee,POINT (-97.7562269 30.2326024),coffee,green
+bar,Food Services,Recreation Sports & Social,POINT (-97.7245791 30.2624918),beer,green
+place_of_worship,Community Services,True Light Missionary Baptist Church,POINT (-97.6803237 30.2766628),institution,orange
+place_of_worship,Community Services,Vietnamese Unity Baptist Church,POINT (-97.6829576 30.3942728),institution,orange
+library,Community Services,Austin Public Library - Yarborough Branch,POINT (-97.74072810843042 30.32346091622116),book,orange
+place_of_worship,Community Services,Holy Name of Mary Church,POINT (-97.7591119 30.247163),institution,orange
+bar,Food Services,Clive Bar,POINT (-97.73862400749684 30.260056047482422),beer,green
+cafe,Food Services,Starbucks,POINT (-97.7447361 30.2850801),coffee,green
+place_of_worship,Community Services,Fairview Baptist Church,POINT (-97.78296412521156 30.207147284731334),institution,orange
+restaurant,Food Services,El Nuevo Mexico,POINT (-97.7146892 30.3479738),cutlery,green
+restaurant,Food Services,Jack Allen's Kitchen,POINT (-97.7395256 30.3613604),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.6882267 30.4132733),coffee,green
+restaurant,Food Services,P.F. Chang's,POINT (-97.7413891 30.263774200000007),cutlery,green
+restaurant,Food Services,The Well,POINT (-97.7482929 30.2656257),cutlery,green
+restaurant,Food Services,Keto Kitchen,POINT (-97.7083756 30.3161337),cutlery,green
+place_of_worship,Community Services,St. Paul Primitive Baptist Church,POINT (-97.71653056367913 30.27609018925978),institution,orange
+place_of_worship,Community Services,Holy Vietnamese Martyrs Catholic Church,POINT (-97.65823435002423 30.391037856791787),institution,orange
+bar,Food Services,Kung Fu Saloon,POINT (-97.7227584 30.4008451),beer,green
+pub,Food Services,Round Rock Tavern,POINT (-97.67955271911023 30.50814708033387),beer,green
+cinema,Recreation,AMC Barton Creek Square 14,POINT (-97.80816176835573 30.257804464086185),film,red
+place_of_worship,Community Services,Unity Church of Austin,POINT (-97.84154660939902 30.235519194000823),institution,orange
+place_of_worship,Community Services,Vision of Hope AME Church,POINT (-97.68640893808686 30.276151019101746),institution,orange
+restaurant,Food Services,IHOP,POINT (-97.7473321147304 30.41652012746645),cutlery,green
+bar,Food Services,Sam's Town Point,POINT (-97.8276455 30.17217),beer,green
+restaurant,Food Services,ZIKI,POINT (-97.7442323 30.2655244),cutlery,green
+restaurant,Food Services,Barletts,POINT (-97.7312443 30.3567746),cutlery,green
+bar,Food Services,ReyRey + Taqueria 10de10,POINT (-97.7406658 30.2639386),beer,green
+restaurant,Food Services,Brick Oven,POINT (-97.7490667 30.3988329),cutlery,green
+restaurant,Food Services,Tino's Greek Cafe,POINT (-97.791207 30.4471724),cutlery,green
+events_venue,Recreation,Peached Social House,POINT (-97.7225705 30.3325931),institution,orange
+place_of_worship,Community Services,Dunn's Memorial Baptist Church,POINT (-97.83586394129668 30.20406021593195),institution,orange
+place_of_worship,Community Services,Risen Savior Evangelical Lutheran Church,POINT (-97.8373810989384 30.179660542294272),institution,orange
+restaurant,Food Services,BJ's,POINT (-97.73239684581094 30.392223177656927),cutlery,green
+place_of_worship,Community Services,Winners Chapel International (Austin),POINT (-97.67143166727979 30.335177130057158),institution,orange
+place_of_worship,Community Services,Churchof the Cross Austin,POINT (-97.67420792729563 30.331189639859197),institution,orange
+events_venue,Recreation,dadaLab,POINT (-97.7104005438168 30.283371783738595),institution,orange
+restaurant,Food Services,Burger Bar,POINT (-97.7437945 30.2646732),cutlery,green
+restaurant,Food Services,Wings 'N More Restaurant & Bar,POINT (-97.6697113831248 30.42403825641666),cutlery,green
+library,Community Services,Munday Library,POINT (-97.75744944140747 30.231114047610557),book,orange
+restaurant,Food Services,Kerbey Lane Café,POINT (-97.7037888 30.3004905),cutlery,green
+restaurant,Food Services,Pluckers Wing Bar,POINT (-97.7450193 30.2863059),cutlery,green
+bar,Food Services,Incognito,POINT (-97.7332099 30.2644208),beer,green
+cafe,Food Services,Summer Moon Coffee,POINT (-97.7302023 30.3555394),coffee,green
+restaurant,Food Services,Wax Myrtle's Club & Pool,POINT (-97.74110422385584 30.26679567582992),cutlery,green
+restaurant,Food Services,De Nada Cantina,POINT (-97.70216937364536 30.251451838621133),cutlery,green
+place_of_worship,Community Services,Rehoboth Baptist Church,POINT (-97.676856895381 30.28085565021319),institution,orange
+restaurant,Food Services,Bistro Vonish,POINT (-97.7166158 30.3153113),cutlery,green
+restaurant,Food Services,Greenhouse Craft Food,POINT (-97.6706459 30.5393041),cutlery,green
+place_of_worship,Community Services,Our Lady of Guadalupe Catholic Church,POINT (-97.72806133670409 30.266845240027415),institution,orange
+place_of_worship,Community Services,Olivet Baptist Church,POINT (-97.72573336121499 30.271197004537104),institution,orange
+restaurant,Food Services,Beijing Express,POINT (-97.6704264 30.5393549),cutlery,green
+pub,Food Services,Easy Tiger,POINT (-97.7887279 30.240283),beer,green
+bar,Food Services,Reina Rooftop,POINT (-97.7406409 30.2639979),beer,green
+cafe,Food Services,Yummi Joy,POINT (-97.7482013 30.2652973),coffee,green
+library,Community Services,Round Rock Public Library,POINT (-97.67797828802375 30.510308744370185),book,orange
+pub,Food Services,Jack & Ginger's,POINT (-97.7229454 30.4011681),beer,green
+library,Community Services,Austin Public Library - John Gillum Branch,POINT (-97.73052524986667 30.36215141770736),book,orange
+restaurant,Food Services,Salvation Pizza,POINT (-97.72273 30.4009665),cutlery,green
+cafe,Food Services,Sunrise Teahouse,POINT (-97.6704914 30.5393216),coffee,green
+restaurant,Food Services,CAVA,POINT (-97.74176898504189 30.288545185309722),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.740414 30.265449),coffee,green
+place_of_worship,Community Services,Oak Hill Baptist Church,POINT (-97.87868305077073 30.228238305636612),institution,orange
+cafe,Food Services,Corner Bakery,POINT (-97.750673 30.393758),coffee,green
+place_of_worship,Community Services,First Spiritualist Church,POINT (-97.7316642 30.3059703),institution,orange
+restaurant,Food Services,Michi Ramen,POINT (-97.7841603 30.241537),cutlery,green
+place_of_worship,Community Services,University United Methodist Church,POINT (-97.74121604543424 30.287922325157492),institution,orange
+place_of_worship,Community Services,Faith Culture Church,POINT (-97.6729537 30.5160001),institution,orange
+bar,Food Services,Little Brother,POINT (-97.7382151 30.2598097),beer,green
+bar,Food Services,Cheer Up Charlies,POINT (-97.73638279970673 30.269627259668685),beer,green
+restaurant,Food Services,Gina's on Congress,POINT (-97.74394708106028 30.265903895334258),cutlery,green
+pub,Food Services,BB Rover's Cafe & Pub,POINT (-97.7647876 30.4308961),beer,green
+bar,Food Services,My Oh My,POINT (-97.7340781 30.2650165),beer,green
+restaurant,Food Services,Applebee's,POINT (-97.76744544288502 30.19282036893597),cutlery,green
+place_of_worship,Community Services,Onion Creek Baptist Church,POINT (-97.6842594307087 30.218667185936017),institution,orange
+cafe,Food Services,Merit Coffee,POINT (-97.7521411 30.2675657),coffee,green
+bar,Food Services,The Lost Well,POINT (-97.7145075 30.2626189),beer,green
+restaurant,Food Services,Sarovar,POINT (-97.7289338 30.3654581),cutlery,green
+place_of_worship,Community Services,Kingdom Hall,POINT (-97.68751444342846 30.318480751686963),institution,orange
+bar,Food Services,Mala Vida,POINT (-97.7355652 30.2662263),beer,green
+cafe,Food Services,Better Half Coffee & Cocktails,POINT (-97.7585251 30.2712775),coffee,green
+cafe,Food Services,Lucky Lab Coffee,POINT (-97.7420585 30.2885673),coffee,green
+restaurant,Food Services,Que Divino Cocina Mexicana,POINT (-97.7487821 30.3570795),cutlery,green
+bar,Food Services,Mort Subite,POINT (-97.7439833989154 30.26571892960875),beer,green
+bar,Food Services,Roma,POINT (-97.740611 30.264074),beer,green
+cafe,Food Services,Yogertz,POINT (-97.7491029 30.3987013),coffee,green
+restaurant,Food Services,Veracruz Fonda and Bar,POINT (-97.7055225 30.298098),cutlery,green
+restaurant,Food Services,Cicis,POINT (-97.6767258 30.4946608),cutlery,green
+cafe,Food Services,Caffé Medici,POINT (-97.7442485 30.264819),coffee,green
+restaurant,Food Services,Roland's Soul Food,POINT (-97.71612109268459 30.276232412745603),cutlery,green
+social_centre,Community Services,Elks Lodge,POINT (-97.75693446884087 30.25814114416506),institution,orange
+bar,Food Services,Rocky's Piano Bar,POINT (-97.67934688489562 30.508177697752924),beer,green
+bar,Food Services,Parish,POINT (-97.7339773 30.2648207),beer,green
+bar,Food Services,77 Degrees,POINT (-97.7228646 30.4012164),beer,green
+place_of_worship,Community Services,Lord's Church of Austin,POINT (-97.70774883778067 30.34431847025065),institution,orange
+cafe,Food Services,Radio East,POINT (-97.71550394160948 30.207945317632035),coffee,green
+library,Community Services,Austin Public Library - Old Quarry Branch,POINT (-97.75517123258372 30.352998797275976),book,orange
+cafe,Food Services,Starbucks,POINT (-97.793505 30.1631013),coffee,green
+cafe,Food Services,Picnik,POINT (-97.7657583 30.2512104),coffee,green
+restaurant,Food Services,Pacific Star Restaurant & Oyster Bar,POINT (-97.79001504667156 30.450607022183902),cutlery,green
+restaurant,Food Services,Thundercloud Subs,POINT (-97.7052443 30.3215448),cutlery,green
+restaurant,Food Services,Big Country Grill,POINT (-97.557858 30.3412381),cutlery,green
+restaurant,Food Services,Seareinas,POINT (-97.7041210873782 30.32766170839721),cutlery,green
+bar,Food Services,La Holly,POINT (-97.71448852210304 30.25900801418391),beer,green
+restaurant,Food Services,General Tso'Boy,POINT (-97.7226256 30.4010444),cutlery,green
+restaurant,Food Services,Ho Ho Chinese B.B.Q.,POINT (-97.67582985644394 30.410270761625842),cutlery,green
+restaurant,Food Services,Denny's,POINT (-97.69177198609424 30.217198604452218),cutlery,green
+place_of_worship,Community Services,Northside Church of Christ,POINT (-97.73172688249784 30.307542555184234),institution,orange
+restaurant,Food Services,Arlo's,POINT (-97.7362477 30.2694927),cutlery,green
+restaurant,Food Services,la Madeleine,POINT (-97.7472319 30.3957428),cutlery,green
+bar,Food Services,Parlor Room,POINT (-97.73865678384658 30.259805044762764),beer,green
+restaurant,Food Services,Costa Del Sol,POINT (-97.68524828929627 30.332664661862623),cutlery,green
+bar,Food Services,Drink Well,POINT (-97.7206057 30.3172224),beer,green
+restaurant,Food Services,Tarka Indian Kitchen,POINT (-97.8008049 30.4701619),cutlery,green
+restaurant,Food Services,Gino's Vino Osteria,POINT (-97.6700818 30.5388361),cutlery,green
+restaurant,Food Services,Antojitos Hondureños,POINT (-97.685544 30.3329558),cutlery,green
+cinema,Recreation,Galaxy Highland 10,POINT (-97.70787403485367 30.329119722557767),film,red
+restaurant,Food Services,Recuerdos Tex-Mex,POINT (-97.67928089185824 30.508228699274277),cutlery,green
+restaurant,Food Services,Lupe Tortilla Mexican Restaurant,POINT (-97.68833078926282 30.569625604715245),cutlery,green
+restaurant,Food Services,Habesha Ethiopian Restaurant and Bar,POINT (-97.7058798 30.3211128),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.7684727 30.2012416),coffee,green
+place_of_worship,Community Services,Celebration Church Central Austin,POINT (-97.72757958360758 30.329399852125025),institution,orange
+place_of_worship,Community Services,Nueces Mosque,POINT (-97.74435061857429 30.283203689800985),institution,orange
+restaurant,Food Services,Kerlaches,POINT (-97.7136925 30.262934),cutlery,green
+place_of_worship,Community Services,Iglesia Pentecostes de Jesucristo,POINT (-97.68766749852672 30.274761603351056),institution,orange
+restaurant,Food Services,Cooper's Old Time Pit Bar-B-Que,POINT (-97.74362928008073 30.264935935003965),cutlery,green
+restaurant,Food Services,Tamale House East,POINT (-97.7243534 30.2615741),cutlery,green
+restaurant,Food Services,Fire in the hole,POINT (-97.6784671581044 30.508401595206397),cutlery,green
+place_of_worship,Community Services,Antioch Baptist Church,POINT (-97.67349997024354 30.308273458328664),institution,orange
+cafe,Food Services,Fleet Coffee,POINT (-97.7142906 30.2628481),coffee,green
+bar,Food Services,Stagger Lee,POINT (-97.73811286727754 30.259622053698166),beer,green
+cafe,Food Services,Teapioca Lounge,POINT (-97.6877881 30.4130776),coffee,green
+place_of_worship,Community Services,Fairview Church of Christ,POINT (-97.7750641 30.2097437),institution,orange
+restaurant,Food Services,Bombay Express: Authentic Indian Café,POINT (-97.6760454 30.4111325),cutlery,green
+cafe,Food Services,Mikki's Replay Cafe,POINT (-97.7213963 30.3701302),coffee,green
+place_of_worship,Community Services,Sky View Baptist Church,POINT (-97.7213988 30.3229825),institution,orange
+place_of_worship,Community Services,Westover Hills Church of Christ,POINT (-97.75518985645039 30.37603592736251),institution,orange
+restaurant,Food Services,Raku Sushi & Asian Bistro,POINT (-97.7449482 30.2866355),cutlery,green
+cafe,Food Services,Austin Grind,POINT (-97.7158878 30.4249138),coffee,green
+cafe,Food Services,Starbucks,POINT (-97.74259751804962 30.287954783344777),coffee,green
+restaurant,Food Services,Korea House,POINT (-97.7339922 30.3593073),cutlery,green
+bar,Food Services,St. Genevieve,POINT (-97.7228104 30.4013625),beer,green
+cafe,Food Services,Bambu,POINT (-97.6872721 30.3774049),coffee,green
+restaurant,Food Services,First Watch,POINT (-97.7979403 30.4757107),cutlery,green
+restaurant,Food Services,Cane Rosso,POINT (-97.8111717 30.2325672),cutlery,green
+bar,Food Services,Yeti's Barrr,POINT (-97.7464481 30.2592955),beer,green
+restaurant,Food Services,Pizza Hut,POINT (-97.6950538 30.3200535),cutlery,green
+cafe,Food Services,Caffè Medici,POINT (-97.66335573940181 30.202393948349613),coffee,green
+restaurant,Food Services,Soto Japanese Restaurant & Sushi Bar,POINT (-97.8010511 30.4700704),cutlery,green
+place_of_worship,Community Services,University Avenue Church of Christ,POINT (-97.7394352951088 30.281401375676545),institution,orange
+place_of_worship,Community Services,Primera Iglesia Bautista of Round Rock Church,POINT (-97.6785019829626 30.510026571110675),institution,orange
+bar,Food Services,Canvas,POINT (-97.7422828 30.2667198),beer,green
+restaurant,Food Services,Dong Nai,POINT (-97.7930115 30.23371),cutlery,green
+restaurant,Food Services,The Doughminican,POINT (-97.7136509 30.2629922),cutlery,green
+place_of_worship,Community Services,Wat Siddhattharam,POINT (-97.6932299860442 30.383570399500496),institution,orange
+restaurant,Food Services,Maiko Sushi,POINT (-97.7414463 30.2641473),cutlery,green
+restaurant,Food Services,Denny's,POINT (-97.67391 30.4169212),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.7471138 30.2606838),coffee,green
+restaurant,Food Services,Eddie V's,POINT (-97.7405459 30.2662223),cutlery,green
+bar,Food Services,Victory Lap,POINT (-97.74269598021178 30.28796163900906),beer,green
+place_of_worship,Community Services,Church of Christ in Hyde Park,POINT (-97.73208826575153 30.307843532061984),institution,orange
+restaurant,Food Services,Mala Chili,POINT (-97.8003295 30.4779527),cutlery,green
+restaurant,Food Services,Sawyer & Co.,POINT (-97.70180098526453 30.25140985467873),cutlery,green
+bar,Food Services,Llano Lounge,POINT (-97.7437181 30.2650052),beer,green
+restaurant,Food Services,La Crawfish,POINT (-97.756851 30.2211587),cutlery,green
+place_of_worship,Community Services,Zion Hill Missionary Baptist Church,POINT (-97.7165839618593 30.278541463597897),institution,orange
+bar,Food Services,Quinns,POINT (-97.67856034999998 30.508390650000006),beer,green
+restaurant,Food Services,Jardin Corona Mexican Food,POINT (-97.7793674 30.4463358),cutlery,green
+bar,Food Services,Augustine,POINT (-97.7386791 30.25965255),beer,green
+place_of_worship,Community Services,Austin Zen Center,POINT (-97.74347952450168 30.298826739079715),institution,orange
+bar,Food Services,Cosmic Saltillo,POINT (-97.7299881 30.2622871),beer,green
+bar,Food Services,Coco's Lounge,POINT (-97.67849773428748 30.50822565755077),beer,green
+place_of_worship,Community Services,The Church at Highland Park,POINT (-97.76009092217026 30.33514844839934),institution,orange
+restaurant,Food Services,Congress Avenue Grocery,POINT (-97.7437082 30.2650401),cutlery,green
+restaurant,Food Services,The Salt Lick BBQ,POINT (-97.6678492 30.2018398),cutlery,green
+pub,Food Services,The Cavalier,POINT (-97.7147683 30.2628918),beer,green
+restaurant,Food Services,Gyu-Kaku,POINT (-97.7308402 30.2633101),cutlery,green
+restaurant,Food Services,Veracruz All Natural,POINT (-97.71370787540111 30.26306905378963),cutlery,green
+restaurant,Food Services,Yanagi Japanese Restaurant and Sushi Bar,POINT (-97.8395869 30.2238283),cutlery,green
+cafe,Food Services,Desnudo Coffee,POINT (-97.7138253 30.2630655),coffee,green
+place_of_worship,Community Services,Church of Christ,POINT (-97.75237221868926 30.24987081776411),institution,orange
+marketplace,Commercial,Texas Farmers' Market at Mueller,POINT (-97.703398 30.3003457),shopping-cart,green
+place_of_worship,Community Services,South Austin Seventh Day Adventist Church,POINT (-97.7784798 30.1976877),institution,orange
+place_of_worship,Community Services,Kinney Avenue Christian Fellowship,POINT (-97.76778030689636 30.25157202914338),institution,orange
+bar,Food Services,Cain & Abel's,POINT (-97.74736494885043 30.287891451952387),beer,green
+place_of_worship,Community Services,Wheless Lane Church of Christ,POINT (-97.67996463974193 30.309414900164818),institution,orange
+bar,Food Services,Idle Hands,POINT (-97.73819725059842 30.25950128887709),beer,green
+restaurant,Food Services,Truluck's Seafood Steak & Crab,POINT (-97.7453694139631 30.39539812222734),cutlery,green
+events_venue,Recreation,Natures Treasures Community Event Center and Auditorium,POINT (-97.7170952 30.2978645),institution,orange
+restaurant,Food Services,Chuy's,POINT (-97.7036543 30.2999584),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.8000795 30.2759203),coffee,green
+restaurant,Food Services,Mai Thai,POINT (-97.741411 30.264266),cutlery,green
+theatre,Recreation,East Austin Comedy,POINT (-97.7142254 30.2585738),film,red
+bar,Food Services,Wanderlust Wine Co.,POINT (-97.73506375000001 30.26635055),beer,green
+place_of_worship,Community Services,Park Hills Baptist Church,POINT (-97.78216857545654 30.267698739646477),institution,orange
+restaurant,Food Services,Ramos Restaurant & Sports Bar,POINT (-97.5570466 30.340849),cutlery,green
+restaurant,Food Services,Kerbey Lane Cafe,POINT (-97.787084 30.4473524),cutlery,green
+cafe,Food Services,Houndstooth,POINT (-97.7431138 30.2662841),coffee,green
+restaurant,Food Services,Kesos Taco House,POINT (-97.7444056 30.2826432),cutlery,green
+place_of_worship,Community Services,Hyde Park Presbyterian Church,POINT (-97.73452336471323 30.303981370288877),institution,orange
+bar,Food Services,Vino Volo,POINT (-97.6632304 30.2022864),beer,green
+bar,Food Services,Floppy Disk Repair Co.,POINT (-97.7420902 30.2667005),beer,green
+place_of_worship,Community Services,Trinity Abundant Life Church,POINT (-97.75972861093499 30.237441072297905),institution,orange
+restaurant,Food Services,K Pot Korean BBQ and Hot Pot,POINT (-97.81953092616246 30.23160631797643),cutlery,green
+place_of_worship,Community Services,Emmanuel Baptist Church,POINT (-97.71592810672134 30.26796825320241),institution,orange
+bar,Food Services,Long Branch Saloon,POINT (-97.67904662084597 30.50829499077584),beer,green
+events_venue,Recreation,Branch Park Pavillion,POINT (-97.70322482295418 30.30062601387595),institution,orange
+place_of_worship,Community Services,Wesley Foundation of Austin-Campus Ministry,POINT (-97.7441609 30.2852696),institution,orange
+restaurant,Food Services,Chicha's Fire & Grill,POINT (-97.7643416 30.4306811),cutlery,green
+place_of_worship,Community Services,Rolling Hills Community Church,POINT (-97.9786251 30.4563089),institution,orange
+restaurant,Food Services,Mouton's Bistro & Bar,POINT (-97.8319791 30.4799843),cutlery,green
+place_of_worship,Community Services,Jesus Lutheran Church of the Deaf,POINT (-97.75127471606223 30.251246324184358),institution,orange
+cafe,Food Services,TSAOCAA,POINT (-97.7449201 30.286841),coffee,green
+restaurant,Food Services,Market Street Pizza,POINT (-97.6759799 30.4113723),cutlery,green
+restaurant,Food Services,Dish Society,POINT (-97.7051787 30.2984383),cutlery,green
+place_of_worship,Community Services,"Saint Mary, Our Lady of the Lake Catholic Church",POINT (-97.98026694937948 30.45254850057888),institution,orange
+restaurant,Food Services,Zaviya Grill,POINT (-97.680219 30.4089699),cutlery,green
+restaurant,Food Services,ATX Cocina,POINT (-97.7492614 30.2649037),cutlery,green
+restaurant,Food Services,Dimassi's Mediterranean Buffet,POINT (-97.7655434105653 30.198076006065754),cutlery,green
+cafe,Food Services,Arab Cowboy,POINT (-97.7469813238917 30.28792443273481),coffee,green
+place_of_worship,Community Services,Primera Iglesia Bautista de Austin,POINT (-97.7414887496828 30.21697523340924),institution,orange
+restaurant,Food Services,Roaring Fork,POINT (-97.73781463235258 30.400883459754954),cutlery,green
+restaurant,Food Services,Justine's,POINT (-97.70053856949103 30.25324676107884),cutlery,green
+theatre,Recreation,Phantom Acting Studio,POINT (-97.7953322 30.4467562),film,red
+place_of_worship,Community Services,"Great Hillls Baptist Church, A Building",POINT (-97.75222688753743 30.398278523361718),institution,orange
+restaurant,Food Services,Twin Peaks,POINT (-97.67302904681094 30.481642632324156),cutlery,green
+restaurant,Food Services,Snooze,POINT (-97.7311464 30.2633947),cutlery,green
+bar,Food Services,Yellow Jacket Social Club,POINT (-97.7247308 30.2617215),beer,green
+pub,Food Services,B.D. Riley's Irish Pub,POINT (-97.7051061 30.2981155),beer,green
+restaurant,Food Services,China Wok,POINT (-97.6688239 30.5186944),cutlery,green
+pub,Food Services,Nomadic Beerworks,POINT (-97.7602984 30.2244145),beer,green
+cafe,Food Services,Revolución Coffee + Juice,POINT (-97.7413623 30.2643747),coffee,green
+place_of_worship,Community Services,Northwest Hills United Methodist Church,POINT (-97.75644203295514 30.353818406374607),institution,orange
+bar,Food Services,HandleBar,POINT (-97.7420908 30.2665872),beer,green
+cafe,Food Services,Starbucks,POINT (-97.8341789 30.4817012),coffee,green
+cafe,Food Services,Austea,POINT (-97.7567513 30.2213187),coffee,green
+place_of_worship,Community Services,Friendly Will Baptist Church,POINT (-97.7547274 30.2452093),institution,orange
+restaurant,Food Services,Pei Wei,POINT (-97.7952335 30.2359156),cutlery,green
+restaurant,Food Services,Cabo Bob's Burritos,POINT (-97.7889237 30.4473688),cutlery,green
+restaurant,Food Services,Marufuku Ramen,POINT (-97.7045775 30.2991768),cutlery,green
+restaurant,Food Services,Caribbean Food Trailer,POINT (-97.7130932 30.2771154),cutlery,green
+bar,Food Services,Icenhauer's,POINT (-97.73829712410202 30.259382249245157),beer,green
+place_of_worship,Community Services,Goodwill Baptist Church,POINT (-97.7532294 30.2474243),institution,orange
+place_of_worship,Community Services,Christ Lutheran Church,POINT (-97.74763470202137 30.247537519942885),institution,orange
+cafe,Food Services,Bennu Coffee,POINT (-97.7148098 30.3251243),coffee,green
+restaurant,Food Services,Reale's Italian Cafe,POINT (-97.7911584 30.446319700000004),cutlery,green
+restaurant,Food Services,Rio Grande Mexican,POINT (-97.7410729 30.2647151),cutlery,green
+place_of_worship,Community Services,Fairview Family Center,POINT (-97.7753213 30.2099204),institution,orange
+restaurant,Food Services,Zalat Pizza,POINT (-97.7315708 30.3918116),cutlery,green
+bar,Food Services,Indian Roller,POINT (-97.8253349 30.1720418),beer,green
+restaurant,Food Services,Aviator Pizza & Drafthouse,POINT (-97.7161407 30.4251442),cutlery,green
+place_of_worship,Community Services,Southwest Church of Christ,POINT (-97.81883276797377 30.183847335518777),institution,orange
+cafe,Food Services,The Yard Milkshake Bar,POINT (-97.7268482 30.4007259),coffee,green
+bar,Food Services,The Elephant Room,POINT (-97.7434984 30.2656227),beer,green
+restaurant,Food Services,Swift's Attic,POINT (-97.7434871 30.2656592),cutlery,green
+restaurant,Food Services,Sushi Junai Omakase,POINT (-97.743492 30.265641),cutlery,green
+restaurant,Food Services,China Cafe,POINT (-97.7980547 30.4760761),cutlery,green
+restaurant,Food Services,Capt. Benny's,POINT (-97.70802692302594 30.31774316591955),cutlery,green
+place_of_worship,Community Services,First Baptist Church Round Rock,POINT (-97.68194100727403 30.509357282821405),institution,orange
+restaurant,Food Services,Fresh TOFU:  Food to Go,POINT (-97.6867055 30.3772352),cutlery,green
+restaurant,Food Services,Silver Grill Cafe,POINT (-97.7162292 30.4250741),cutlery,green
+place_of_worship,Community Services,Koenig Lane Christian Church,POINT (-97.72671613629478 30.32906766196075),institution,orange
+place_of_worship,Community Services,Church of Christ at East Side,POINT (-97.66702418936148 30.285108716360014),institution,orange
+restaurant,Food Services,La Mexica,POINT (-97.5573996 30.3414946),cutlery,green
+cafe,Food Services,Cafe Americana,POINT (-97.7603128 30.3118866),coffee,green
+restaurant,Food Services,Sixty Vines,POINT (-97.7270333 30.4003772),cutlery,green
+restaurant,Food Services,Jim's,POINT (-97.77143627237906 30.434346516702938),cutlery,green
+restaurant,Food Services,Josephine House,POINT (-97.7590331 30.2805739),cutlery,green
+restaurant,Food Services,Dimassi's Mediterranean Buffet,POINT (-97.7638265 30.4307304),cutlery,green
+restaurant,Food Services,Sea Dragon,POINT (-97.7198348 30.3659072),cutlery,green
+restaurant,Food Services,Umi Sushi Bar & Grill,POINT (-97.7636875 30.2003347),cutlery,green
+restaurant,Food Services,The Diner at Victory Lap,POINT (-97.7428891635178 30.288214032073952),cutlery,green
+restaurant,Food Services,Tacodeli,POINT (-97.7435454 30.2653307),cutlery,green
+restaurant,Food Services,Biryani Pot,POINT (-97.7040803 30.4172307),cutlery,green
+restaurant,Food Services,Vince Young Steakhouse,POINT (-97.7411682 30.2648186),cutlery,green
+restaurant,Food Services,Donn's Texas BBQ,POINT (-97.8771322 30.232620200000003),cutlery,green
+restaurant,Food Services,Blue Lacy,POINT (-97.7049618 30.2979218),cutlery,green
+place_of_worship,Community Services,Dell Jewish Community Campus,POINT (-97.75724504470958 30.35798859316448),institution,orange
+restaurant,Food Services,Thai Kun,POINT (-97.7224137 30.4015114),cutlery,green
+restaurant,Food Services,Parkside,POINT (-97.66296709944984 30.20233234429933),cutlery,green
+restaurant,Food Services,Baguette House & Cafe,POINT (-97.6867436 30.3771695),cutlery,green
+restaurant,Food Services,Ka-Prow Thai and Sushi Bistro,POINT (-97.6699133 30.4246976),cutlery,green
+restaurant,Food Services,Zalat Pizza,POINT (-97.7448994 30.2870884),cutlery,green
+restaurant,Food Services,Mangieri's Pizza Cafe,POINT (-97.8789622 30.2012745),cutlery,green
+place_of_worship,Community Services,Hope Chapel,POINT (-97.73003324134913 30.339782121106538),institution,orange
+restaurant,Food Services,Sushi Nini,POINT (-97.6712964 30.4790804),cutlery,green
+place_of_worship,Community Services,Saint Annie African Methodist Episcopal Church,POINT (-97.7529925 30.246835),institution,orange
+restaurant,Food Services,Red Robin,POINT (-97.67538690150634 30.410750777150785),cutlery,green
+cafe,Food Services,EBar,POINT (-97.7203236 30.4025845),coffee,green
+place_of_worship,Community Services,First Baptist Church Round Rock,POINT (-97.68097376431903 30.509535344742638),institution,orange
+restaurant,Food Services,Los Chilakillers,POINT (-97.6757283 30.4114358),cutlery,green
+restaurant,Food Services,Austin's Pizza,POINT (-97.832957 30.2147366),cutlery,green
+restaurant,Food Services,Plank Seafood Provisions,POINT (-97.726838 30.4010047),cutlery,green
+restaurant,Food Services,Henry's Barbecue,POINT (-97.66075012097829 30.214630779452126),cutlery,green
+restaurant,Food Services,Bombay Bistro,POINT (-97.795414 30.235927),cutlery,green
+restaurant,Food Services,Pizza Hut,POINT (-97.7641522 30.4304857),cutlery,green
+bar,Food Services,Pardners,POINT (-97.6685359 30.5186579),beer,green
+place_of_worship,Community Services,New Apostolic Church,POINT (-97.8032255 30.2060233),institution,orange
+place_of_worship,Community Services,Our Lady Queen of Peace Chapel,POINT (-97.75588061858393 30.23131974017782),institution,orange
+restaurant,Food Services,Ng Cafe,POINT (-97.6756443 30.4114118),cutlery,green
+place_of_worship,Community Services,Covenant Presbyterian Church,POINT (-97.7530976186728 30.334464539402127),institution,orange
+restaurant,Food Services,Sushi Bang Bang,POINT (-97.7981296 30.4762517),cutlery,green
+theatre,Recreation,Southpark Meadows Amphitheatre,POINT (-97.79199268907063 30.160904367057295),film,red
+restaurant,Food Services,Nando's,POINT (-97.7048383 30.298121),cutlery,green
+place_of_worship,Community Services,Gildon Creek Missionary Baptist Church,POINT (-97.55698154888245 30.3380787173647),institution,orange
+place_of_worship,Community Services,Travis Christian Assembly,POINT (-97.66222286677149 30.329524548667145),institution,orange
+bar,Food Services,St Roch's,POINT (-97.71467536951897 30.258484472577887),beer,green
+restaurant,Food Services,Craig O's Pizza & Pastaria,POINT (-97.8207967 30.2357649),cutlery,green
+theatre,Recreation,Austin Film Society,POINT (-97.6961519 30.3010359),film,red
+restaurant,Food Services,Satellite,POINT (-97.8787895 30.2018235),cutlery,green
+cafe,Food Services,Mirandas Cafe,POINT (-97.7428231 30.2653919),coffee,green
+cafe,Food Services,Conscious Cravings,POINT (-97.7449006 30.2829388),coffee,green
+restaurant,Food Services,Pappasitos,POINT (-97.704881 30.3269188),cutlery,green
+restaurant,Food Services,Wan Fu,POINT (-97.6975317 30.4376921),cutlery,green
+restaurant,Food Services,PhoNatic Vietnamese Restaurant,POINT (-97.6900433 30.5616553),cutlery,green
+place_of_worship,Community Services,Promise Land Church,POINT (-97.7014966962289 30.305928498655113),institution,orange
+place_of_worship,Community Services,Genesis Presbyterian Church,POINT (-97.71085890897318 30.295866469482554),institution,orange
+restaurant,Food Services,Round Rock Donuts,POINT (-97.6796867 30.509295),cutlery,green
+restaurant,Food Services,Pho Phong Luu,POINT (-97.6570164 30.3789069),cutlery,green
+restaurant,Food Services,Outback Steakhouse,POINT (-97.6776050175129 30.494331109337537),cutlery,green
+restaurant,Food Services,Jeffrey's,POINT (-97.7591677 30.2804408),cutlery,green
+cafe,Food Services,Big City Bagels & Subs,POINT (-97.8064641 30.4463352),coffee,green
+restaurant,Food Services,Copper Restaurant & Dessert Lounge,POINT (-97.7272328 30.400424),cutlery,green
+cafe,Food Services,Spokesman - Highland,POINT (-97.7170784 30.3259723),coffee,green
+cafe,Food Services,Starbucks,POINT (-97.7525341 30.394918),coffee,green
+restaurant,Food Services,Maggiano's Little Italy,POINT (-97.7269507 30.3950453),cutlery,green
+restaurant,Food Services,la Madeleine Country French Cafe,POINT (-97.8035833 30.4760658),cutlery,green
+restaurant,Food Services,Warpath Pizza,POINT (-97.66837 30.5186412),cutlery,green
+place_of_worship,Community Services,Austin Taiwanese Presbyterian Church,POINT (-97.74328597192336 30.418559080089416),institution,orange
+restaurant,Food Services,Tsukimi All-You-Can-Eat Sushi,POINT (-97.6760209 30.4041738),cutlery,green
+restaurant,Food Services,Texas Roadhouse,POINT (-97.78865505591419 30.446988542964114),cutlery,green
+restaurant,Food Services,Chili's,POINT (-97.67177501303787 30.4172598565036),cutlery,green
+restaurant,Food Services,Chili's,POINT (-97.70485945 30.32785965),cutlery,green
+restaurant,Food Services,Denny's,POINT (-97.72960651467274 30.27668999352696),cutlery,green
+restaurant,Food Services,Colleen's Kitchen,POINT (-97.7047126 30.2983278),cutlery,green
+restaurant,Food Services,cedro Scratch Italian & Wine Bar,POINT (-97.8037714 30.4759506),cutlery,green
+restaurant,Food Services,Saffron,POINT (-97.7556362 30.3549924),cutlery,green
+restaurant,Food Services,Pho Thai Son,POINT (-97.8331608 30.2148353),cutlery,green
+place_of_worship,Community Services,The Church of Jesus Christ of Latter-day Saints,POINT (-97.69282247698933 30.34252460725584),institution,orange
+restaurant,Food Services,Blaze Pizza,POINT (-97.7989067 30.4757045),cutlery,green
+place_of_worship,Community Services,Decker United Methodist Church,POINT (-97.6167567 30.3097753),institution,orange
+restaurant,Food Services,Cypress Grill,POINT (-97.8389667 30.2237723),cutlery,green
+restaurant,Food Services,Xian Noodles,POINT (-97.7273341 30.4004602),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.680659 30.5611043),coffee,green
+cinema,Recreation,Blue Starlight Mini Urban Drive-in,POINT (-97.6961904046358 30.28634561384588),film,red
+restaurant,Food Services,Bao'd Up,POINT (-97.70465 30.2984405),cutlery,green
+restaurant,Food Services,LongHorn Steakhouse,POINT (-97.816549392917 30.232214367824092),cutlery,green
+restaurant,Food Services,Chili's,POINT (-97.67338294451912 30.482170283065056),cutlery,green
+restaurant,Food Services,Chen's Noodle House,POINT (-97.770942 30.4321807),cutlery,green
+restaurant,Food Services,Second,POINT (-97.7211691 30.4024187),cutlery,green
+place_of_worship,Community Services,"Great Hillls Baptist Church, C Building",POINT (-97.75174930484071 30.39924152172207),institution,orange
+place_of_worship,Community Services,Beautiful Savior Lutheran Church,POINT (-97.75128823209987 30.176882997840394),institution,orange
+restaurant,Food Services,Salata,POINT (-97.6902487 30.5612011),cutlery,green
+place_of_worship,Community Services,Trinity Baptist Church,POINT (-97.67142334602664 30.333177177996514),institution,orange
+place_of_worship,Community Services,BAPS Shri Swaminarayan Mandir,POINT (-97.69318916598023 30.408759973190833),institution,orange
+cafe,Food Services,Summer Moon Woodfired Coffee,POINT (-97.6898382 30.5600868),coffee,green
+place_of_worship,Community Services,Community of Christ Church,POINT (-97.7756575 30.2498927),institution,orange
+music_venue,Recreation,The Far Out Lounge and Stage,POINT (-97.78573899727706 30.17273446770645),music,red
+restaurant,Food Services,Pluckers Wing Bar,POINT (-97.6792156 30.4990916),cutlery,green
+cafe,Food Services,Johnny Beans,POINT (-97.6980347 30.4378447),coffee,green
+restaurant,Food Services,The Brewtorium,POINT (-97.7170764 30.3257938),cutlery,green
+place_of_worship,Community Services,Templo Monte Horeb Asamblea de Dios,POINT (-97.7828921 30.1990844),institution,orange
+restaurant,Food Services,Tacos Luna,POINT (-97.6946465 30.382784000000004),cutlery,green
+restaurant,Food Services,French Quarter Grille,POINT (-97.6759045 30.4121114),cutlery,green
+restaurant,Food Services,Wholy Bagel,POINT (-97.8388048 30.2237398),cutlery,green
+restaurant,Food Services,Ramen Del Barrio,POINT (-97.6867058 30.4127279),cutlery,green
+cafe,Food Services,Sweet Paris,POINT (-97.7264596 30.4019256),coffee,green
+restaurant,Food Services,MAD Greens - Round Rock,POINT (-97.6812183 30.5609355),cutlery,green
+restaurant,Food Services,Tacodeli,POINT (-97.6687169 30.2021212),cutlery,green
+restaurant,Food Services,Saltgrass Steak House,POINT (-97.74707606685891 30.397648880510125),cutlery,green
+place_of_worship,Community Services,Springdale Church of God in Christ,POINT (-97.69996180806118 30.258233220095246),institution,orange
+place_of_worship,Community Services,Gateway Baptist Church,POINT (-97.71202807291607 30.342621537859035),institution,orange
+cafe,Food Services,Starbucks,POINT (-97.7263957 30.4019908),coffee,green
+restaurant,Food Services,Serranos Cocina y Cantina,POINT (-97.8218798 30.236068),cutlery,green
+bar,Food Services,Fast Eddie's:  The Original Sports Tavern and Social Club,POINT (-97.7966135 30.4707689),beer,green
+restaurant,Food Services,Amenecer Coffee and Bakery,POINT (-97.6710529 30.4214979),cutlery,green
+place_of_worship,Community Services,Saint Pauls African Methodist Episcopal Church,POINT (-97.67790607996093 30.5116477621206),institution,orange
+events_venue,Recreation,Austin Moose Lodge,POINT (-97.6967269 30.2865051),institution,orange
+restaurant,Food Services,FD's Grillhouse,POINT (-97.66685558934279 30.443823644585862),cutlery,green
+restaurant,Food Services,Los Potrillos,POINT (-97.6900028 30.3568054),cutlery,green
+place_of_worship,Community Services,San Francisco de Asis Episcopal Church,POINT (-97.8022074 30.1993501),institution,orange
+place_of_worship,Community Services,"Great Hillls Baptist Church, B Building",POINT (-97.7523996882683 30.398934653998143),institution,orange
+restaurant,Food Services,Buffalo Wild Wings,POINT (-97.67510219889382 30.41121455842566),cutlery,green
+place_of_worship,Community Services,First English Lutheran Church,POINT (-97.73884113542135 30.29540698143167),institution,orange
+restaurant,Food Services,BJ's,POINT (-97.81690247362737 30.231660133330543),cutlery,green
+place_of_worship,Community Services,El Buen Samaritano Episcopal Mission,POINT (-97.80219 30.1992998),institution,orange
+library,Community Services,Library Box,POINT (-97.7746477 30.2718597),book,orange
+pub,Food Services,Anderson Mill Pub,POINT (-97.8068108 30.4463432),beer,green
+restaurant,Food Services,Japon Sushi,POINT (-97.70486480718479 30.32881707792016),cutlery,green
+restaurant,Food Services,La Tapatia,POINT (-97.79030625 30.4464107),cutlery,green
+restaurant,Food Services,L'Oca d'Oro,POINT (-97.7046306 30.2972053),cutlery,green
+pub,Food Services,Pinthouse Pizza,POINT (-97.79586656861814 30.236077246791236),beer,green
+place_of_worship,Community Services,I Am Sanctuary and Reading Room,POINT (-97.7431171 30.3304457),institution,orange
+cafe,Food Services,Kolache Factory,POINT (-97.7167166 30.4252916),coffee,green
+cafe,Food Services,Caribou Coffee,POINT (-97.6688216 30.2021187),coffee,green
+restaurant,Food Services,Tandoori Lounge,POINT (-97.8333973 30.2149498),cutlery,green
+cinema,Recreation,Alamo Drafthouse Cinema,POINT (-97.70436151095227 30.298640057302897),film,red
+bar,Food Services,Unbarlievable,POINT (-97.73897398142958 30.25889046842568),beer,green
+restaurant,Food Services,North,POINT (-97.7260086 30.4023299),cutlery,green
+bar,Food Services,Anderson Mill Tavern,POINT (-97.8068296 30.4462553),beer,green
+cinema,Recreation,Alamo Drafthouse Cinema,POINT (-97.80415830594531 30.475495408020816),film,red
+restaurant,Food Services,Trudy's South Star,POINT (-97.76707511654294 30.197242515383873),cutlery,green
+bar,Food Services,CRÚ Food & Wine Bar,POINT (-97.726483 30.4020606),beer,green
+restaurant,Food Services,Tacos Frescos,POINT (-97.6785633 30.5614799),cutlery,green
+restaurant,Food Services,El Jarocho Cuban and Mexican grill,POINT (-97.6712044 30.4215282),cutlery,green
+restaurant,Food Services,Johnny Carino's,POINT (-97.67184261221394 30.41679577919511),cutlery,green
+place_of_worship,Community Services,Highland Crest Baptist Church,POINT (-97.7210163520131 30.367003088948643),institution,orange
+cafe,Food Services,Heaven's Bistro Bakery,POINT (-97.6991271 30.4168674),coffee,green
+bar,Food Services,Glass Half Full Taproom,POINT (-97.8043914 30.4755571),beer,green
+place_of_worship,Community Services,Joshua Presbyterian Church,POINT (-97.73430631273318 30.344560377191524),institution,orange
+restaurant,Food Services,PHO 63,POINT (-97.6908437 30.3808017),cutlery,green
+place_of_worship,Community Services,Kingdom Hall,POINT (-97.77608571800066 30.22205065991431),institution,orange
+pub,Food Services,3rd Level Brewery,POINT (-97.6676398507752 30.51767777707867),beer,green
+place_of_worship,Community Services,Greater Union Baptist Church,POINT (-97.68257404278943 30.298637106601177),institution,orange
+restaurant,Food Services,Haymaker,POINT (-97.6689591 30.2023117),cutlery,green
+restaurant,Food Services,Pei Wei,POINT (-97.6901333 30.5600558),cutlery,green
+restaurant,Food Services,Fat Dragon,POINT (-97.7715743 30.4328143),cutlery,green
+place_of_worship,Community Services,Grace Temple Pentecostal Church of God,POINT (-97.6755632 30.5493645),institution,orange
+restaurant,Food Services,Chuy's,POINT (-97.8415326057924 30.217743260837764),cutlery,green
+bar,Food Services,Lucille,POINT (-97.73852719681327 30.25874007561949),beer,green
+cinema,Recreation,Gateway Cinema,POINT (-97.73979444803507 30.38764683132132),film,red
+restaurant,Food Services,New Awlins Cafe,POINT (-97.7715376 30.4327373),cutlery,green
+place_of_worship,Community Services,Hope Presbyterian Church,POINT (-97.8060409 30.4452533),institution,orange
+restaurant,Food Services,Desilicious Cafe - Indian Pure Vegetarian/ Vegan Restaurant,POINT (-97.716861 30.425355),cutlery,green
+restaurant,Food Services,Pappadeaux,POINT (-97.70478574539354 30.325386950632982),cutlery,green
+restaurant,Food Services,Taco Flats,POINT (-97.75949080186788 30.280077390534625),cutlery,green
+restaurant,Food Services,District Kitchen + Cocktails,POINT (-97.8796223 30.201444),cutlery,green
+pub,Food Services,WhichCraft Tap Room & Bottle Shop,POINT (-97.7044545 30.2971099),beer,green
+restaurant,Food Services,UZeat Restaurant,POINT (-97.7713063 30.4320768),cutlery,green
+restaurant,Food Services,Polvos Interior Mexican Cuisine,POINT (-97.80736694224879 30.25396139314537),cutlery,green
+place_of_worship,Community Services,Austin Ridge Bible Church Southwest,POINT (-97.87778065049096 30.239880562929283),institution,orange
+cafe,Food Services,Starbucks,POINT (-97.7563416 30.3546718),coffee,green
+cafe,Food Services,Starbucks,POINT (-97.7212458 30.4027582),coffee,green
+place_of_worship,Community Services,Church of the New Testament,POINT (-97.70535123845525 30.27953102414604),institution,orange
+restaurant,Food Services,Charm Korean BBQ,POINT (-97.6704441 30.4251444),cutlery,green
+restaurant,Food Services,True Food Kitchen,POINT (-97.7266136 30.4021757),cutlery,green
+restaurant,Food Services,Asia Cafe Sichuan,POINT (-97.7714511 30.4324425),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.878822 30.2026426),coffee,green
+pub,Food Services,Riata Bar and Grill,POINT (-97.7499012 30.428533),beer,green
+restaurant,Food Services,Minh's Cafe,POINT (-97.7504492 30.4287632),cutlery,green
+restaurant,Food Services,Topgolf,POINT (-97.71746349231354 30.39827896741535),cutlery,green
+restaurant,Food Services,Pizza Hut,POINT (-97.6982199 30.4381511),cutlery,green
+cafe,Food Services,Old Rail Coffee Pub,POINT (-97.6978391 30.2611369),coffee,green
+place_of_worship,Community Services,Templo Bethel Pentecostes,POINT (-97.71707722036078 30.257603679331936),institution,orange
+place_of_worship,Community Services,Milwood Baptist Church,POINT (-97.7194745314148 30.42146189515508),institution,orange
+restaurant,Food Services,Tomodachi Sushi,POINT (-97.7169729 30.425422),cutlery,green
+restaurant,Food Services,Love 312 Pizzeria & Wings,POINT (-97.8333508 30.2153228),cutlery,green
+restaurant,Food Services,Tarka Indian Kitchen,POINT (-97.8175705 30.2309283),cutlery,green
+restaurant,Food Services,Bao'd Up,POINT (-97.8176485 30.2308979),cutlery,green
+restaurant,Food Services,Grand Lux Café,POINT (-97.726251 30.4024976),cutlery,green
+restaurant,Food Services,Sushi Koen,POINT (-97.6870291 30.558387),cutlery,green
+theatre,Recreation,Capitol City Comedy Club,POINT (-97.7257507 30.402719),film,red
+restaurant,Food Services,"Snow Pea - Sushi, Chinese & Asian Bistro",POINT (-97.8023233 30.4760328),cutlery,green
+restaurant,Food Services,Lone Star Kolaches,POINT (-97.8333961 30.2153695),cutlery,green
+restaurant,Food Services,Paul Martin's Austin Grill,POINT (-97.7216185 30.4028142),cutlery,green
+place_of_worship,Community Services,Potter's House Christian Church of Austin,POINT (-97.78579229515886 30.452086316187575),institution,orange
+restaurant,Food Services,Thai Cuisine,POINT (-97.7170637 30.4254666),cutlery,green
+restaurant,Food Services,La Familia Mexican Restaurant,POINT (-97.8337514 30.2151205),cutlery,green
+library,Community Services,Austin Public Library - Southeast Branch,POINT (-97.74194426713632 30.187623079653154),book,orange
+restaurant,Food Services,Star Seeds Cafe,POINT (-97.7230412 30.2886161),cutlery,green
+restaurant,Food Services,Daily Grill,POINT (-97.7258494 30.4027966),cutlery,green
+bar,Food Services,Cantina 512,POINT (-97.7390007 30.2585321),beer,green
+restaurant,Food Services,Chinatown,POINT (-97.7473599 30.3565687),cutlery,green
+restaurant,Food Services,China Star Buffet,POINT (-97.70376245251623 30.323141026077874),cutlery,green
+restaurant,Food Services,The Cheesecake Factory,POINT (-97.7475971 30.3909012),cutlery,green
+place_of_worship,Community Services,Tarrytown United Methodist Church,POINT (-97.76508985410348 30.300617153049018),institution,orange
+restaurant,Food Services,The Park at the Domain,POINT (-97.7237293 30.4030394),cutlery,green
+restaurant,Food Services,Bep Saigon,POINT (-97.6718349 30.4161487),cutlery,green
+place_of_worship,Community Services,Mosaic Church South Austin,POINT (-97.81730719445393 30.17055882888047),institution,orange
+cafe,Food Services,The Coffee Bean & Tea Leaf,POINT (-97.79013406134524 30.445840585360244),coffee,green
+place_of_worship,Community Services,Austin Chinese Church,POINT (-97.6677245852638 30.370524788441635),institution,orange
+cinema,Recreation,Regal Metropolitan Stadium 14,POINT (-97.76976938593278 30.198208974464016),film,red
+pub,Food Services,Doc's Backyard,POINT (-97.8178433 30.2306336),beer,green
+bar,Food Services,Workhorse Bar,POINT (-97.7219593 30.3178517),beer,green
+cinema,Recreation,IPIC Theaters,POINT (-97.7279223980027 30.396280354369498),film,red
+bar,Food Services,Half Step,POINT (-97.7386658 30.2584292),beer,green
+restaurant,Food Services,Joi Asian Bistro,POINT (-97.7215648 30.4029698),cutlery,green
+cafe,Food Services,Double Trouble,POINT (-97.722135 30.317485),coffee,green
+place_of_worship,Community Services,Berkeley United Methodist Church,POINT (-97.8083357 30.2098936),institution,orange
+marketplace,Commercial,Drip n Rip Vapes Vapor Electronic Cigarettes Shop,POINT (-97.6675532 30.5189072),shopping-cart,green
+restaurant,Food Services,Chapala #2,POINT (-97.66473307587856 30.444600476406944),cutlery,green
+restaurant,Food Services,Buffalo Wild Wings,POINT (-97.76767977703429 30.196878048891044),cutlery,green
+bar,Food Services,The Tipsy Alchemist,POINT (-97.739041 30.258393),beer,green
+restaurant,Food Services,Santiago's Tex-Mex and Cantina,POINT (-97.69017484630172 30.563550207629678),cutlery,green
+restaurant,Food Services,DoubleDave's Pizza,POINT (-97.7864313 30.4462799),cutlery,green
+bar,Food Services,Cedar Park Pub,POINT (-97.8054463 30.4816933),beer,green
+restaurant,Food Services,IHOP,POINT (-97.7098149267108 30.32051744598072),cutlery,green
+place_of_worship,Community Services,New Life Assembly of God Church,POINT (-97.7950924 30.1866916),institution,orange
+place_of_worship,Community Services,One Chapel Austin,POINT (-97.81264685726707 30.26346378178898),institution,orange
+restaurant,Food Services,Mad Greens,POINT (-97.7988863 30.4692872),cutlery,green
+restaurant,Food Services,Cheddar's,POINT (-97.66673846796506 30.44454201677562),cutlery,green
+restaurant,Food Services,Toulouse,POINT (-97.7215241 30.4030919),cutlery,green
+cafe,Food Services,Cuba Bakery & Café,POINT (-97.6673356 30.5187229),coffee,green
+restaurant,Food Services,Cheddar's,POINT (-97.78774959515168 30.446043921299303),cutlery,green
+pub,Food Services,The Brass Tap,POINT (-97.7268687 30.3959484),beer,green
+pub,Food Services,The Stay Put,POINT (-97.7386839299636 30.25827546903399),beer,green
+restaurant,Food Services,Fleming's Prime Steakhouse and Wine Bar,POINT (-97.7256032 30.4031449),cutlery,green
+place_of_worship,Community Services,Parmer Lane Baptist Church,POINT (-97.68797339978404 30.410196559868428),institution,orange
+cafe,Food Services,Caffe Medici,POINT (-97.7594165888224 30.27951558087614),coffee,green
+place_of_worship,Community Services,Masjid Ibrahim,POINT (-97.89211536646076 30.248231401611545),institution,orange
+restaurant,Food Services,The Dirdie Birdie,POINT (-97.7270812 30.3959797),cutlery,green
+restaurant,Food Services,Jason's Deli,POINT (-97.7917594 30.4588536),cutlery,green
+restaurant,Food Services,Cedar Park Cafe,POINT (-97.8303724 30.4795262),cutlery,green
+bar,Food Services,The Tigress,POINT (-97.7222217 30.3179356),beer,green
+cafe,Food Services,Yogurt Planet,POINT (-97.7275003 30.3959033),coffee,green
+restaurant,Food Services,Ola Poke,POINT (-97.7862576 30.4461457),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.87406926166832 30.23248418530245),coffee,green
+cafe,Food Services,sodade,POINT (-97.7134001 30.4075615),coffee,green
+theatre,Recreation,Zilker Hillside Theater,POINT (-97.77244728326556 30.26444143930959),film,red
+place_of_worship,Community Services,Sweethome Missionary Baptist Church,POINT (-97.7627012566833 30.281195435123546),institution,orange
+library,Community Services,Austin Public Library - St. John Branch,POINT (-97.6937228 30.332052),book,orange
+place_of_worship,Community Services,Austin Buddhist Center - Aloko Udapadi,POINT (-97.63179899130293 30.17063468044524),institution,orange
+cafe,Food Services,Sharetea,POINT (-97.7862149 30.4461154),coffee,green
+restaurant,Food Services,Fire Bowl Cafe,POINT (-97.7992111 30.4689111),cutlery,green
+place_of_worship,Community Services,Saint Julia Catholic Church,POINT (-97.70408899090322 30.26280590044145),institution,orange
+restaurant,Food Services,Marcelino's,POINT (-97.70353785902405 30.26255724811171),cutlery,green
+restaurant,Food Services,Third Base,POINT (-97.67020151338899 30.47779717186975),cutlery,green
+bar,Food Services,Javelina,POINT (-97.7388025 30.2581501),beer,green
+cafe,Food Services,Teapioca Lounge,POINT (-97.6794146 30.4903024),coffee,green
+restaurant,Food Services,Amaya’s Taco Village,POINT (-97.70812494491206 30.31931170779013),cutlery,green
+restaurant,Food Services,Texican Cafe,POINT (-97.7967504 30.2364317),cutlery,green
+restaurant,Food Services,Flower Child,POINT (-97.7215518 30.4037493),cutlery,green
+restaurant,Food Services,Culinary Drop Out,POINT (-97.7216284 30.4035082),cutlery,green
+restaurant,Food Services,Easy Tiger Linc,POINT (-97.7071923 30.3273152),cutlery,green
+restaurant,Food Services,Sushi Junai 2,POINT (-97.7020297 30.4221877),cutlery,green
+restaurant,Food Services,Annapurna Kitchen,POINT (-97.6190099 30.2822618),cutlery,green
+cinema,Recreation,Lake Creek 7,POINT (-97.79140122522234 30.4586938913348),film,red
+restaurant,Food Services,Poke House Round Rock,POINT (-97.6875191 30.5578362),cutlery,green
+place_of_worship,Community Services,Cottonwood Baptist Church,POINT (-97.637511 30.2038513),institution,orange
+place_of_worship,Community Services,Oak Meadow Baptist Church,POINT (-97.77192626859774 30.186059735842985),institution,orange
+restaurant,Food Services,Marco's Pizza,POINT (-97.6774712 30.561989),cutlery,green
+restaurant,Food Services,Fresh Bowl,POINT (-97.65521510692014 30.39844228184093),cutlery,green
+restaurant,Food Services,Buca di Beppo,POINT (-97.806105 30.470812),cutlery,green
+restaurant,Food Services,Sway,POINT (-97.80403615185098 30.276392815601948),cutlery,green
+restaurant,Food Services,Yard House,POINT (-97.7214209 30.4043458),cutlery,green
+restaurant,Food Services,Bacalar,POINT (-97.7390426 30.255648),cutlery,green
+restaurant,Food Services,Waterloo Ice House,POINT (-97.8789401 30.2035018),cutlery,green
+restaurant,Food Services,Galaxy Cafe,POINT (-97.7600581 30.2794133),cutlery,green
+restaurant,Food Services,Fresno Grill,POINT (-97.8300584 30.4796051),cutlery,green
+cafe,Food Services,Annie's,POINT (-97.6700253 30.202292),coffee,green
+restaurant,Food Services,BJ's,POINT (-97.6915941700437 30.56111019359289),cutlery,green
+place_of_worship,Community Services,Main Temple Complex,POINT (-97.61884864627442 30.281782969614586),institution,orange
+place_of_worship,Community Services,United Christian Church,POINT (-97.70925461059961 30.423815138682844),institution,orange
+restaurant,Food Services,California Pizza Kitchen,POINT (-97.8060417 30.2590845),cutlery,green
+restaurant,Food Services,The Burger Bar,POINT (-97.82997 30.4796232),cutlery,green
+place_of_worship,Community Services,Sacred Heart Catholic Church,POINT (-97.6754935532983 30.30452579408857),institution,orange
+cafe,Food Services,Summer Moon,POINT (-97.8698127 30.20047),coffee,green
+library,Community Services,Spicewood Springs Branch,POINT (-97.77311838422867 30.43370804287163),book,orange
+cafe,Food Services,Ruta Maya,POINT (-97.6700843 30.2020949),coffee,green
+restaurant,Food Services,The Melting Pot,POINT (-97.7857806 30.4458842),cutlery,green
+place_of_worship,Community Services,Ganesh Temple,POINT (-97.6186779581475 30.282428550110687),institution,orange
+place_of_worship,Community Services,Yajna Shala,POINT (-97.61867505382233 30.28227490357157),institution,orange
+restaurant,Food Services,Taqueria Los Altos,POINT (-97.7216786 30.2909325),cutlery,green
+restaurant,Food Services,Baby Acapulco,POINT (-97.73771000905938 30.386688547391717),cutlery,green
+restaurant,Food Services,McCormick & Schmick's,POINT (-97.7251257 30.403753),cutlery,green
+place_of_worship,Community Services,Navagraha Mandir,POINT (-97.61866389597414 30.282125481250734),institution,orange
+place_of_worship,Community Services,Church in Austin,POINT (-97.7807877 30.1789628),institution,orange
+cafe,Food Services,Starbucks,POINT (-97.8373142 30.2221147),coffee,green
+restaurant,Food Services,Pizza Twist,POINT (-97.6718269 30.4775418),cutlery,green
+place_of_worship,Community Services,Bethany United Methodist Church,POINT (-97.7993011 30.4476034),institution,orange
+place_of_worship,Community Services,Guru Mandir - Sai Baba Temple,POINT (-97.61870724461879 30.281496487303937),institution,orange
+place_of_worship,Community Services,Unity,POINT (-97.79666964615497 30.44533609030869),institution,orange
+restaurant,Food Services,Nala's,POINT (-97.81375662674365 30.234236945161847),cutlery,green
+place_of_worship,Community Services,Red Rocks Church,POINT (-97.69807650910161 30.336836561532024),institution,orange
+restaurant,Food Services,La Madelaine,POINT (-97.819725 30.2296069),cutlery,green
+place_of_worship,Community Services,Solid Rock Missionary Baptist Church of Austin,POINT (-97.68435931994252 30.256577704708818),institution,orange
+cafe,Food Services,Summer Moon Coffee,POINT (-97.67212959464968 30.414771479995412),coffee,green
+place_of_worship,Community Services,The Unitarian Universalist Fellowship Church of Austin,POINT (-97.7777831 30.2213209),institution,orange
+restaurant,Food Services,Aleida's,POINT (-97.8297037 30.4797771),cutlery,green
+restaurant,Food Services,Besos Cocina & Cantina,POINT (-97.67005410319238 30.47723507945642),cutlery,green
+place_of_worship,Community Services,Vietnamese Alliance Church,POINT (-97.70078269622066 30.383788212046362),institution,orange
+restaurant,Food Services,Poke-E-Joes,POINT (-97.797258 30.2370431),cutlery,green
+place_of_worship,Community Services,Nagendra Swami,POINT (-97.6184301 30.282122),institution,orange
+place_of_worship,Community Services,Fontaine Memorial Baptist Church,POINT (-97.68692459596936 30.27104903449854),institution,orange
+restaurant,Food Services,Bluefin Sushi Bar and Ramen,POINT (-97.8211753 30.2292228),cutlery,green
+restaurant,Food Services,IHOP,POINT (-97.67074171075886 30.4338000099819),cutlery,green
+restaurant,Food Services,Launderette,POINT (-97.72274963731476 30.25187751818181),cutlery,green
+restaurant,Food Services,Villa Fresh Italian Kitchen,POINT (-97.8068038 30.4707462),cutlery,green
+restaurant,Food Services,Pluckers Wing Bar,POINT (-97.80356725701026 30.468470696394544),cutlery,green
+restaurant,Food Services,Eldorado Cafe,POINT (-97.7423083 30.3621876),cutlery,green
+restaurant,Food Services,Emmer & Rye,POINT (-97.7391601 30.2574801),cutlery,green
+restaurant,Food Services,Ho's Kitchen,POINT (-97.8294994 30.4797907),cutlery,green
+bar,Food Services,I Vini,POINT (-97.67056034977418 30.202185165194237),beer,green
+restaurant,Food Services,Maggiore's,POINT (-97.8302693 30.4818293),cutlery,green
+restaurant,Food Services,Pour House,POINT (-97.75532517452453 30.4228928863625),cutlery,green
+restaurant,Food Services,Salvation Pizza,POINT (-97.7393772 30.2568694),cutlery,green
+bar,Food Services,Standard Proof Whiskey Co - Austin,POINT (-97.7394142 30.2567616),beer,green
+restaurant,Food Services,Potato Club,POINT (-97.8069903 30.4707562),cutlery,green
+restaurant,Food Services,Jardin Corona,POINT (-97.786557 30.4451874),cutlery,green
+restaurant,Food Services,Pizza Hut,POINT (-97.6533117 30.5721761),cutlery,green
+cafe,Food Services,Starbucks,POINT (-97.8069306 30.4705954),coffee,green
+restaurant,Food Services,RedBrick Pizza,POINT (-97.7324885 30.3895722),cutlery,green
+restaurant,Food Services,Bombshells,POINT (-97.66646850639519 30.445666284387833),cutlery,green
+restaurant,Food Services,Japan Cafe,POINT (-97.8070574 30.4707185),cutlery,green
+events_venue,Recreation,Banquet Hall,POINT (-97.62139636684054 30.29553490789258),institution,orange
+cafe,Food Services,TruBoba Cafe,POINT (-97.6532347 30.5722469),coffee,green
+place_of_worship,Community Services,Little Zion Baptist Church,POINT (-97.55456195527589 30.33764697715637),institution,orange
+restaurant,Food Services,Haru Sushi,POINT (-97.7418717 30.3868224),cutlery,green
+cafe,Food Services,Epoch Coffee,POINT (-97.7245043 30.3185317),coffee,green
+cafe,Food Services,Epoch Coffee,POINT (-97.760577 30.3572945),coffee,green
+restaurant,Food Services,China Wall Restaurant,POINT (-97.6803526 30.4898658),cutlery,green
+place_of_worship,Community Services,Austin Buddhist Vihara,POINT (-97.66279112835305 30.44523942750119),institution,orange
+place_of_worship,Community Services,Austin Korean Presbyterian Church,POINT (-97.66647192672202 30.394226789871958),institution,orange
+restaurant,Food Services,Banh mi ngon,POINT (-97.6531618 30.5723247),cutlery,green
+place_of_worship,Community Services,Grace Way Church Austin,POINT (-97.7892625 30.453963),institution,orange
+restaurant,Food Services,Southside Market & Barbeque,POINT (-97.7333692 30.3894932),cutlery,green
+bar,Food Services,Moontower Saloon,POINT (-97.8266605 30.1692713),beer,green
+theatre,Recreation,AFS Cinema,POINT (-97.707802 30.3264145),film,red
+place_of_worship,Community Services,Imani Community Church,POINT (-97.7409255094179 30.417333988616857),institution,orange
+restaurant,Food Services,Y'alls Down-Home Southern Cafe,POINT (-97.6803651 30.4897452),cutlery,green
+place_of_worship,Community Services,Shepherd of the Hills Lutheran Church,POINT (-97.80549192565728 30.276276531639084),institution,orange
+place_of_worship,Community Services,Kingdom Hall of Jehovah's Witnesses,POINT (-97.6837704203367 30.25570558854731),institution,orange
+restaurant,Food Services,Jet's Pizza,POINT (-97.830118 30.4821439),cutlery,green
+place_of_worship,Community Services,Grant AME Worship Center,POINT (-97.70422180833044 30.38523616284298),institution,orange
+bar,Food Services,Night Owl Bar,POINT (-97.6530858 30.5723945),beer,green
+restaurant,Food Services,Phil's Philly Grill,POINT (-97.8072075 30.4705829),cutlery,green
+restaurant,Food Services,Fogueira Gaúcha Brazilian Steakhouse,POINT (-97.6799366 30.4891332),cutlery,green
+restaurant,Food Services,WhipIn,POINT (-97.7394025 30.2381148),cutlery,green
+restaurant,Food Services,ramen512,POINT (-97.8300854 30.4822129),cutlery,green
+restaurant,Food Services,Ros Niyom Thai,POINT (-97.6799186 30.4890152),cutlery,green
+events_venue,Recreation,The Grove,POINT (-97.6791580083795 30.513279167137778),institution,orange
+restaurant,Food Services,Hecho En Mexico,POINT (-97.8633323 30.2284117),cutlery,green
+restaurant,Food Services,Kababji Grill,POINT (-97.6529328 30.5725298),cutlery,green
+place_of_worship,Community Services,Centro Adonai,POINT (-97.7885447 30.4542492),institution,orange
+restaurant,Food Services,Main Event,POINT (-97.78453695339081 30.445561745592624),cutlery,green
+restaurant,Food Services,Luv Thai Cuisine,POINT (-97.8154884 30.2301175),cutlery,green
+events_venue,Recreation,Travis County Exposition Center,POINT (-97.62086964924356 30.294930095485498),institution,orange
+restaurant,Food Services,Keepers Coastal Kitchen,POINT (-97.8680616 30.2000326),cutlery,green
+place_of_worship,Community Services,Nineteenth Street Baptist Church,POINT (-97.67684631326449 30.301763022378097),institution,orange
+restaurant,Food Services,Arepitas,POINT (-97.6610844 30.4810733),cutlery,green
+restaurant,Food Services,Asadas Grill,POINT (-97.67200002794267 30.402646012256465),cutlery,green
+restaurant,Food Services,Ojos Locos Sports Cantina,POINT (-97.7022845577235 30.33704936218581),cutlery,green
+place_of_worship,Community Services,Macedonia Baptist Church,POINT (-97.67966210675418 30.271719683240217),institution,orange
+restaurant,Food Services,Razoo's Cajun Cafe,POINT (-97.688029 30.5566271),cutlery,green
+restaurant,Food Services,Chuck E. Cheese,POINT (-97.78895490631105 30.15813060141091),cutlery,green
+restaurant,Food Services,Joe's Crab Shack,POINT (-97.67461240836164 30.48715085698118),cutlery,green
+place_of_worship,Community Services,St. Mark's Episcopal Church,POINT (-97.78573526306876 30.253452161997735),institution,orange
+place_of_worship,Community Services,Saint John Vianney Catholic Church,POINT (-97.67360490432159 30.545709852983496),institution,orange
+restaurant,Food Services,Marie Callender's,POINT (-97.74163177339076 30.385981088512377),cutlery,green
+restaurant,Food Services,Garbo's,POINT (-97.70208610407877 30.423703732464404),cutlery,green
+restaurant,Food Services,A+A Sichuan China,POINT (-97.7890813 30.4444398),cutlery,green
+restaurant,Food Services,Cover 2,POINT (-97.79138927022609 30.457187195731564),cutlery,green
+restaurant,Food Services,Salata,POINT (-97.7329038 30.3888001),cutlery,green
+restaurant,Food Services,Fortune Garden,POINT (-97.6869028 30.5562754),cutlery,green
