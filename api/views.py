@@ -79,8 +79,8 @@ def determine_stops_and_pois(request):
             'latitude': row.geometry.y,
             'longitude': row.geometry.x,
             # URL to easily open POI location in Google Maps. Reference: https://developers.google.com/maps/documentation/urls/get-started
-            "map_url": f"https://www.google.com/maps/search/?api=1&query={row.geometry.y}%2C{row.geometry.x}",
-            'stop_name': row['stop_name'],
+            "map_url": f"https://www.google.com/maps/search/?api=1&query={row['name']}+{row.geometry.y}%2C{row.geometry.x}",
+			'stop_name': row['stop_name'],
             'route_id': row['route_id'],
             'num_stops_away': row['num_stops_away'],
             'name': row['name'],
