@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-gv^8j5z!506-r(6m$%_@em-lw!t@$*gl2kbzny=@$nu-zc!)6e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'onebus.us-east-2.elasticbeanstalk.com','onebus-oa.onrender.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'onebus.us-east-2.elasticbeanstalk.com']
 
 
 # Application definition
@@ -38,12 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'api.apps.ApiConfig',
-    # 'corsheaders',
-
 ]
 
 MIDDLEWARE = [
-    # 'corsheaders.middleware.CorsMiddleware', 
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -52,9 +49,6 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
-
-CORS_ALLOW_ALL_ORIGINS = True
-CORS_ALLOW_CREDENTIALS = True
 
 ROOT_URLCONF = 'onebus.urls'
 
@@ -127,4 +121,3 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-
